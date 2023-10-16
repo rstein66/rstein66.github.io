@@ -1,10 +1,5 @@
 # OLD README
 
-A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
-If you like the theme, give it a star!
-
-[![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
-
 ## Table Of Contents
 <!-- MarkdownTOC -->
 
@@ -92,11 +87,11 @@ Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0
 
 **For personal and organization webpages:**
 
-1. The name of your repository **MUST BE** `<your-github-username>.github.io` or `<your-github-orgname>.github.io`.
-2. In `_config.yml`, set `url` to `https://<your-github-username>.github.io` and leave `baseurl` empty.
-3. Set up automatic deployment of your webpage (see instructions below).
-4. Make changes, commit, and push!
-5. After deployment, the webpage will become available at `<your-github-username>.github.io`.
+- [x] The name of your repository **MUST BE** `<your-github-username>.github.io` or `<your-github-orgname>.github.io`.
+- [x] In `_config.yml`, set `url` to `https://<your-github-username>.github.io` and leave `baseurl` empty.
+- [ ] Set up automatic deployment of your webpage (see instructions below).
+- [ ] Make changes, commit, and push!
+- [ ] After deployment, the webpage will become available at `<your-github-username>.github.io`.
 
 **For project pages:**
 
@@ -107,74 +102,17 @@ Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0
 
 **To enable automatic deployment:**
 
-1. Click on **Actions** tab and **Enable GitHub Actions**; do not worry about creating any workflows as everything has already been set for you.
-2. Go to Settings -> Actions -> General -> Workflow permissions, and give **Read and write permissions** to GitHub Actions
-3. Make any other changes to your webpage, commit, and push. This will automatically trigger the **Deploy** action.
-4. Wait for a few minutes and let the action complete. You can see the progress in the **Actions** tab. If completed successfully, in addition to the `master` branch, your repository should now have a newly built `gh-pages` branch.
-5. Finally, in the **Settings** of your repository, in the Pages section, set the branch to `gh-pages` (**NOT** to `master`). For more details, see [Configuring a publishing source for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source).
+- [x] Click on **Actions** tab and **Enable GitHub Actions**; do not worry about creating any workflows as everything has already been set for you.
+- [x] Go to Settings -> Actions -> General -> Workflow permissions, and give **Read and write permissions** to GitHub Actions
+- [ ] Make any other changes to your webpage, commit, and push. This will automatically trigger the **Deploy** action.
+- [ ] Wait for a few minutes and let the action complete. You can see the progress in the **Actions** tab. If completed successfully, in addition to the `master` branch, your repository should now have a newly built `gh-pages` branch.
+- [x] Finally, in the **Settings** of your repository, in the Pages section, set the branch to `gh-pages` (**NOT** to `master`). For more details, see [Configuring a publishing source for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source).
 
 If you keep your site on another branch, open `.github/workflows/deploy.yml` **on the branch you keep your website on** and change on->push->branches and on->pull\_request->branches to the branch you keep your website on. This will trigger the action on pulls/pushes on that branch. The action will then deploy the website on the branch it was triggered from.
 
 <details><summary>(click to expand) <strong>Manual deployment to GitHub Pages:</strong></summary>
 
 If you need to manually re-deploy your website to GitHub pages, go to Actions, click "Deploy" in the left sidebar, then "Run workflow."
-
-</details>
-
-<details><summary>(click to expand) <strong>Deployment to another hosting server (non GitHub Pages):</strong></summary>
-
-If you decide to not use GitHub Pages and host your page elsewhere, simply run:
-
-```bash
-$ bundle exec jekyll build --lsi
-```
-
-which will (re-)generate the static webpage in the `_site/` folder.
-Then simply copy the contents of the `_site/` directory to your hosting server.
-
-If you also want to remove unused css classes from your file, run:
-
-```bash
-$ purgecss -c purgecss.config.js
-```
-
-which will replace the css files in the `_site/assets/css/` folder with the purged css files.
-
-**Note:** Make sure to correctly set the `url` and `baseurl` fields in `_config.yml` before building the webpage. If you are deploying your webpage to `your-domain.com/your-project/`, you must set `url: your-domain.com` and `baseurl: /your-project/`. If you are deploying directly to `your-domain.com`, leave `baseurl` blank.
-
-</details>
-
-<details><summary>(click to expand) <strong>Deployment to a separate repository (advanced users only):</strong></summary>
-
-**Note:** Do not try using this method unless you know what you are doing (make sure you are familiar with [publishing sources](https://help.github.com/en/github/working-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites)). This approach allows to have the website's source code in one repository and the deployment version in a different repository.
-
-Let's assume that your website's publishing source is a `publishing-source` subdirectory of a git-versioned repository cloned under `$HOME/repo/`.
-For a user site this could well be something like `$HOME/<user>.github.io`.
-
-Firstly, from the deployment repo dir, checkout the git branch hosting your publishing source.
-
-Then from the website sources dir (commonly your al-folio fork's clone):
-
-```bash
-$ bundle exec jekyll build --lsi --destination $HOME/repo/publishing-source
-```
-
-This will instruct jekyll to deploy the website under `$HOME/repo/publishing-source`.
-
-**Note:** Jekyll will clean `$HOME/repo/publishing-source` before building!
-
-The quote below is taken directly from the [jekyll configuration docs](https://jekyllrb.com/docs/configuration/options/):
-
-> Destination folders are cleaned on site builds
->
-> The contents of `<destination>` are automatically cleaned, by default, when the site is built. Files or folders that are not created by your site will be removed. Some files could be retained by specifying them within the `<keep_files>` configuration directive.
->
-> Do not use an important location for `<destination>`; instead, use it as a staging area and copy files from there to your web server.
-
-If `$HOME/repo/publishing-source` contains files that you want jekyll to leave untouched, specify them under `keep_files` in `_config.yml`.
-In its default configuration, al-folio will copy the top-level `README.md` to the publishing source. If you want to change this behavior, add `README.md` under `exclude` in `_config.yml`.
-
-**Note:** Do _not_ run `jekyll clean` on your publishing source repo as this will result in the entire directory getting deleted, irrespective of the content of `keep_files` in `_config.yml`.
 
 </details>
 
