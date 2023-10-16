@@ -837,6 +837,14 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post {
+  h3 {
+    color: var(--global-text-color-light);
+    font-size: 1.5rem;
+    // text-transform: uppercase;
+    padding-top: 0.75rem;
+    padding-bottom: 0.25rem;
+  }
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
