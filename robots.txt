@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rstein66.github.io//sitemap.xml
+Sitemap: https://rstein66.github.io/sitemap.xml
