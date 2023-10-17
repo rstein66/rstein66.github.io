@@ -4,7 +4,7 @@ title: project 1
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 2
-category: edct-2501
+category: fun
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
 

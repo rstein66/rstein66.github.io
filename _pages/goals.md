@@ -6,7 +6,9 @@ description:
 nav: true
 nav_order: 1
 ---
-<!-- _pages/goals.md -->
+
+> 🚧 Please excuse my appearance. This site's structure is a work in progress.
+
 <div class="goals">
 
 <li>

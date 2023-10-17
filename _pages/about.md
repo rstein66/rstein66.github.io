@@ -16,8 +16,25 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+> 🚧 Please excuse my appearance. This site's structure is a work in progress.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/icons) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- I am passionate about software development and education. I am drawn to how they are well-suited to work together to foster an open, collaborative and dynamic culture, and focus on implementing creative and practical solutions for real-world challenges.  -->
+
+
+In fall 2023, I started a one-year MA program in [Specialized Studies in Education](https://steinhardt.nyu.edu/degree/specialized-studies-education) at New York University. The program allows me to design my studies. I focus on how technology can enhance, rather than replace, in-person learning in non-formal education spaces (such as museums and libraries).
+
+<!-- ### Professional Background
+
+<details>
+<br />
+I graduated from Swarthmore College in 2015 with a degree in Computer Science and minors in Art History and Educational Studies.
+I have worked primarily as a full-stack developer on projects, including building an iOS app for a national food delivery company, rebuilding a U.S. DoD system tracking new recruits, and modernizing a telemedicine communication tool. At my last company, I focused on backend development, which included Ruby on Rails development, database support, and site stability. Before that, I worked for several years as a software consultant. I valued the opportunities to practice the crafts of software development, project management, and client-facing communication skills in an array of tech stacks and company cultures.
+</details>
+  
+
+### Fun Facts
+
+
+
+### How do I see narrative as a designer, user or storyteller? -->

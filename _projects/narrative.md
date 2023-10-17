@@ -1,7 +1,7 @@
 ---
 layout: page
 title: narrative
-description: Narrative, Digital Media, and Learning course project page
+description: Narrative, Digital Media, and Learning course project page TEMPLATE
 img: assets/img/1.jpg
 importance: 1
 category: edct-2501
@@ -18,6 +18,7 @@ category: edct-2501
 - [Learning Goals](#learning-goals)
 - [Learning theories](#learning-theories)
 - [Prototype](#prototype)
+- [Acknowledgments and Resources](#acknowledgments-and-resources)
 
 <!-- /MarkdownTOC -->
 
@@ -67,3 +68,8 @@ _What theories undergird your choices about this project._
 
 _This is the piece of media or image that represents your idea and your narrative for the week._
 
+
+
+### Acknowledgments and Resources
+
+*  
