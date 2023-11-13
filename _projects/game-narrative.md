@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Template
-description: Narrative, Digital Media, and Learning course project page TEMPLATE
+description: Narrative in Games
 img: assets/img/1.jpg
 importance: 1
 category: edct-2510

@@ -24,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 
 In fall 2023, I started a one-year MA program in [Specialized Studies in Education](https://steinhardt.nyu.edu/degree/specialized-studies-education) at New York University. The program allows me to design my studies. I focus on how technology can enhance, rather than replace, in-person learning in non-formal education spaces (such as museums and libraries).
 
-<!-- ### Professional Background
+<!-- ### Professional Background 
 
 <details>
 <br />
@@ -34,7 +34,4 @@ I have worked primarily as a full-stack developer on projects, including buildin
   
 
 ### Fun Facts
-
-
-
-### How do I see narrative as a designer, user or storyteller? -->
+-->
