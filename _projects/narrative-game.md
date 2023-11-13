@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Course Template
+title: Brooklyn Kids
 description: Narrative in Games
-img: assets/img/1.jpg
+img: assets/img/brooklyn-kids-tunnel.png
 importance: 1
 category: edct-2510
 ---
@@ -21,6 +21,8 @@ category: edct-2510
 - [Acknowledgments and Resources](#acknowledgments-and-resources)
 
 <!-- /MarkdownTOC -->
+
+> 🎵 **Click [here](https://github.com/rstein66/brooklyn-kids) to see code.**
 
 
 ### Concept Overview
@@ -66,10 +68,19 @@ _What theories undergird your choices about this project._
 
 ### Prototype
 
-_This is the piece of media or image that represents your idea and your narrative for the week._
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://youtu.be/lYl_9Myju_o" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://youtu.be/BltOP3q2L_E" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+    Above are screen recordings of the game, which includes audio. Please watch videos left to right.
+</div>
 
 
 ### Acknowledgments and Resources
 
-*  
+*  Click [here](https://github.com/rstein66/brooklyn-kids#attribution)
