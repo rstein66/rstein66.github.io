@@ -68,7 +68,7 @@ _What theories undergird your choices about this project._
 
 ### Prototype
 
-<!-- <div class="row mt-3">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="https://youtu.be/lYl_9Myju_o" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
@@ -78,7 +78,7 @@ _What theories undergird your choices about this project._
 </div>
 <div class="caption">
     Above are screen recordings of the game, which includes audio. Please watch videos left to right.
-</div> -->
+</div>
 
 
 ### Acknowledgments and Resources
