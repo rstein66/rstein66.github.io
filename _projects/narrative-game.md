@@ -2,7 +2,7 @@
 layout: page
 title: Brooklyn Kids
 description: Narrative in Games
-img: assets/img/brooklyn-kids-tunnel.png
+img: assets/img/edct-2510/brooklyn-kids-tunnel.png
 importance: 1
 category: edct-2510
 ---
@@ -27,6 +27,8 @@ category: edct-2510
 
 ### Concept Overview
 
+<!-- "Brooklyn Kids" allows children to choose their own adventures when to explore the  -->
+
 _This is the big picture of what you are trying to achieve with the project. 
 (Ex: Young adults struggle with self-worth and mental health challenges. 
 This project uses a game where emotions like coping, optimism and asking for help are a part of the learning)._
@@ -50,7 +52,16 @@ Perhaps you tell a little about why you think this works for your audience._
 
 ### Target Audience
 
-_Describe a sentence or two about your audience - be specific._
+Children (approximately 4-8 years old) who have recently, or will so, 
+visit the [Brooklyn Children's Museum](https://www.brooklynkids.org/) in [Brooklyn, New York](https://maps.app.goo.gl/rYMesQ8Xb2M3hkEx8). 
+  
+
+_Proof of concept v. long-term vision:_
+
+- The next development step is for the game's menu options to be read out-loud to 
+avoid assumptions about the children's reading skills. 
+- While the PoC's narration and subtitles are in \[Standard American\] English, 
+the game generation framework (Ren'Py) used offers [multi-language support](https://www.renpy.org/doc/html/translation.html).
 
 
 
@@ -70,16 +81,18 @@ _What theories undergird your choices about this project._
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://youtu.be/lYl_9Myju_o" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include figure.html path="assets/img/edct-2510/brooklyn-kids-game-flow.png" title="Game flow & corresponding videos" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://youtu.be/BltOP3q2L_E" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.html path="https://youtube.com/embed/lYl_9Myju_o" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://youtube.com/embed/BltOP3q2L_E" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 <div class="caption">
-    Above are screen recordings of the game, which includes audio. Please watch videos left to right.
+    <a href="https://github.com/rstein66/brooklyn-kids/blob/main/game/script.rpy" target="_blank">Script</a>'s flowchart (left), followed by screen recordings with audio: video 1 (middle) & video 2 (right). Please watch in order.
 </div>
-
 
 ### Acknowledgments and Resources
 
