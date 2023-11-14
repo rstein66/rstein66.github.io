@@ -22,7 +22,7 @@ category: edct-2510
 
 <!-- /MarkdownTOC -->
 
-> 🎵 **Click [here](https://github.com/rstein66/brooklyn-kids) to see code.**
+> 📎 **Click [here](https://github.com/rstein66/brooklyn-kids) to see code.**
 
 
 ### Concept Overview
@@ -91,7 +91,7 @@ _What theories undergird your choices about this project._
     </div>
 </div>
 <div class="caption">
-    <a href="https://github.com/rstein66/brooklyn-kids/blob/main/game/script.rpy" target="_blank">Script</a>'s flowchart (left), followed by screen recordings with audio: video 1 (middle) & video 2 (right). Please watch in order.
+    <a href="https://github.com/rstein66/brooklyn-kids/blob/main/game/script.rpy" target="_blank">Script</a> flowchart (left), followed by screen recordings with audio: video 1 (middle) & video 2 (right). Please watch in order.
 </div>
 
 ### Acknowledgments and Resources

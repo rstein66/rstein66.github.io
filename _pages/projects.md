@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: 
 nav: true
@@ -9,7 +9,7 @@ display_categories: [edct-2510]
 horizontal: false
 ---
 
-> 🚧 Please excuse my appearance. This site's structure is a work in progress.
+> 🚧 Please excuse my appearance. This site is under active develop.
 
 <!-- pages/projects.md -->
 <div class="projects">
