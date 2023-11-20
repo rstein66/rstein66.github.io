@@ -9,8 +9,6 @@ display_categories: [edct-2510]
 horizontal: false
 ---
 
-> 🚧 Please excuse my appearance. This site is under active develop.
-
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}

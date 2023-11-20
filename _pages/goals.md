@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /goals/
-title: goals
+title: Goals
 description: 
-nav: true
+nav: false
 nav_order: 1
 ---
 
-> 🚧 Please excuse my appearance. This site's structure is a work in progress.
+> 🚧 Please excuse my appearance. This site is a work in progress.
 
 <div class="goals">
 

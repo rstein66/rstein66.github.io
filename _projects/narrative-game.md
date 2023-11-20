@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brooklyn Kids
-description: Narrative in Games
+description: Narrative and Games
 img: assets/img/edct-2510/brooklyn-kids-tunnel.png
 importance: 1
 category: edct-2510

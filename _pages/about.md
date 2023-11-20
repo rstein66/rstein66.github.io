@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: NYU Graduate Student
 
@@ -15,8 +15,6 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-
-> 🚧 Please excuse my appearance. This site's structure is a work in progress.
 
 
 <!-- I am passionate about software development and education. I am drawn to how they are well-suited to work together to foster an open, collaborative and dynamic culture, and focus on implementing creative and practical solutions for real-world challenges.  -->
