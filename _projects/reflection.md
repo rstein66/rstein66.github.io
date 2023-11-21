@@ -38,4 +38,5 @@ And now that I am back in school and taking this course? I am excited to learn a
 
 ### Acknowledgments
 
-* Page images modified from work by [Lina Kivaka from Pexels](https://www.pexels.com/photo/person-reading-a-book-1741230/)
+- This page was created for NYU's graduate school course [Narrative, Digital Media and Learning](https://steinhardt.nyu.edu/courses/narrative-digital-media-and-learning).
+- Page images modified from work by [Lina Kivaka from Pexels](https://www.pexels.com/photo/person-reading-a-book-1741230/)

@@ -62,6 +62,7 @@ _What do you want your learners to know or be able to do after engaging with you
 
 _What theories undergird your choices about this project._
 
+-  
 
 
 ### Prototype
@@ -72,4 +73,5 @@ _This is the piece of media or image that represents your idea and your narrativ
 
 ### Acknowledgments and Resources
 
-*  
+- This project was initially created for NYU's graduate school course [Narrative, Digital Media and Learning](https://steinhardt.nyu.edu/courses/narrative-digital-media-and-learning).  
+-  
