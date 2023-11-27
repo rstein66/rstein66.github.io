@@ -88,14 +88,14 @@ After engaging with the project, I want players to
   
 ### Learning Theories
 
-::TODO::
-
-- **Dual Coding Theory**
+- **[Constructivist Theory](https://www.instructionaldesign.org/theories/constructivist/) –** The "choose your own adventure" format allows users to take ownership of their own discovery, including the pace of learning.
+  
+- **[Dual Coding Theory](https://www.instructionaldesign.org/theories/dual-coding) –** The inclusion of images, captions, and narration allows users to process the content both visually and verbally to enhance comprehension and recall. 
 
 
 ### Concept Description
 
-I chose to use the game generation framework Ren'Py, which I learned about from classmates who demoed it. Its website [explains](https://www.renpy.org/why.html) that "Ren'Py is a free and cross platform engine for digital storytelling." Largely because I previously worked as a software developer, I found it an intuitive, flexible, and fast way to create a game. 
+I chose to use the game generation framework Ren'Py, which I learned about from classmates' demo. Its website [explains](https://www.renpy.org/why.html) that "Ren'Py is a free and cross platform engine for digital storytelling." Largely because I previously worked as a software developer, I found it an intuitive, flexible, and fast way to create a game. 
 
   
 ### Prototype
