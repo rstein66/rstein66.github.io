@@ -95,7 +95,7 @@ After engaging with the project, I want players to
 
 ### Concept Description
 
-I chose to use the game generation framework Ren'Py, which I learned about from classmates' demo. Its website [explains](https://www.renpy.org/why.html) that "Ren'Py is a free and cross platform engine for digital storytelling." Largely because I previously worked as a software developer, I found it an intuitive, flexible, and fast way to create a game. 
+I chose to use the game generation framework Ren'Py, which I learned about from classmates' demo. Its website [explains](https://www.renpy.org/why.html) that "Ren'Py is a free and cross platform engine for digital storytelling." Largely because I previously worked as a software developer, I found it an intuitive, flexible, and fast way to create a game prototype. 
 
   
 ### Prototype
