@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Course Template
+title: Narrative Course Template
 description: Narrative, Digital Media, and Learning course project page TEMPLATE
 img: assets/img/1.jpg
-importance: 1
+importance: 5
 category: edct-2510-hide
 ---
 
@@ -73,12 +73,16 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <a href="/assets/img/5-1400.webp">
+            {% include figure.html path="assets/img/5.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    ::ADD A CAPTION!::
 </div>
+
+
 
 ### Acknowledgments and Resources
 
