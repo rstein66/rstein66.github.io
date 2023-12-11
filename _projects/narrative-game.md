@@ -91,6 +91,10 @@ After engaging with the project, I want players to
 - **[Constructivist Theory](https://www.instructionaldesign.org/theories/constructivist/) –** The "choose your own adventure" format allows users to take ownership of their own discovery, including the pace of learning.
   
 - **[Dual Coding Theory](https://www.instructionaldesign.org/theories/dual-coding) –** The inclusion of images, captions, and narration allows users to process the content both visually and verbally to enhance comprehension and recall. 
+  
+- **[Scaffolding](https://www.gcu.edu/blog/teaching-school-administration/what-scaffolding-in-education-how-applied) –**  The game allows users to learn about the museum before and/or after they visit.  
+  
+- **[Situated Learning](https://www.instructionaldesign.org/theories/situated-learning/) –** The game helps users situate themselves in the exhibits, virtually or in-person, to feel more embedded in the experiences offered by the museum.
 
 
 ### Concept Description
