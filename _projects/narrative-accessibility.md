@@ -4,7 +4,7 @@ title: Narrative Course Template
 description: Narrative, Digital Media, and Learning course project page TEMPLATE
 img: assets/img/1.jpg
 importance: 5
-category: edct-2510-hide
+category: [fall-2024-hide, edct-2510-hide]
 ---
 
 **Contents:**

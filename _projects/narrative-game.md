@@ -4,7 +4,7 @@ title: Brooklyn Kids
 description: Explore the Brooklyn Children's Museum by game.
 img: assets/img/edct-2510/brooklyn-kids/bk-tunnel-with-otter.png
 importance: 1
-category: edct-2510
+category: [fall-2024, edct-2510]
 ---
 
 **Contents:**

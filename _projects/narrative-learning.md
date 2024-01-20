@@ -2,9 +2,9 @@
 layout: page
 title: Hiking from Maine to Georgia 
 description: Narrative and Learning
-img: assets/img/1.jpg
+img: assets/img/edct-2510/thruhike/selfie-maine-state-line.jpeg
 importance: 5
-category: edct-2510-hide
+category: [fall-2024-hide, edct-2510-hide]
 ---
 
 **Contents:**
@@ -33,9 +33,7 @@ This project uses a game where emotions like coping, optimism and asking for hel
 
 ### Statement of Need
 
-<!-- Statement of Need/Problem or Design Challenge
-
-_What are you trying to solve?_ -->
+After finishing my undergraduate degree, I hiked from Maine to Georgia on the 2,200 mile 
 
 
 
@@ -62,19 +60,22 @@ _What are you trying to solve?_ -->
 
 ### Concept Description
 
-<!-- _Tell me here about the overall project and why you chose the media for this project. 
-Perhaps you tell a little about why you think this works for your audience._ -->
-
+I will create an [Articulate 360](https://www.articulate.com/360/) Rise 360 [microlearning](https://community.articulate.com/articles/rise-360-create-new-microlearning) project about my Appalachian Trail thru-hike. The software makes it easy to quickly create customized and engaging presentations multimedia. In addition the listicle  pictured the prototype below, I will include interactive elements. For example, I will use Articulate's flashcard feature to introduce common trail terms like sobo, which means to hike southbound (north to south).
 
 
 ### Prototype
 
 <!-- _This is the piece of media or image that represents your idea and your narrative for the week._ -->
 
-<div class="row">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="/assets/img/edct-2510/pexels-fox-book-1400.webp">
-            {% include figure.html path="assets/img/edct-2510/pexels-fox-book.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" %}
+        <a href="/assets/img/edct-2510/thruhike/sobo-uncommon-p1-1400.webp">
+            {% include figure.html path="assets/img/edct-2510/thruhike/sobo-uncommon-p1.png" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="/assets/img/edct-2510/thruhike/sobo-uncommon-p2-1400.webp">
+            {% include figure.html path="assets/img/edct-2510/thruhike/sobo-uncommon-p2.png" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
 </div>

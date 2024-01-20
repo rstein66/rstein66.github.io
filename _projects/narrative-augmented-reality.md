@@ -4,7 +4,7 @@ title: Spectrum of Extinction
 description: Narrative and Augmented Reality
 img: assets/img/edct-2510/extinction-spectrum/spectrum-of-life-wall.jpeg
 importance: 1
-category: edct-2510-hide
+category: [fall-2024, edct-2510]
 ---
 
 **Contents:**
