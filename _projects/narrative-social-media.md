@@ -4,7 +4,7 @@ title: Socrates
 description: Narrative and Social Media
 img: assets/img/1.jpg
 importance: 1
-category: [fall-2024, edct-2510-hide]
+category: [fall-2024-hide, edct-2510-hide]
 ---
 
 **Contents:**
