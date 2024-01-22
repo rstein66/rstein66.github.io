@@ -15,9 +15,8 @@ category: [fall-2024, edct-2510]
 - [Statement of Need](#statement-of-need)
 - [Target Audience](#target-audience)
 - [Learning Goals](#learning-goals)
-- [Learning Theories](#learning-theories)
-- [Concept Description](#concept-description)
 - [Prototype](#prototype)
+- [Concept Description](#concept-description)
 - [Acknowledgments](#acknowledgments)
 - [Additional Resources](#additional-resources)
 
@@ -34,7 +33,7 @@ category: [fall-2024, edct-2510]
 
 ### Concept Overview
 
-It is difficult to understate the catastrophic devastation of human activity on Earth's biodiversity, especially in the last several hundred years. This human-driven annihilation is often called the "sixth extinction"<sup> [\[1\]](#extinction-resources)</sup>.  The Spectrum of Extinction (SoE) project forefronts this extinction to visitors to New York City's world-famous [American Museum of Natural History](https://www.amnh.org/) (AMNH), one of the renowned museum's most iconic permanent exhibitions, the [Spectrum of Life](https://www.amnh.org/exhibitions/permanent/biodiversity/spectrum-of-life") (SoL).
+It is difficult to understate the catastrophic devastation of human activity on Earth's biodiversity, especially in the last several hundred years. This human-driven annihilation is often called the "sixth extinction"<sup> [\[1\]](#extinction-resources)</sup>. The Spectrum of Extinction (SoE) project forefronts this extinction to visitors to New York City's world-famous [American Museum of Natural History](https://www.amnh.org/) (AMNH), one of the renowned museum's most iconic permanent exhibitions, the [Spectrum of Life](https://www.amnh.org/exhibitions/permanent/biodiversity/spectrum-of-life") (SoL).
 
 
 
@@ -65,50 +64,27 @@ Walking into the AMNH's [Hall of Biodiversity](https://www.amnh.org/exhibitions/
     The Spectrum of Life wall in the AMNH's Hall of Biodiversity (left). The HoB's map (right).
 </div>
 
-In the shadow of the HoB's other icon sight, the Rain Forest Diorama, is a narrow and dimly lit corridor home to the Transformation of the Biosphere Wall. According to the official HoB educator's guide<sup> [\[2\]](#educator-guide)</sup>, this wall focuses on "human effects on the environment" and "examines the root causes of biodiversity loss—population growth and overconsumption."
+In the shadow of the HoB's other icon sight, the Rain Forest Diorama, is a narrow and dimly lit corridor home to the Transformation of the Biosphere Wall. According to the official HoB educator's guide<sup> [\[2\]](#educator-guide)</sup>, this wall focuses on "human effects on the environment" and "examines the root causes of biodiversity loss—population growth and overconsumption." SoE's goal is to leverage the popularity of the SoL to increase awareness about human-driven extinction. Besides being an essential part of Earth's history, learning about this devastation is necessary as we confront the rapidly cascading impacts of climate change.
 
 
 ### Target Audience
 
 This project is intended for visitors to use on their smartphones while exploring the AMNH's SoL wall in person.
 
-<!-- Longer-term vision to better support this audience: -->
 
 
 ### Learning Goals
 
 <!-- _What do you want your learners to know or be able to do after engaging with your project._ -->
 
--  
+While celebrating the Earth's incredible biodiversity,  increase awareness and understanding of human-driven extinction.
 
 
-### Learning Theories
+<!-- ### Learning Theories -->
 
 <!-- _What theories undergird your choices about this project._ -->
 
-- **[Theory Name]()** – 
-
-
-
-### Concept Description
-
-<!-- _Tell me here about the overall project and why you chose the media for this project. 
-Perhaps you tell a little about why you think this works for your audience._ -->
-
-Smart phones now ubiquitous. 
-
-They
-
-There are drawbacks, of course. It requires people to have smartphones. While this can be mitigated by allowing visitors to borrow phones, it still assumes familiarity and comfort with their use. Further, using their phones means people look "down" at it. They are literally looking at the exhibit from a more limited viewpoint, rarer than taking it in as a whole. Staring at the smaller screen also makes sharing the experience with their fellow visitors more challenging.
-
-The display case items are stationary 
-GPS
-bluetooth
-
-
-...
-
-Ideally, this would be integrated into the AMNH's existing mobile application or mobile website to avoid the need to install (and maintain) a separate mobile application.
+<!-- - **[Theory Name]()** –  -->
 
 
 
@@ -131,6 +107,26 @@ Ideally, this would be integrated into the AMNH's existing mobile application or
 </div>
 
 
+### Concept Description
+
+_Note:_ Ideally, SoE would be integrated into the AMNH's existing [Android and iOS apps](https://www.amnh.org/plan-your-visit/explorer) or mobile website to avoid inconveniencing visitors by making them download an additional native mobile app. Using existing products also significantly reduces costs by avoiding building and maintaining more products.
+
+**Technological feasibility:**
+
+- Smartphones are now ubiquitous worldwide, and even most lower-end models have comparably good cameras and high-resolution screens.  
+- The AMNH already offers free WiFi, so visitors' access to cellular data is not a concern.  
+- The AMNH already uses [Bluetooth technology to aid navigation](https://www.amnh.org/explore/news-blogs/news-posts/bluetooth-beacons-help-navigate-museum-halls), so they have the technological infrastructure and institutional knowledge.  
+- Since the SoL display case specimens are fixed, the project does not need to rely on computer vision. Instead, it can leverage GPS and/or Bluetooth labels to identify specimens quickly. This has the added advantage of relying less on the quality of phone cameras.  
+
+**Rationale for smartphones:**
+
+- Creating and updating digital content is typically significantly cheaper and faster than physical signage. 
+- A digital platform typically allows the visitor to explore far more content without being overwhelmed.
+- The visitor can take advantage of the accessible features they have already set up on their phone and are comfortable using–examples include increased font size, display contrast, and screen readers.
+
+**Drawbacks:**
+
+There are drawbacks, of course. It requires people to have smartphones. While this can be mitigated by allowing visitors to borrow phones, it still assumes familiarity and comfort with their use. Signage, in-app tutorials, and volunteer assistance could partially offset the latter. A more challenging drawback is that using phones means people look "down" at them. They are literally looking at the exhibit from a more limited viewpoint, rarer than taking it in as a whole. Staring at the smaller screen also makes sharing the experience with their fellow visitors more challenging.
 
 
 ### Acknowledgments
