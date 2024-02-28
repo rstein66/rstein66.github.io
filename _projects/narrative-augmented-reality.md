@@ -39,13 +39,10 @@ It is difficult to understate the catastrophic devastation of human activity on 
 
 ### Statement of Need
 
-<!-- Statement of Need/Problem or Design Challenge
-_What are you trying to solve?_ -->
-
-Walking into the AMNH's [Hall of Biodiversity](https://www.amnh.org/exhibitions/permanent/biodiversity) (HoB), SoL is one of the first things to catch visitors' eyes. Unsurprisingly so, given that 
+Walking into the AMNH's [Hall of Biodiversity](https://www.amnh.org/exhibitions/permanent/biodiversity) (HoB), SoL is one of the first things to catch visitors' eyes. Unsurprisingly so, given that,  
 
 <p style="text-align: center; font-style: italic;"> 
-    "The Spectrum of Life in the Hall of Biodiversity is an evolutionary trip through the amazing diversity of life on Earth. The 1,500 specimens represent a wide range [of life]... The only one of its kind in the world, this 100-foot-long installation is arranged into 28 living groups covering 3.5 billion years of evolution. " - <a href="https://www.amnh.org/exhibitions/permanent/biodiversity/spectrum-of-life" target="_blank">AMNH</a>
+    "The Spectrum of Life in the Hall of Biodiversity is an evolutionary trip through the amazing diversity of life on Earth. The 1,500 specimens represent a wide range [of life]... The only one of its kind in the world, this 100-foot-long installation is arranged into 28 living groups covering 3.5 billion years of evolution. " - <a href="https://www.amnh.org/exhibitions/permanent/biodiversity/spectrum-of-life" target="_blank">AMNH.</a>
 </p>
 
 <div class="row">
@@ -77,7 +74,7 @@ This project is intended for visitors to use on their smartphones while explorin
 
 <!-- _What do you want your learners to know or be able to do after engaging with your project._ -->
 
-While celebrating the Earth's incredible biodiversity,  increase awareness and understanding of human-driven extinction.
+While celebrating the Earth's incredible biodiversity, increase awareness and understanding of human-driven extinction.
 
 
 <!-- ### Learning Theories -->
@@ -103,7 +100,7 @@ While celebrating the Earth's incredible biodiversity,  increase awareness and u
     </div>
 </div>
 <div class="caption">
-    <b>Prototype mockups:</b> smartphone camera image preview with "extinct" species covered in red (left), and modal showing information about the extinct species the user tapped on (right).
+    <b>Prototype mockups:</b> smartphone camera image preview with "extinct" species covered in red (left) and modal showing information about the extinct species the user tapped on (right).
 </div>
 
 
@@ -121,22 +118,22 @@ _Note:_ Ideally, SoE would be integrated into the AMNH's existing [Android and i
 **Rationale for smartphones:**
 
 - Creating and updating digital content is typically significantly cheaper and faster than physical signage. 
-- A digital platform typically allows the visitor to explore far more content without being overwhelmed.
-- The visitor can take advantage of the accessible features they have already set up on their phone and are comfortable using–examples include increased font size, display contrast, and screen readers.
+- A digital platform typically allows visitors to explore far more content without being overwhelmed.
+- Visitors can take advantage of the accessible features they have already set up on their phone and are comfortable using–examples include increased font size, display contrast, and screen readers.
 
 **Drawbacks:**
 
-There are drawbacks, of course. It requires people to have smartphones. While this can be mitigated by allowing visitors to borrow phones, it still assumes familiarity and comfort with their use. Signage, in-app tutorials, and volunteer assistance could partially offset the latter. A more challenging drawback is that using phones means people look "down" at them. They are literally looking at the exhibit from a more limited viewpoint, rarer than taking it in as a whole. Staring at the smaller screen also makes sharing the experience with their fellow visitors more challenging.
+There are drawbacks, of course. It requires people to have smartphones. While this can be mitigated by allowing visitors to borrow phones, it still assumes familiarity and comfort with their use. Signage, in-app tutorials, and volunteer assistance could partially offset the latter. A more challenging drawback is that using phones means people look "down" at them. They are literally looking at the exhibit from a more limited viewpoint, rather than taking it in as a whole. Staring at the smaller screen also makes sharing the experience with their fellow visitors more challenging.
 
 
 ### Acknowledgments
 
 - This project was initially created for NYU's graduate course [Narrative, Digital Media and Learning](https://steinhardt.nyu.edu/courses/narrative-digital-media-and-learning).
-- I am very grateful to my classmates: [Wei Wu Dolby](https://weiwudolby.cargo.site/) for sharing her technical expertise (both generally and on my project specifically), and [Abigail Dean](https://www.linkedin.com/in/abigail-moon-dean/) for her tour of the AMNH hall.
+- I am very grateful to my classmates [Wei Wu Dolby](https://weiwudolby.cargo.site/) for sharing her technical expertise (generally and on my project specifically) and [Abigail Dean](https://www.linkedin.com/in/abigail-moon-dean/) for her tour of the AMNH hall.
 
 Images:
   
-- The Spectrum of Life wall [photo](/assets/img/edct-2510/extinction-spectrum/spectrum-of-life-wall-1400.webp) is from the AMNH's [webpage](https://www.amnh.org/exhibitions/permanent/biodiversity/spectrum-of-life) as is its `alt` text.
+- The Spectrum of Life wall [photo](/assets/img/edct-2510/extinction-spectrum/spectrum-of-life-wall-1400.webp) is from the AMNH's [webpage](https://www.amnh.org/exhibitions/permanent/biodiversity/spectrum-of-life), as is its `alt` text.
 - The Hall of Biodiversity [map](/assets/img/edct-2510/extinction-spectrum/biodiversity-hall-map-1400.webp) is from the educator's guide (see [\[2\]](#educator-guide) below).
 - The dodo bird fact card in the prototype mockup is from [A-Z Animals](https://a-z-animals.com/media/2023/03/7f9ef1d7adbd6893ab170b5e553e14dbe5e6e8c4-768x1152.jpg).
 
