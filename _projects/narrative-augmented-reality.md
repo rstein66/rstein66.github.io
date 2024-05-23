@@ -42,7 +42,7 @@ It is difficult to understate the catastrophic devastation of human activity on 
 Walking into the AMNH's [Hall of Biodiversity](https://www.amnh.org/exhibitions/permanent/biodiversity) (HoB), SoL is one of the first things to catch visitors' eyes. Unsurprisingly so, given that,  
 
 <p style="text-align: center; font-style: italic;"> 
-    "The Spectrum of Life in the Hall of Biodiversity is an evolutionary trip through the amazing diversity of life on Earth. The 1,500 specimens represent a wide range [of life]... The only one of its kind in the world, this 100-foot-long installation is arranged into 28 living groups covering 3.5 billion years of evolution. " - <a href="https://www.amnh.org/exhibitions/permanent/biodiversity/spectrum-of-life" target="_blank">AMNH.</a>
+    "The Spectrum of Life in the Hall of Biodiversity is an evolutionary trip through the amazing diversity of life on Earth. The 1,500 specimens represent a wide range [of life]... The only one of its kind in the world, this 100-foot-long installation is arranged into 28 living groups covering 3.5 billion years of evolution. " - <a href="https://www.amnh.org/exhibitions/permanent/biodiversity/spectrum-of-life" target="_blank">AMNH</a>.
 </p>
 
 <div class="row">

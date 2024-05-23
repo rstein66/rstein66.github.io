@@ -40,12 +40,14 @@ d-article {
 
   // Style taken from code blocks
   details {  
+    // changes currently do nothing :(
     color: var(--global-text-color);
     background-color: var(--global-code-bg-color);
     margin-top: 0;
     padding: 8px 12px;
     position: relative;
     border-radius: 6px;
+    border-left: 1px solid var(--global-theme-color);
     display: block;
     margin-bottom: 20px;
     grid-column: text;
@@ -53,6 +55,7 @@ d-article {
     max-width: 100%;
     summary {
       color: var(--global-theme-color);
+      font-weight: bold;
     }
     p {
         margin-top: 0.5rem;
