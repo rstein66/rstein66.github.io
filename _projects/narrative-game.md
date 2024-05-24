@@ -9,7 +9,7 @@ category: [fall-2024, edct-2510]
 
 **Contents:**
 
-<!-- MarkdownTOC -->
+<!-- MarkdownTOC levels="2" -->
 
 - [Concept Overview](#concept-overview)
 - [Statement of Need](#statement-of-need)
@@ -26,14 +26,14 @@ category: [fall-2024, edct-2510]
 > <i class="fab fa-github"></i> **Click [here](https://github.com/rstein66/brooklyn-kids) to see code.**
 
 
-### Concept Overview
+## Concept Overview
 
 _Brooklyn Kids_ gives children the freedom to "choose their own adventure" when exploring the [Brooklyn Children's Museum](https://www.brooklynkids.org/) (BCM) in Brooklyn, New York. The child avatar, Kit, partners with an imaginary museum resident named Ollie the Otter. 
 
 
-### Statement of Need
+## Statement of Need
 
-**Subject**
+### Subject
 
 <p style="text-align: center; font-style: italic;"> 
     "As the world’s first children’s museum, Brooklyn Children’s Museum has welcomed millions of children and families since 1899 to experience the love of learning" - <a href="https://www.brooklynkids.org/visit" target="_blank">BCM</a>
@@ -61,14 +61,14 @@ The game focuses on the BCM's ground floor, which houses its permanent exhibits.
 </div>
   
 
-**Purpose**
+### Purpose
   
 Social narratives<sup> [\[1\]](#social-narrative-resources)</sup> were one inspiration for this game. While it is not a social narrative, one of its primary purposes is similarly to help visitors prepare for their visit so that they do not feel overwhelmed. While the game is intended for children, it could also help parents and field trip leaders prepare.  
 
 The game's second purpose is to give children the freedom to \[virtually\] visit/revisit the museum on their terms and schedule. There is far too much to see in a single visit.  
 
   
-### Target Audience
+## Target Audience
 
 Children (approximately 4-8 years old) will soon visit, or who have recently visited, the Brooklyn Children's Museum. 
 
@@ -79,14 +79,14 @@ Longer-term vision to better support this audience:
 - While the proof of concept's narration and subtitles are in \[Standard American\] English, Ren'Py offers [multi-language support](https://www.renpy.org/doc/html/translation.html).
 
 
-### Learning Goals
+## Learning Goals
 
 After engaging with the project, I want players to 
 - Feel more familiar with the BCM and
 - Begin/continue to develop positive associations with the BCM.
 
   
-### Learning Theories
+## Learning Theories
 
 - **[Constructivist Theory](https://www.instructionaldesign.org/theories/constructivist/) –** The "choose your own adventure" format allows users to take ownership of their own discovery, including the pace of learning.
   
@@ -97,12 +97,12 @@ After engaging with the project, I want players to
 - **[Situated Learning](https://www.instructionaldesign.org/theories/situated-learning/) –** The game helps users situate themselves in the exhibits, virtually or in-person, to feel more embedded in the experiences offered by the museum.
 
 
-### Concept Description
+## Concept Description
 
 I chose to use the game generation framework Ren'Py, which I learned about from classmates' demo. Its website [explains](https://www.renpy.org/why.html) that "Ren'Py is a free and cross platform engine for digital storytelling." Largely because I previously worked as a software developer, I found it an intuitive, flexible, and fast way to create a game prototype. 
 
   
-### Prototype
+## Prototype
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -120,14 +120,14 @@ I chose to use the game generation framework Ren'Py, which I learned about from 
 </div>
 
   
-### Acknowledgments
+## Acknowledgments
 
 - This project was initially created for NYU's graduate course [Narrative, Digital Media and Learning](https://steinhardt.nyu.edu/courses/narrative-digital-media-and-learning).
 - As currently configured, the project does not support users who are blind or have low vision.  
 - Most references are either [here](https://github.com/rstein66/brooklyn-kids#attribution) or linked in the text above. Additional ones are listed below.  
 - BCM's ground floor map is taken from the museum's [Activity Guide](https://www.brooklynkids.org/wp-content/uploads/2022/06/BCM-Activity-Book.pdf).  
 
-### Additional Resources
+## Additional Resources
 
 <a name="social-narrative-resources"><sup>[1]</sup></a> <b>Social Narratives</b>  
 
