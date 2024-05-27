@@ -4,7 +4,7 @@ title: How Do You Rest?
 description: Universal Design for Learning (UDL) lesson plan
 img: assets/img/spced-2051/udl-cover-photo.jpg
 importance: 5
-category: [fall-2024-hide, spced-2051-hide]
+category: [nyu-hide, spced-2051]
 ---
 
 **Contents:**
@@ -12,6 +12,7 @@ category: [fall-2024-hide, spced-2051-hide]
 <!-- MarkdownTOC levels="2,3" -->
 
 - [Overview](#overview)
+- [PDFs](#pdfs)
 - [Lesson Plan – How Do You Rest?](#lesson-plan--how-do-you-rest)
     - [Materials](#materials)
     - [Prior Learning Connections](#prior-learning-connections)
@@ -28,7 +29,7 @@ category: [fall-2024-hide, spced-2051-hide]
 
 ## Overview
 
-“How Do You Rest?” is a Universal Design for Learning (UDL) guided sixth-grade lesson plan. The plan outlines an accessible lesson about “Rest Is Power.” Curated by the Center for Black Visual Culture at New York University, the fall 2023 art exhibition focused on how Black people's “rest is resistance.” My lesson plan covers the pre-trip, onsite, and post-trip.
+“How Do You Rest?” is a [Universal Design for Learning (UDL)](https://udlguidelines.cast.org/) guided sixth-grade lesson plan. The plan outlines an accessible lesson about “Rest Is Power.” Curated by the Center for Black Visual Culture at New York University, the fall 2023 art exhibition focused on how Black people's “rest is resistance.” My lesson plan covers the pre-trip, onsite, and post-trip.
 
 My plan's primary outcomes/objectives are that students will:
 
@@ -36,11 +37,14 @@ My plan's primary outcomes/objectives are that students will:
 - Think about the importance of rest and identify at least one form in their lives.  
 - Recognize that rest is an act of resistance for Black people.  
  
-<!-- #### PDFs
+## PDFs
 
-::TODO::
- -->
-<hr>
+<!-- FIXME broken links -->
+
+- [Lesson plan](../assets/pdf/spced-2051/udl-lesson-plan-gallery-visit.pdf)
+- [Worksheet](assets/pdf/spced-2051/udl-rest-worksheet.pdf)
+- [Article](assets/pdf/spced-2051/udl-rest-huffpost-article.pdf)
+
 
 ## Lesson Plan – How Do You Rest?
 
@@ -69,7 +73,7 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 
 <div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
 
-<u>Note</u>: Add student-specific assistive technology where appropriate. <i>_For example, a student whose IEP states they can use a computer to type instead of writing something out by hand._  
+<u>Note</u>: Add student-specific assistive technology where appropriate. <i>_For example, a student whose [504](https://www.schools.nyc.gov/docs/default-source/default-document-library/504-accommodations-student-and-family-guide.pdf) states they can use a computer to type instead of writing something out by hand._  
 
 <!-- FIXME? Why is h4 the same size as h3? -->
 
@@ -97,14 +101,11 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 <div class="footnote"><a name="accessible-footnote"><sup>[2]</sup></a>  A <a href="https://wp.nyu.edu/sensory_resources_guide_for_museums/social-narrative/#:~:text=Google%20Slides%20version" target="_blank">social narrative</a> and <a href="https://wp.nyu.edu/sensory_resources_guide_for_museums/sensory-guide/#:~:text=Sensory%20Guide%20Template%20(GoogleSlide)" target="_blank">sensory guide</a> for this one small room (especially one with little of sensory note), likely adds little value, but I want to introduce the concepts and so included templates from the “Sensory Resources Guide For Museum” by NYU’s Ability Project.</div>
   
   
-
-  
 ### Prior Learning Connections
   
 <div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
   
 - [“Where I'm From”](http://www.georgeellalyon.com/where.html) poems – due to this assignment, students will already be familiar with using descriptive language, discussing personal topics like family, and sharing respectful feedback on other students' work.  
-
 
 
 ### Differentiation
@@ -124,15 +125,13 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 
 <div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
 
-This lesson plan is intended to be reasonably widely accessible; however, it assumes that specific accommodations will be made on a case-by-case basis. Many students with accommodations will 
+This lesson plan is intended to be reasonably widely accessible; however, it assumes that specific accommodations will be made on a case-by-case basis. 
 
-For example, d/Deaf or hard of heading students
+This section focuses on accommodations specific to the gallery visit. 
 
-[American Sign Language (ASL)](https://www.nad.org/resources/american-sign-language/what-is-american-sign-language/)
-
-The remainder of this section discusses ac
-
-<!-- FIXME Not all accommodations are listed below. Many students will  -->
+<!-- For example, d/Deaf or hard of heading students 
+[American Sign Language (ASL)](https://www.nad.org/resources/american-sign-language/what-is-american-sign-language/) interpreter 
+teacher wearing a microphone -->
 
 
 **Inclusion of the Written Word**
@@ -159,8 +158,7 @@ The remainder of this section discusses ac
 - If applicable, request the gallery's permission before bringing Magic Model clay or similar fidget tools.
 
 
-<div class="footnote"><a name="limited-sight-footnote"><sup>[3]</sup></a>  While not applicable for this visit, <a href="https://bootcamp.uxdesign.cc/designing-for-touch-975e47065935" target="blank">swell printing</a> seems like an intriguing way to potentially interact with two-dimensional art, especially as three-dimensional printing continues to be more widely accessible. The <a href="https://www.guggenheim.org/event/event_series/minds-eye" target="blank">Guggenheim Museum’s Mind’s Eye Programs</a> have previously used it.</div> 
-
+<div class="footnote"><a name="limited-sight-footnote"><sup>[3]</sup></a>  While not applicable for this visit, <a href="https://bootcamp.uxdesign.cc/designing-for-touch-975e47065935" target="blank">swell printing</a> seems like an intriguing way to potentially interact with two-dimensional art, especially as three-dimensional printing continues to be more widely accessible. The <a href="https://www.guggenheim.org/event/event_series/minds-eye" target="blank">Guggenheim Museum's Mind's Eye Programs</a> have previously used it.</div> 
 
   
 
@@ -171,7 +169,6 @@ The remainder of this section discusses ac
 _(Classroom management items, medication information, etc.)_
 
 - <u>Allergies</u>: Do not use food students are allergic to in the “lemon identification activity.” 
-
   
 
 ### Assessment
@@ -193,43 +190,41 @@ See the “Assignment Details” section of UDL Rest Worksheet.
 See [UDL Guidelines](https://udlguidelines.cast.org/).
 
 
-#### Pre-Visit
+**Pre-Visit**
   
-
 In-class (45 minutes)
 
-**Part one:** [“Rest Is Power” Social Narrative](https://docs.google.com/document/d/1ZyncmEXcku9pCSlDkl6x6oXWi1iRzGurc0Csnr-r8cQ/edit#heading=h.e2qalla12zom) and an introduction to tomorrow's plan. (5 minutes)
+_Part one:_ [“Rest Is Power” Social Narrative](https://docs.google.com/document/d/1ZyncmEXcku9pCSlDkl6x6oXWi1iRzGurc0Csnr-r8cQ/edit#heading=h.e2qalla12zom) and an introduction to tomorrow's plan. (5 minutes)
 
 - The larger the site, the more critical we talk through the visit beforehand.
     
 
-**Part two:** Lemon identification activity [“When Life Hands You a Lemon, Peel It”](https://secure.understandingprejudice.org/teach/elemact.htm) (15 minutes)
+_Part two:_ Lemon identification activity [“When Life Hands You a Lemon, Peel It”](https://secure.understandingprejudice.org/teach/elemact.htm) (15 minutes)
 
 - The activity encourages students to look closely at objects and describe what they see. It further allows students to explore through touch and sight, allowing them to participate in learning beyond verbal discussion. As stated in the activity description, this activity also reminds students that “despite outside differences, people are often similar on the inside.”  
     
 - Passing out two or three different types of fruit may simplify and streamline the activity.  
     
 
-**Part three:** Read and discuss the Huffington Post article ["How Rest Is An Act Of Resistance For Black People" (Wilson, 2023)](https://drive.google.com/file/d/1S-vlw7GAAZ3IO8rXa65XvnDN0ifFzAzs/view?usp=sharing) (25 minutes)  
-
+_Part three:_ Read and discuss the Huffington Post article ["How Rest Is An Act Of Resistance For Black People" (Wilson, 2023)](https://drive.google.com/file/d/1S-vlw7GAAZ3IO8rXa65XvnDN0ifFzAzs/view?usp=sharing) (25 minutes)  
+  
 - Rationale: This article is more approachable to sixth graders than the “Curatorial Statement” in the [exhibition catalog](https://drive.google.com/file/d/1xGbyQO9SPgUWgAPJseBq_4udJM6DXjDB/view) (p. 6) or the [Nap Ministry](https://thenapministry.wordpress.com/about/) website. The seven different kinds of rest listed are also helpful for preparing for our visit.  
     
 - _Note on activity ordering:_ Students will do the lemon identification activity before this because (1) it will allow the students to move around and be silly before needing to be serious, and (2) the class will end on this topic, making it easier for students who wish to continue to think about and discuss the article do so.  
     
 
-#### Visit
+**Visit**
 
 On-site (60 minutes)
 
 See UDL Rest Worksheet.
-
-
-#### Post-Visit
-
-**Part one:** On the day after the visit, the class will spend the first part of class reflecting on the visit (5–15 minutes).
-
   
-**Part two:** On the day the summative assessment is due, students will spend most of the class period sharing their work in small groups.
+  
+**Post-Visit**
+
+_Part one:_ On the day after the visit, the class will spend the first part of class reflecting on the visit (5–15 minutes).
+  
+_Part two:_ On the day the summative assessment is due, students will spend most of the class period sharing their work in small groups.
 
 
 
@@ -274,5 +269,5 @@ Images:
       
     + _Examples:_ the MoMA's ["Verbal Descriptions"](https://www.moma.org/audio/playlist/3).
         
-    + Guide to another way–_note:_ this is intended for websites and has a different use case than the others: ["A Picture Is Worth 300 Words: Writing Visual Descriptions for an Art Museum Web Site"](https://www.karlencommunications.com/adobe/PictureIsWorth300WordsCSUN2001.pdf) by Karlen Communications.  
+    + Guide to another way–_note_ that this guide is intended for websites and has a different use case than the others: ["A Picture Is Worth 300 Words: Writing Visual Descriptions for an Art Museum Web Site"](https://www.karlencommunications.com/adobe/PictureIsWorth300WordsCSUN2001.pdf) by Karlen Communications.  
       

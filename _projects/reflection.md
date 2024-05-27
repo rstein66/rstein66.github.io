@@ -4,7 +4,7 @@ title: Narrative Reflection
 description: How do I see narrative?
 img: assets/img/edct-2510/pexels-fox-book.jpg
 importance: 1
-category: [fall-2024, edct-2510]
+category: [nyu, edct-2510]
 ---
 
 **Contents:**
