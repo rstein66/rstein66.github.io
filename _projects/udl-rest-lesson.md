@@ -9,26 +9,28 @@ category: [fall-2024-hide, spced-2051-hide]
 
 **Contents:**
 
-<!-- MarkdownTOC -->
+<!-- MarkdownTOC levels="2,3" -->
 
 - [Overview](#overview)
 - [Lesson Plan – How Do You Rest?](#lesson-plan--how-do-you-rest)
     - [Materials](#materials)
     - [Prior Learning Connections](#prior-learning-connections)
-    - [Differentiation and Accommodations](#differentiation-and-accommodations)
+    - [Differentiation](#differentiation)
+    - [Accommodations](#accommodations)
     - [Special Concerns](#special-concerns)
     - [Assessment](#assessment)
+    - [Procedure](#procedure)
 - [Acknowledgments](#acknowledgments)
 - [Additional Resources](#additional-resources)
 
 <!-- /MarkdownTOC -->
 
 
-### Overview
+## Overview
 
-“How Do You Rest?” is a Universal Design for Learning (UDL) guided sixth-grade lesson plan. The plan outlines an accessible lesson about “Rest Is Power.” Curated by the Center for Black Visual Culture at New York University, the fall 2023 art exhibition focused on how Black people’s “rest is resistance.” My lesson plan covers the pre-trip, onsite, and post-trip.
+“How Do You Rest?” is a Universal Design for Learning (UDL) guided sixth-grade lesson plan. The plan outlines an accessible lesson about “Rest Is Power.” Curated by the Center for Black Visual Culture at New York University, the fall 2023 art exhibition focused on how Black people's “rest is resistance.” My lesson plan covers the pre-trip, onsite, and post-trip.
 
-My plan’s primary outcomes/objectives are that students will:
+My plan's primary outcomes/objectives are that students will:
 
 - Practice observation, using descriptive language, and building visual literacy.  
 - Think about the importance of rest and identify at least one form in their lives.  
@@ -40,18 +42,18 @@ My plan’s primary outcomes/objectives are that students will:
  -->
 <hr>
 
-### Lesson Plan – How Do You Rest?
+## Lesson Plan – How Do You Rest?
 
 An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> [\[1\]](#exhibition-footnote)</sup>
 
 **Date:** December 2023  
 **Subject:** English Language Arts  
 **Grade level:** Sixth  
-**School:** Near Manhattan’s Bowery neighborhood, where the gallery is located  
+**School:** Near Manhattan's Bowery neighborhood, where the gallery is located  
 
 **Locations:**  
 1. <u>Pre-visit</u>: school classroom  
-2. <u>Visit</u>: on-site at NYU’s Center for Black Visual Culture’s gallery, [20 Cooper Sq, New York, NY](https://maps.app.goo.gl/A1GmfN8TK6DMTEZN6)  
+2. <u>Visit</u>: on-site at NYU’s Center for Black Visual Culture's gallery, [20 Cooper Sq, New York, NY](https://maps.app.goo.gl/A1GmfN8TK6DMTEZN6)  
 3. <u>Post-visit</u>: school classroom (split over two days)  
 
 **Outcomes:** Students will  
@@ -61,13 +63,15 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
   
 
 <div class="footnote"><a name="exhibition-footnote"><sup>[1]</sup></a> The exhibition was curated by the Center for Black Visual Culture at New York University. It focused on how Black people’s “rest is resistance.” It ran from September to October 2023. In this imagined lesson plan, the exhibition is current.</div>
-  
-  
-#### Materials
+
+
+### Materials
 
 <div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
 
 <u>Note</u>: Add student-specific assistive technology where appropriate. <i>_For example, a student whose IEP states they can use a computer to type instead of writing something out by hand._  
+
+<!-- FIXME? Why is h4 the same size as h3? -->
 
 **Pre-Visit Materials**
   
@@ -95,25 +99,17 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
   
 
   
-#### Prior Learning Connections
+### Prior Learning Connections
   
 <div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
   
-- [“Where I’m From”](http://www.georgeellalyon.com/where.html) poems – due to this assignment, students will already be familiar with using descriptive language, discussing personal topics like family, and sharing respectful feedback on other students' work.  
+- [“Where I'm From”](http://www.georgeellalyon.com/where.html) poems – due to this assignment, students will already be familiar with using descriptive language, discussing personal topics like family, and sharing respectful feedback on other students' work.  
 
 
-  
 
-#### Differentiation and Accommodations
+### Differentiation
 
 <div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
-
-This lesson plan is intended to be reasonably widely accessible; however, it assumes that specific accommodations will be made on a case-by-case basis.  
-
-<!-- FIXME The remainder of this section addresses  -->
-
-<!-- FIXME Not all accommodations are listed below. Many students will follow their d/Deaf or hard of heading students -->
-
 
 **English Writing Skills**
 
@@ -121,22 +117,37 @@ This lesson plan is intended to be reasonably widely accessible; however, it ass
 
 - Students will spend most of their time at the gallery working independently. If they finish the activity quickly, then they can select another artwork.  
 
-- As currently written, this lesson plan does not make specific accommodations for students with emerging English multilingualism. The assignment could be written in any language, but the class discussion and sharing activities would likely need person-specific accommodations for students early in their English language acquisition. 
+- As currently written, this lesson plan does not make specific accommodations for students with emerging English multilingualism. The assignment could be written in any language, but the class discussion and sharing activities would likely need person-specific accommodations for students early in their English language acquisition.
 
 
-**Written Word**
+### Accommodations
 
-- The site visit worksheet includes the teacher’s example for students who want to refer back to it. While this helps anyone who wants it, it especially aids students with extra needs, such as those with limited hearing or shorter-term memory loss.    
+<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
+
+This lesson plan is intended to be reasonably widely accessible; however, it assumes that specific accommodations will be made on a case-by-case basis. Many students with accommodations will 
+
+For example, d/Deaf or hard of heading students
+
+[American Sign Language (ASL)](https://www.nad.org/resources/american-sign-language/what-is-american-sign-language/)
+
+The remainder of this section discusses ac
+
+<!-- FIXME Not all accommodations are listed below. Many students will  -->
+
+
+**Inclusion of the Written Word**
+
+- The site visit worksheet includes the teacher's example for students who want to refer back to it. While this helps anyone who wants it, it especially aids students with extra needs, such as those with limited hearing or shorter-term memory loss.    
   
 
 **Students With Blindness or Low Vision**<sup> [\[3\]](#limited-vision-footnote)</sup>
 
-- Depending on the student’s level of sight and comfort, it might make sense to go through the exhibition catalog beforehand with the student to select an artwork whose description resonates with them. During the gallery visit, that student and a sighted student could work together. If this occurs, and the two students are willing, they should share their descriptions and experiences crafting it with the class!  
+- Depending on the student's level of sight and comfort, it might make sense to go through the exhibition catalog beforehand with the student to select an artwork whose description resonates with them. During the gallery visit, that student and a sighted student could work together. If this occurs, and the two students are willing, they should share their descriptions and experiences crafting it with the class!  
 
 
 **Students With Limited Mobility**
 
-- If the student’s level of mobility makes it difficult for them to study an artwork in its current configuration, the artist and gallery might allow the student to use a high-quality printout of the work’s photo during the lesson.  
+- If the student's level of mobility makes it difficult for them to study an artwork in its current configuration, the artist and gallery might allow the student to use a high-quality printout of the work's photo during the lesson.  
 
 - The gallery appears to be wheelchair accessible.
 
@@ -153,7 +164,7 @@ This lesson plan is intended to be reasonably widely accessible; however, it ass
 
   
 
-#### Special Concerns
+### Special Concerns
 
 <div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
 
@@ -163,7 +174,7 @@ _(Classroom management items, medication information, etc.)_
 
   
 
-#### Assessment
+### Assessment
 
 <div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
 
@@ -174,19 +185,64 @@ The teacher will monitor, without grading, student learning throughout their par
 
 **Summative Assessment**  
 
-See the “Assignment Details” section of URL Rest Worksheet.
+See the “Assignment Details” section of UDL Rest Worksheet.
+
+
+### Procedure
+
+See [UDL Guidelines](https://udlguidelines.cast.org/).
+
+
+#### Pre-Visit
+  
+
+In-class (45 minutes)
+
+**Part one:** [“Rest Is Power” Social Narrative](https://docs.google.com/document/d/1ZyncmEXcku9pCSlDkl6x6oXWi1iRzGurc0Csnr-r8cQ/edit#heading=h.e2qalla12zom) and an introduction to tomorrow's plan. (5 minutes)
+
+- The larger the site, the more critical we talk through the visit beforehand.
+    
+
+**Part two:** Lemon identification activity [“When Life Hands You a Lemon, Peel It”](https://secure.understandingprejudice.org/teach/elemact.htm) (15 minutes)
+
+- The activity encourages students to look closely at objects and describe what they see. It further allows students to explore through touch and sight, allowing them to participate in learning beyond verbal discussion. As stated in the activity description, this activity also reminds students that “despite outside differences, people are often similar on the inside.”  
+    
+- Passing out two or three different types of fruit may simplify and streamline the activity.  
+    
+
+**Part three:** Read and discuss the Huffington Post article ["How Rest Is An Act Of Resistance For Black People" (Wilson, 2023)](https://drive.google.com/file/d/1S-vlw7GAAZ3IO8rXa65XvnDN0ifFzAzs/view?usp=sharing) (25 minutes)  
+
+- Rationale: This article is more approachable to sixth graders than the “Curatorial Statement” in the [exhibition catalog](https://drive.google.com/file/d/1xGbyQO9SPgUWgAPJseBq_4udJM6DXjDB/view) (p. 6) or the [Nap Ministry](https://thenapministry.wordpress.com/about/) website. The seven different kinds of rest listed are also helpful for preparing for our visit.  
+    
+- _Note on activity ordering:_ Students will do the lemon identification activity before this because (1) it will allow the students to move around and be silly before needing to be serious, and (2) the class will end on this topic, making it easier for students who wish to continue to think about and discuss the article do so.  
+    
+
+#### Visit
+
+On-site (60 minutes)
+
+See UDL Rest Worksheet.
+
+
+#### Post-Visit
+
+**Part one:** On the day after the visit, the class will spend the first part of class reflecting on the visit (5–15 minutes).
+
+  
+**Part two:** On the day the summative assessment is due, students will spend most of the class period sharing their work in small groups.
+
 
 
 
 <hr>
 
-  
-
-### Acknowledgments
+## Acknowledgments
 
 <div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
 
-- This project was initially created for NYU's graduate course [Foundations of Curriculum for Diverse Learners](https://steinhardt.nyu.edu/courses/foundations-curriculum-diverse-learners).
+- This project was initially created for NYU's graduate course [Foundations of Curriculum for Diverse Learners](https://steinhardt.nyu.edu/courses/foundations-curriculum-diverse-learners) taught by Professor [Newhouse](https://steinhardt.nyu.edu/people/katie-scott-newhouse). As a result, her course primarily shaped and informed this lesson plan–not least Professor Newhouse's lesson plan template. She providing detailed feedback, which I incorporate into my post-course revisions.
+
+- This lesson was also inspired and informed by Professor [Ko](https://as.nyu.edu/departments/museumstudies/people/adjunct-faculty.html)'s [Museum Education](https://as.nyu.edu/departments/museumstudies/courses/fall-2023-course-schedule-.html) course and Professor [Leou](https://steinhardt.nyu.edu/people/mary-leou)’s Using [Non-formal Resources to Teach Science and Sustainability](https://steinhardt.nyu.edu/courses/using-non-formal-resources-teach-science-and-sustainability) course.
 
 Images:  
 
@@ -195,7 +251,7 @@ Images:
 
 <br>
 
-### Additional Resources
+## Additional Resources
 
 <div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
   
@@ -205,11 +261,11 @@ Images:
   
 - Social Narrative  
   
-    + Note on terminology: ["Social Stories and Social Narratives"](https://theautismprogram.illinois.edu/2013/05/29/social-stories-and-social-narratives/) by The Autism Program at the University of Illinois Urbana-Champaign.  
+    + Note on terminology: ["Social Stories and Social Narratives"](https://theautismprogram.illinois.edu/2013/05/29/social-stories-and-social-narratives/) by the Autism Program at the University of Illinois Urbana-Champaign.  
       
     + ["Steps for Implementation: Social Narratives"](https://autismpdc.fpg.unc.edu/sites/autismpdc.fpg.unc.edu/files/SocialNarratives_Steps_0.pdf) by the National Professional Development Center on Autism Spectrum Disorders.  
       
-    + _Examples:_ the Met’s for [families with children with autism](https://www.metmuseum.org/-/media/files/events/programs/progs-for-visitors-with-disabilities/social-narrative-children.pdf). Also, see related [Met visitor resources](https://www.metmuseum.org/events/programs/access/visitors-with-developmental-and-learning-disabilities/for-visitors-with-autism-spectrum-disorders).  
+    + _Examples:_ the Met's for [families with children with autism](https://www.metmuseum.org/-/media/files/events/programs/progs-for-visitors-with-disabilities/social-narrative-children.pdf). Also, see related [Met visitor resources](https://www.metmuseum.org/events/programs/access/visitors-with-developmental-and-learning-disabilities/for-visitors-with-autism-spectrum-disorders).  
   
   
 - Verbal description  
