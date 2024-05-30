@@ -2,7 +2,7 @@
 layout: page
 title: Spectrum of Extinction
 description: Visualize and inspect human impact on Earth's biodiversity.
-img: assets/img/edct-2510/extinction-spectrum/spectrum-of-life-wall.jpeg
+img: assets/img/edct-2510/extinction-spectrum/spectrum-of-life-wall.jpg
 importance: 1
 category: [nyu, edct-2510]
 ---
@@ -48,7 +48,7 @@ Walking into the AMNH's [Hall of Biodiversity](https://www.amnh.org/exhibitions/
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
         <a href="/assets/img/edct-2510/extinction-spectrum/spectrum-of-life-wall-1400.webp">
-            {% include figure.html path="assets/img/edct-2510/extinction-spectrum/spectrum-of-life-wall.jpeg"  class="img-fluid rounded z-depth-1" alt="1,500 specimens representing a wide range of bacteria, fungi, plants, and animals are displayed on a long wall in the Hall of Biodiversity." %}
+            {% include figure.html path="assets/img/edct-2510/extinction-spectrum/spectrum-of-life-wall.jpg"  class="img-fluid rounded z-depth-1" alt="1,500 specimens representing a wide range of bacteria, fungi, plants, and animals are displayed on a long wall in the Hall of Biodiversity." %}
         </a>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -83,12 +83,12 @@ While celebrating the Earth's incredible biodiversity, increase awareness and un
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <a href="/assets/img/edct-2510/extinction-spectrum/spectrum-ar-view-finder-mock-1400.webp">
-            {% include figure.html path="assets/img/edct-2510/extinction-spectrum/spectrum-ar-view-finder-mock.jpeg" alt="Display case photo with several species highlighted in red" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/edct-2510/extinction-spectrum/spectrum-ar-view-finder-mock.jpg" alt="Display case photo with several species highlighted in red" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
      <div class="col-sm mt-3 mt-md-0">
         <a href="/assets/img/edct-2510/extinction-spectrum/spectrum-ar-mock-details-1400.webp">
-            {% include figure.html path="assets/img/edct-2510/extinction-spectrum/spectrum-ar-mock-details.jpeg" alt="Dodo bird information, including population and location" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/edct-2510/extinction-spectrum/spectrum-ar-mock-details.jpg" alt="Dodo bird information, including population and location" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
 </div>

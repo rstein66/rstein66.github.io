@@ -2,7 +2,7 @@
 layout: page
 title: Brooklyn Kids
 description: Explore the Brooklyn Children's Museum by game.
-img: assets/img/edct-2510/brooklyn-kids/bk-tunnel-with-otter.png
+img: assets/img/edct-2510/brooklyn-kids/bk-tunnel-with-otter.jpg
 importance: 1
 category: [nyu, edct-2510]
 ---
@@ -44,16 +44,16 @@ The game focuses on the BCM's ground floor, which houses its permanent exhibits.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <a href="/assets/img/edct-2510/brooklyn-kids/bk-museum-map-1400.webp">
-            {% include figure.html path="assets/img/edct-2510/brooklyn-kids/bk-museum-map.png" title="BCM floor map" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/edct-2510/brooklyn-kids/bk-museum-map.jpg" title="BCM floor map" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <a href="/assets/img/edct-2510/brooklyn-kids/bk-airmaze-1400.webp">
-            {% include figure.html path="assets/img/edct-2510/brooklyn-kids/bk-airmaze.png" title="BCM AirMaze exhibit" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/edct-2510/brooklyn-kids/bk-airmaze.jpg" title="BCM AirMaze exhibit" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <a href="/assets/img/edct-2510/brooklyn-kids/bk-design-studio-1400.webp">{% include figure.html path="assets/img/edct-2510/brooklyn-kids/bk-design-studio.png" title="BCM pretend design studio" class="img-fluid rounded z-depth-1" %}</a>
+        <a href="/assets/img/edct-2510/brooklyn-kids/bk-design-studio-1400.webp">{% include figure.html path="assets/img/edct-2510/brooklyn-kids/bk-design-studio.jpg" title="BCM pretend design studio" class="img-fluid rounded z-depth-1" %}</a>
     </div>
 </div>
 <div class="caption">
@@ -106,7 +106,7 @@ I chose to use the game generation framework Ren'Py, which I learned about from 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="/assets/img/edct-2510/brooklyn-kids/bk-game-flow-1400.webp">{% include figure.html path="assets/img/edct-2510/brooklyn-kids/bk-game-flow.png" title="Game flow & corresponding videos" class="img-fluid rounded z-depth-1" %}</a>
+        <a href="/assets/img/edct-2510/brooklyn-kids/bk-game-flow-1400.webp">{% include figure.html path="assets/img/edct-2510/brooklyn-kids/bk-game-flow.jpg" title="Game flow & corresponding videos" class="img-fluid rounded z-depth-1" %}</a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="https://youtube.com/embed/lYl_9Myju_o" class="img-fluid rounded z-depth-1" controls=true %}
