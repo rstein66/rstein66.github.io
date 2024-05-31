@@ -4,7 +4,7 @@ title: How Do You Rest?
 description: Universal Design for Learning lesson plan.
 img: assets/img/spced-2051/udl-cover-photo.jpg
 importance: 5
-category: [nyu, spced-2051]
+category: [nyu-hide, spced-2051]
 ---
 
 **Contents:**
