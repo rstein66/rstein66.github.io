@@ -1,10 +1,10 @@
 ---
 layout: page
 title: How Do You Rest?
-description: Universal Design for Learning (UDL) lesson plan
+description: Universal Design for Learning lesson plan.
 img: assets/img/spced-2051/udl-cover-photo.jpg
 importance: 5
-category: [nyu-hide, spced-2051]
+category: [nyu, spced-2051]
 ---
 
 **Contents:**
@@ -12,15 +12,19 @@ category: [nyu-hide, spced-2051]
 <!-- MarkdownTOC levels="2,3" -->
 
 - [Overview](#overview)
-- [PDFs](#pdfs)
-- [Lesson Plan – How Do You Rest?](#lesson-plan--how-do-you-rest)
+- [Lesson Plan](#lesson-plan)
     - [Materials](#materials)
+    - [Technology](#technology)
     - [Prior Learning Connections](#prior-learning-connections)
     - [Differentiation](#differentiation)
     - [Accommodations](#accommodations)
     - [Special Concerns](#special-concerns)
     - [Assessment](#assessment)
     - [Procedure](#procedure)
+- [Worksheet](#worksheet)
+    - [Ms. Stein's Example](#ms-steins-example)
+    - [Student's Turn](#students-turn)
+    - [Assignment Details](#assignment-details)
 - [Acknowledgments](#acknowledgments)
 - [Additional Resources](#additional-resources)
 
@@ -36,18 +40,14 @@ My plan's primary outcomes/objectives are that students will:
 - Practice observation, using descriptive language, and building visual literacy.  
 - Think about the importance of rest and identify at least one form in their lives.  
 - Recognize that rest is an act of resistance for Black people.  
- 
-## PDFs
-
-<!-- FIXME broken links -->
-
-- [Lesson plan](../assets/pdf/spced-2051/udl-lesson-plan-gallery-visit.pdf)
-- [Worksheet](assets/pdf/spced-2051/udl-rest-worksheet.pdf)
-- [Article](assets/pdf/spced-2051/udl-rest-huffpost-article.pdf)
 
 
-## Lesson Plan – How Do You Rest?
+## Lesson Plan
 
+<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
+
+<a href="/assets/pdf/spced-2051/udl-rest-lesson-plan.pdf" target="blank"><i class="fas fa-file-pdf"></i> Lesson Plan</a>  
+  
 An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> [\[1\]](#exhibition-footnote)</sup>
 
 **Date:** December 2023  
@@ -75,20 +75,21 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 
 <u>Note</u>: Add student-specific assistive technology where appropriate. <i>_For example, a student whose [504](https://www.schools.nyc.gov/docs/default-source/default-document-library/504-accommodations-student-and-family-guide.pdf) states they can use a computer to type instead of writing something out by hand._  
 
-<!-- FIXME? Why is h4 the same size as h3? -->
+<!-- TODO Why is h4 the same size as h3? -->
 
 **Pre-Visit Materials**
   
-- LCD projector and teacher laptop  
+- Classroom projector
+- Teacher laptop  
 - Fruit for the activity (lemons or similar)  
 - Printouts  
     + Site-specific social narrative<sup> [\[2\]](#accessible-footnote)</sup>    
-    + "How Rest Is An Act Of Resistance For Black People" (Wilson, 2023)  
+    + <a href="/assets/pdf/spced-2051/udl-rest-huffpost-article.pdf" target="blank"><i class="fas fa-file-pdf"></i> Huffpost: "How Rest Is An Act Of Resistance For Black People" (Wilson, 2023)</a>  
 
 **Visit Materials**
   
 - Printed Handouts  
-    +  UDL Rest Worksheet
+    +  [Worksheet](#worksheet)
     +  Site-specific sensory guide<sup> [\[2\]](#accessible-footnote)</sup>    
 - Clipboards  
 - Writing implements  
@@ -99,8 +100,22 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 - Visual component of assessment, if applicable.
   
 <div class="footnote"><a name="accessible-footnote"><sup>[2]</sup></a>  A <a href="https://wp.nyu.edu/sensory_resources_guide_for_museums/social-narrative/#:~:text=Google%20Slides%20version" target="_blank">social narrative</a> and <a href="https://wp.nyu.edu/sensory_resources_guide_for_museums/sensory-guide/#:~:text=Sensory%20Guide%20Template%20(GoogleSlide)" target="_blank">sensory guide</a> for this one small room (especially one with little of sensory note), likely adds little value, but I want to introduce the concepts and so included templates from the “Sensory Resources Guide For Museum” by NYU’s Ability Project.</div>
-  
-  
+ 
+
+### Technology
+
+<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
+
+- Documents should pass <a href="https://www.grackledocs.com/en/" target="_blank">Grackle's</a> (or similar) accessibility audits to support people looking at digital versions.
+- Teacher laptop
+- Classroom projector
+- Computers for students
+- Color printer
+- Any applicable student-specific assistive technology. _Examples:_ 
+    + Audio player (such as headphones and the student's cellphone with pre-downloaded MP3s)
+    + [FM/DM system](https://www.healthyhearing.com/help/assistive-listening-devices/fm-systems)
+
+
 ### Prior Learning Connections
   
 <div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
@@ -155,7 +170,7 @@ teacher wearing a microphone -->
 
 - ["Combating Sensory Overload: How Zoos and Museums Are Redefining Inclusion" (Cleaver, 2022)](https://www.nytimes.com/2022/04/22/travel/sensory-disabilities-travel.html?mwgrp=c-dbar&unlocked_article_code=1.H00.Zr3u.vZ6giCsrWWec&hpgrp=ar-abar&smid=url-share)  
 
-- If applicable, request the gallery's permission before bringing Magic Model clay or similar fidget tools.
+- If applicable, request the gallery's permission beforehand to bringing Magic Model clay or similar fidget tools.
 
 
 <div class="footnote"><a name="limited-sight-footnote"><sup>[3]</sup></a>  While not applicable for this visit, <a href="https://bootcamp.uxdesign.cc/designing-for-touch-975e47065935" target="blank">swell printing</a> seems like an intriguing way to potentially interact with two-dimensional art, especially as three-dimensional printing continues to be more widely accessible. The <a href="https://www.guggenheim.org/event/event_series/minds-eye" target="blank">Guggenheim Museum's Mind's Eye Programs</a> have previously used it.</div> 
@@ -187,14 +202,14 @@ See the “Assignment Details” section of UDL Rest Worksheet.
 
 ### Procedure
 
-See [UDL Guidelines](https://udlguidelines.cast.org/).
+_This section is closely related to [§ Materials](#materials)._
 
 
 **Pre-Visit**
   
 In-class (45 minutes)
 
-_Part one:_ [“Rest Is Power” Social Narrative](https://docs.google.com/document/d/1ZyncmEXcku9pCSlDkl6x6oXWi1iRzGurc0Csnr-r8cQ/edit#heading=h.e2qalla12zom) and an introduction to tomorrow's plan. (5 minutes)
+_Part one:_ Visit-specific social narrative<sup> [\[2\]](#accessible-footnote)</sup> and an introduction to tomorrow's plan. (5 minutes)
 
 - The larger the site, the more critical we talk through the visit beforehand.
     
@@ -206,7 +221,7 @@ _Part two:_ Lemon identification activity [“When Life Hands You a Lemon, Peel 
 - Passing out two or three different types of fruit may simplify and streamline the activity.  
     
 
-_Part three:_ Read and discuss the Huffington Post article ["How Rest Is An Act Of Resistance For Black People" (Wilson, 2023)](https://drive.google.com/file/d/1S-vlw7GAAZ3IO8rXa65XvnDN0ifFzAzs/view?usp=sharing) (25 minutes)  
+_Part three:_ Read and discuss the Huffpost article (linked in [§ Materials](#materials)) (25 minutes)  
   
 - Rationale: This article is more approachable to sixth graders than the “Curatorial Statement” in the [exhibition catalog](https://drive.google.com/file/d/1xGbyQO9SPgUWgAPJseBq_4udJM6DXjDB/view) (p. 6) or the [Nap Ministry](https://thenapministry.wordpress.com/about/) website. The seven different kinds of rest listed are also helpful for preparing for our visit.  
     
@@ -217,7 +232,7 @@ _Part three:_ Read and discuss the Huffington Post article ["How Rest Is An Act 
 
 On-site (60 minutes)
 
-See UDL Rest Worksheet.
+See [§ Worksheet](#worksheet).
   
   
 **Post-Visit**
@@ -228,6 +243,65 @@ _Part two:_ On the day the summative assessment is due, students will spend most
 
 
 
+<hr>
+
+## Worksheet
+
+<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
+
+<a href="/assets/pdf/spced-2051/udl-rest-worksheet.pdf" target="blank"><i class="fas fa-file-pdf"></i> Worksheet</a>  
+
+
+### Ms. Stein's Example
+
+<!-- 📌 TODO add disclaimer -->
+
+
+#### Description
+
+|  Topic                 |  Artwork-Specific                     |  
+|------------------------|------------------------------|  
+| **Title**              | _My Mother Named Me Beloved_ |  
+| **Artist**             | Kalila Ain                   |  
+| **Year**               | 2021                         |  
+| **Dimensions**         | 24 in x 36 in                |  
+| **Accompanying Text**  | “My mother named me Kalila, Ain (meaning: beloved, apple of my eye) because my birth brought her abundance and a new capacity for love that was so all encompassing, she had previously thought it inconceivable. Namesake of Toni Morrison's 1987 novel, _My Mother Named Me Beloved_ centers the deep, unwavering love between mother and daughter, water as a source of reconnection, and exhalation as a result of this union.” |
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="/assets/img/edct-2510/pexels-fox-book-1400.webp">
+            {% include figure.html path="assets/img/edct-2510/pexels-fox-book.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="/assets/img/edct-2510/pexels-fox-book-1400.webp">
+            {% include figure.html path="assets/img/edct-2510/pexels-fox-book.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+</div>
+<div class="caption">
+    ::ADD A CAPTION!::
+</div>
+
+
+#### Personal Connection
+
+<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
+
+My Mother Named Me Beloved by Kalila Ain (2021) is a three-foot wide, two-foot high painting. The painting's background is blue and white. There are a lot of different shades of blue. The brush strokes and even the brush hairs are visible in many places. Some strokes come together to form peaks, giving the background the appearance of water over about ⅜ of the canvas. A much darker blue item on top of the water appears to be a blanket or towel. Two figures, appearing like a woman and a girl, lie on the blanket with their eyes closed. The woman covers about ⅜ of the canvas, and the girl ⅛. The woman is visible from head to midthigh. The girl is visible from her head to part of her backside. They are lying close together, but it is unclear if they are touching. The woman is on her right side, and the girl is on her stomach. Their faces are towards the viewer.
+
+From the viewer's perspective, the woman's body is curved, with her left thigh in the upper right corner and her right hand extended into the lower left corner. The figures have similar hair colors and golden brown skin. Based on the painting's title and the accompanying text, the child and woman may be the artist, Kalila Ain, and her mother. The woman appears to be wearing a blue one-piece swimsuit, and the girl a sparkly blue two-piece. The girl has goggles resting over her eyebrows. The blanket comes apart at the edges. At two points at its bottom, it drips down. It fades around its upper edge. The blue shadowing on the figures’ left arms suggests their bodies are slightly in the water. The reflection of the woman's left hand is visible in the water. 
+
+
+### Student's Turn
+
+<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
+
+
+### Assignment Details
+
+<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
 
 <hr>
 
@@ -252,6 +326,8 @@ Images:
   
 <!-- - 📌 [UDL How Do You Rest · gSlides](https://docs.google.com/presentation/d/1VopLgMBET4OqaG8ZNVtdBt6GhxGG_hK_haCN1Zmk5j8/edit?usp=sharing) also contains general additional advice for class field trips to locations like museums.   -->
   
+- [UDL Guidelines](https://udlguidelines.cast.org/)
+
 - The [Guggenheim for All](https://www.guggenheim.org/accessibility/guggenheim-for-all/) initiative is great for learning more about museum accessibility.
   
 - Social Narrative  
@@ -260,7 +336,7 @@ Images:
       
     + ["Steps for Implementation: Social Narratives"](https://autismpdc.fpg.unc.edu/sites/autismpdc.fpg.unc.edu/files/SocialNarratives_Steps_0.pdf) by the National Professional Development Center on Autism Spectrum Disorders.  
       
-    + _Examples:_ the Met's for [families with children with autism](https://www.metmuseum.org/-/media/files/events/programs/progs-for-visitors-with-disabilities/social-narrative-children.pdf). Also, see related [Met visitor resources](https://www.metmuseum.org/events/programs/access/visitors-with-developmental-and-learning-disabilities/for-visitors-with-autism-spectrum-disorders).  
+    + _Examples:_ the Metropolitan Museum of Art's for [families with children with autism](https://www.metmuseum.org/-/media/files/events/programs/progs-for-visitors-with-disabilities/social-narrative-children.pdf). Also, see their related [visitor resources](https://www.metmuseum.org/events/programs/access/visitors-with-developmental-and-learning-disabilities/for-visitors-with-autism-spectrum-disorders).  
   
   
 - Verbal description  
