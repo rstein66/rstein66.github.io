@@ -75,7 +75,6 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 
 <u>Note</u>: Add student-specific assistive technology where appropriate. <i>_For example, a student whose [504](https://www.schools.nyc.gov/docs/default-source/default-document-library/504-accommodations-student-and-family-guide.pdf) states they can use a computer to type instead of writing something out by hand._  
 
-<!-- TODO Why is h4 the same size as h3? -->
 
 **Pre-Visit Materials**
   
@@ -247,51 +246,57 @@ _Part two:_ On the day the summative assessment is due, students will spend most
 
 ## Worksheet
 
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
-
 <a href="/assets/pdf/spced-2051/udl-rest-worksheet.pdf" target="blank"><i class="fas fa-file-pdf"></i> Worksheet</a>  
 
 
 ### Ms. Stein's Example
 
-<!-- 📌 TODO add disclaimer -->
+<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
 
-
-#### Description
-
-|  Topic                 |  Artwork-Specific                     |  
+#### Artwork Overview
+  
+| Title                  | _My Mother Named Me Beloved_ |  
 |------------------------|------------------------------|  
-| **Title**              | _My Mother Named Me Beloved_ |  
 | **Artist**             | Kalila Ain                   |  
 | **Year**               | 2021                         |  
 | **Dimensions**         | 24 in x 36 in                |  
-| **Accompanying Text**  | “My mother named me Kalila, Ain (meaning: beloved, apple of my eye) because my birth brought her abundance and a new capacity for love that was so all encompassing, she had previously thought it inconceivable. Namesake of Toni Morrison's 1987 novel, _My Mother Named Me Beloved_ centers the deep, unwavering love between mother and daughter, water as a source of reconnection, and exhalation as a result of this union.” |
-
+| **Accompanying Text**  | “My mother named me Kalila, Ain (meaning: beloved, apple of my eye) because my birth brought her abundance and a new capacity for love that was so all encompassing, she had previously thought it inconceivable. Namesake of Toni Morrison's 1987 novel, _My Mother Named Me Beloved_ centers the deep, unwavering love between mother and daughter, water as a source of reconnection, and exhalation as a result of this union.” |  
+  
+**Images**  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="/assets/img/edct-2510/pexels-fox-book-1400.webp">
-            {% include figure.html path="assets/img/edct-2510/pexels-fox-book.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" %}
+        <a href="/assets/img/spced-2051/mmnmb-catalog-image-1400.webp">
+            {% include figure.html path="assets/img/spced-2051/mmnmb-catalog-image.jpg" alt="Painting is described in the next section, called 'Description'." class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <a href="/assets/img/edct-2510/pexels-fox-book-1400.webp">
-            {% include figure.html path="assets/img/edct-2510/pexels-fox-book.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" %}
+        <a href="/assets/img/spced-2051/mmnmb-paint-texture-1400.webp">
+            {% include figure.html path="assets/img/spced-2051/mmnmb-paint-texture-cropped.jpg" alt="Uneven paint layer thickness creates the illusion of sparkles on the girl's bathing suit" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
 </div>
 <div class="caption">
-    ::ADD A CAPTION!::
+    <a href="https://drive.google.com/file/d/1xGbyQO9SPgUWgAPJseBq_4udJM6DXjDB/view" target="_blank">Exhibition catalog photo</a> of <i>My Mother Named Me Beloved</i> (left). Zoomed in and angled photo taken of the painting by Ms. Stein at the exhibition showing different paint texture (right).
 </div>
 
 
+#### Description
+
+<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>  
+
+<!-- 📌📌 TODO add disclaimer -->  
+
+_My Mother Named Me Beloved_ by Kalila Ain (2021) is a three-foot wide, two-foot high painting. The painting's background is blue and white. There are a lot of different shades of blue. The brush strokes and even the brush hairs are visible in many places. Some strokes come together to form peaks, giving the background the appearance of water over about ⅜ of the canvas. A much darker blue item on top of the water appears to be a blanket or towel. Two figures, appearing like a woman and a girl, lie on the blanket with their eyes closed. The woman covers about ⅜ of the canvas, and the girl ⅛. The woman is visible from head to midthigh. The girl is visible from her head to part of her backside. They are lying close together, but it is unclear if they are touching. The woman is on her right side, and the girl is on her stomach. Their faces are towards the viewer.  
+  
+From the viewer's perspective, the woman's body is curved, with her left thigh in the upper right corner and her right hand extended into the lower left corner. The figures have similar hair colors and golden brown skin. Based on the painting's title and the accompanying text, the child and woman may be the artist, Kalila Ain, and her mother. The woman appears to be wearing a blue one-piece swimsuit, and the girl a sparkly blue two-piece. The girl has goggles resting over her eyebrows. The blanket comes apart at the edges. At two points at its bottom, it drips down. It fades around its upper edge. The blue shadowing on the figures’ left arms suggests their bodies are slightly in the water. The reflection of the woman's left hand is visible in the water.   
+
+  
 #### Personal Connection
 
 <div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
-
-My Mother Named Me Beloved by Kalila Ain (2021) is a three-foot wide, two-foot high painting. The painting's background is blue and white. There are a lot of different shades of blue. The brush strokes and even the brush hairs are visible in many places. Some strokes come together to form peaks, giving the background the appearance of water over about ⅜ of the canvas. A much darker blue item on top of the water appears to be a blanket or towel. Two figures, appearing like a woman and a girl, lie on the blanket with their eyes closed. The woman covers about ⅜ of the canvas, and the girl ⅛. The woman is visible from head to midthigh. The girl is visible from her head to part of her backside. They are lying close together, but it is unclear if they are touching. The woman is on her right side, and the girl is on her stomach. Their faces are towards the viewer.
-
-From the viewer's perspective, the woman's body is curved, with her left thigh in the upper right corner and her right hand extended into the lower left corner. The figures have similar hair colors and golden brown skin. Based on the painting's title and the accompanying text, the child and woman may be the artist, Kalila Ain, and her mother. The woman appears to be wearing a blue one-piece swimsuit, and the girl a sparkly blue two-piece. The girl has goggles resting over her eyebrows. The blanket comes apart at the edges. At two points at its bottom, it drips down. It fades around its upper edge. The blue shadowing on the figures’ left arms suggests their bodies are slightly in the water. The reflection of the woman's left hand is visible in the water. 
+  
+Growing up, my father and I went to the public swimming pool most days after my summer camp and his work day. I loved it. Even though I was in the pool at camp, this was much more fun. In the evenings, I did not have swim lessons. When I was little, my father and I would play together in the pool. When I got older, I would play with other kids, and he would swim laps. Then we would relax by the pool. We often had a snack. Sometimes, we napped like Kalila Ain and her mother. Sometimes,  we read our books side-by-side. I love swimming. But, most of all, I loved spending that time with my dad. Those summer evenings are some of my favorite memories.  
 
 
 ### Student's Turn
