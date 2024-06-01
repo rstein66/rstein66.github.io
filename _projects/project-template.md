@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Narrative Course Template
-description: Narrative, Digital Media, and Learning course project page TEMPLATE
+title: Project Name
+description: Project TEMPLATE
 img: assets/img/1.jpg
 importance: 5
 category: [nyu-hide, edct-2510-hide]
@@ -9,7 +9,7 @@ category: [nyu-hide, edct-2510-hide]
 
 **Contents:**
 
-<!-- MarkdownTOC -->
+<!-- MarkdownTOC levels="2,3" -->
 
 - [Concept Overview](#concept-overview)
 - [Statement of Need](#statement-of-need)
@@ -18,7 +18,8 @@ category: [nyu-hide, edct-2510-hide]
 - [Learning Theories](#learning-theories)
 - [Concept Description](#concept-description)
 - [Prototype](#prototype)
-- [Acknowledgments and Resources](#acknowledgments-and-resources)
+- [Acknowledgments](#acknowledgments)
+    - [Resources](#resources)
 
 <!-- /MarkdownTOC -->
 
@@ -84,7 +85,7 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 
 
 
-## Acknowledgments and Resources
+## Acknowledgments
 
-- This project was initially created for NYU's graduate course [Narrative, Digital Media and Learning](https://steinhardt.nyu.edu/courses/narrative-digital-media-and-learning).
--   
+
+### Resources
