@@ -7,16 +7,16 @@ subtitle: NYU Graduate Student
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false  # crops the image to make it circular
-  more_info:
+  image_circular: false # crops the image to make it circular
+  more_info: 
 
 news: false  # includes a list of news items
-selected_papers: false  # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 
-In fall 2023, I started a one-year master's program at New York University called [Specialized Studies in Education](https://steinhardt.nyu.edu/degree/specialized-studies-education). The program allows me to design my studies. I focus on how technology can enhance, rather than replace, in-person learning in nonformal education spaces (such as museums and libraries). I am particularly passionate about working with children.
+In fall 2023, I started a one-year master's program at New York University called [Specialized Studies in Education](https://steinhardt.nyu.edu/degree/specialized-studies-education). The program allows me to design my studies. I focus on how technology can enhance, rather than replace, in-person learning in nonformal education spaces (such as museums and libraries). I am particularly passionate about working with children. 
 
 I graduated from Swarthmore College in 2015 with a bachelor's in computer science and minors in art history and education. I worked as a software developer and consultant for six years after thru-hiking the 2,200-mile [Appalachian Trail](https://appalachiantrail.org/explore/hike-the-a-t/) from [Maine to Georgia](https://appalachiantrail.org/explore/hike-the-a-t/thru-hiking/southbound/).
 

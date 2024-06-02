@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank  # the website title (if 'blank', full name will be used instead)
+title: blank # the website title (if 'blank', full name will be used instead)
 first_name: Rachel
 middle_name:
 last_name: Stein
@@ -18,22 +18,22 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicons/icons8-user-folder-material-rounded-32.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://rstein66.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: false  # set to true if you want to display last updated in the footer
+baseurl: # the subpath of your site, e.g. /blog/
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true  # set to false to disable the back to top button
+back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default  # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark  # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
-  theme_light: flat  # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
+  theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
+  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -49,7 +49,7 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: false  # TODO maybe re-add later? It's a cool feature (rstein)
+search_enabled: true
 socials_in_search: false
 
 # Dimensions
@@ -70,31 +70,31 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-acm_id:  # your dl.acm.org/profile/id
-blogger_url:  # your blogger URL
-bluesky_url:  # your bluesky URL
-dblp_url:  # your DBLP profile url
-discord_id:  # your discord id (18-digit unique numerical identifier)
-facebook_id:  # your facebook id
-flickr_id:  # your flickr id
-github_username: rstein66  # your GitHub user name
-gitlab_username:  # your GitLab user name
-ieee_id:  # your ieeexplore.ieee.org/author/id
-instagram_id:  # your instagram id
-kaggle_id:  # your kaggle id
-keybase_username:  # your keybase user name
-lastfm_id:  # your lastfm id
-lattes_id:  # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: rstein66  # your LinkedIn user name
-mastodon_username:  # your mastodon instance+username in the format instance.tld/@username
-medium_username:  # your Medium username
-orcid_id:  # your ORCID ID
-osf_id:  # your OSF ID
+acm_id: # your dl.acm.org/profile/id
+blogger_url: # your blogger URL
+bluesky_url: # your bluesky URL
+dblp_url: # your DBLP profile url
+discord_id: # your discord id (18-digit unique numerical identifier)
+facebook_id: # your facebook id
+flickr_id: # your flickr id
+github_username: rstein66 # your GitHub user name
+gitlab_username: # your GitLab user name
+ieee_id: # your ieeexplore.ieee.org/author/id
+instagram_id: # your instagram id
+kaggle_id: # your kaggle id
+keybase_username: # your keybase user name
+lastfm_id: # your lastfm id
+lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+linkedin_username: # your LinkedIn user name
+mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+medium_username: # your Medium username
+orcid_id: # your ORCID ID
+osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: # your Google Scholar ID
+scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -111,7 +111,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-#  You can even add a little note about which of these is the best way to reach you.
+  You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -119,21 +119,21 @@ contact_note: >
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
-cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
+google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification:  # your google-site-verification ID (Google Search Console)
-bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
+google_site_verification: # your google-site-verification ID (Google Search Console)
+bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # blog_name will be displayed in your blog page
+blog_name: al-folio # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
-lsi: false  # produce an index for related posts
+lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
@@ -188,14 +188,14 @@ collections:
     permalink: /projects/:path/
 
 announcements:
-  enabled: false
-  scrollable: true  # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5  # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
-  scrollable: true  # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3  # leave blank to include all the blog posts
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -326,9 +326,9 @@ scholar:
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
-  altmetric: true  # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
-  dimensions: true  # Dimensions badge (https://badge.dimensions.ai/)
-  google_scholar: false  # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
+  altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
+  google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
