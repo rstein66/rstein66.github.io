@@ -4,7 +4,7 @@ title: Project Name
 description: Project TEMPLATE
 img: assets/img/1.jpg
 importance: 5
-category: [nyu-hide, edct-2510-hide]
+category: [nyu-hide]
 ---
 
 **Contents:**
@@ -19,7 +19,7 @@ category: [nyu-hide, edct-2510-hide]
 - [Concept Description](#concept-description)
 - [Prototype](#prototype)
 - [Acknowledgments](#acknowledgments)
-    - [Resources](#resources)
+- [Resources](#resources)
 
 <!-- /MarkdownTOC -->
 
@@ -88,4 +88,4 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 ## Acknowledgments
 
 
-### Resources
+## Resources

@@ -3,7 +3,7 @@ layout: page
 title: How Do You Rest?
 description: Universal Design for Learning lesson plan.
 img: assets/img/spced-2051/udl-cover-photo.jpg
-importance: 5
+importance: 2
 category: [nyu, spced-2051]
 ---
 
@@ -222,7 +222,7 @@ _Part two:_ Lemon identification activity [“When Life Hands You a Lemon, Peel 
 
 _Part three:_ Read and discuss the Huffpost article (linked in [§ Materials](#materials)) (25 minutes)  
   
-- Rationale: This article is more approachable to sixth graders than the “Curatorial Statement” in the [exhibition catalog](https://drive.google.com/file/d/1xGbyQO9SPgUWgAPJseBq_4udJM6DXjDB/view) (p. 6) or the [Nap Ministry](https://thenapministry.wordpress.com/about/) website. The seven different kinds of rest listed are also helpful for preparing for our visit.  
+- Rationale: This article is more approachable to sixth graders than the “Curatorial Statement” in the [exhibition catalog](https://drive.google.com/file/d/1SahGCnY64xyX30AsJoZUO0h_HBDcTAh9/view) (p. 6) or the [Nap Ministry](https://thenapministry.wordpress.com/about/) website. The seven different kinds of rest listed are also helpful for preparing for our visit.  
     
 - _Note on activity ordering:_ Students will do the lemon identification activity before this because (1) it will allow the students to move around and be silly before needing to be serious, and (2) the class will end on this topic, making it easier for students who wish to continue to think about and discuss the article do so.  
     
@@ -279,7 +279,7 @@ The teacher's example below is from pages 1–2 of the worksheet.
     </div>
 </div>
 <div class="caption">
-    <a href="https://drive.google.com/file/d/1xGbyQO9SPgUWgAPJseBq_4udJM6DXjDB/view" target="_blank">Exhibition catalog photo</a> of <i>My Mother Named Me Beloved</i> (left). Zoomed in and angled photo taken of the painting by Ms. Stein at the exhibition showing different paint texture (right).
+    <a href="https://drive.google.com/file/d/1SahGCnY64xyX30AsJoZUO0h_HBDcTAh9/view" target="_blank">Exhibition catalog</a> photo of <i>My Mother Named Me Beloved</i> (left). Zoomed in and angled photo taken of the painting by Ms. Stein at the exhibition showing different paint texture (right).
 </div>
 
 
@@ -311,7 +311,7 @@ Students will complete pages 3–4 of the <a href="/assets/pdf/spced-2051/udl-re
 
 <summary><b>Directions</b></summary>
 
-    <table><tr><td>
+    <hr>
     <ol>
         <li><p> Spend a few minutes looking around for an artwork you feel strongly connected to.  </p></li>
         <li><p> Fill out the &quot;Artwork Overview&quot; table. <em>(Note: The chart does not include &quot;Images&quot;.)</em></p></li>
@@ -326,7 +326,7 @@ Students will complete pages 3–4 of the <a href="/assets/pdf/spced-2051/udl-re
             <li>Explain why you feel strongly connected to this artwork. Choose whatever format you prefer. <em>Examples:</em> a poem, a song, a drawing, one or more paragraphs.</li>
         </ul></li>
     </ol>
-    </td></tr></table>
+    <hr>
 
 </details>
 
@@ -340,10 +340,9 @@ Page 5 of the <a href="/assets/pdf/spced-2051/udl-rest-worksheet.pdf" target="bl
 <details>
 <summary><b>Details</b></summary>
     
-    <table><tr><td>
-    <br>
+    <hr>
     <p>For the exhibition catalog, go to <a href="https://drive.google.com/file/d/1SahGCnY64xyX30AsJoZUO0h_HBDcTAh9/view" target="_blank">bit.ly/rest-exhibit-catalog</a>.</p>
-    <br>
+    
     <p>Type up your work.</p>
     <ul>
         <li><p>Times New Roman 12pt font, double-spaced, 1-inch margins.</p></li>
@@ -368,7 +367,6 @@ Page 5 of the <a href="/assets/pdf/spced-2051/udl-rest-worksheet.pdf" target="bl
         <li><p>You can prerecord the reading and play it for your group instead of reading it out loud in real-time. Prerecording is optional. If you decide to, you must have it ready at the start of the group time. Remember to test it before class!</p></li>
         <li><p>The teacher will select the groups. Each group will have around six people.</p></li>
     </ul>
-    </td></tr></table>
 
 </details>
 
