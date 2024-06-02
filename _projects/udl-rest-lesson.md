@@ -44,8 +44,6 @@ My plan's primary outcomes/objectives are that students will:
 
 ## Lesson Plan
 
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
-
 <a href="/assets/pdf/spced-2051/udl-rest-lesson-plan.pdf" target="blank"><i class="fas fa-file-pdf"></i> Lesson Plan</a>  
   
 An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> [\[1\]](#exhibition-footnote)</sup>
@@ -70,8 +68,6 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 
 
 ### Materials
-
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
 
 <u>Note</u>: Add student-specific assistive technology where appropriate. <i>_For example, a student whose [504](https://www.schools.nyc.gov/docs/default-source/default-document-library/504-accommodations-student-and-family-guide.pdf) states they can use a computer to type instead of writing something out by hand._  
 
@@ -103,8 +99,6 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 
 ### Technology
 
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
-
 - Documents should pass <a href="https://www.grackledocs.com/en/" target="_blank">Grackle's</a> (or similar) accessibility audits to support people looking at digital versions.
 - Teacher laptop
 - Classroom projector
@@ -117,14 +111,10 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 
 ### Prior Learning Connections
   
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
-  
 - [“Where I'm From”](http://www.georgeellalyon.com/where.html) poems – due to this assignment, students will already be familiar with using descriptive language, discussing personal topics like family, and sharing respectful feedback on other students' work.  
 
 
 ### Differentiation
-
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
 
 **English Writing Skills**
 
@@ -136,8 +126,6 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 
 
 ### Accommodations
-
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
 
 This lesson plan is intended to be reasonably widely accessible; however, it assumes that specific accommodations will be made on a case-by-case basis. 
 
@@ -178,16 +166,12 @@ teacher wearing a microphone -->
 
 ### Special Concerns
 
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
-
 _(Classroom management items, medication information, etc.)_
 
 - <u>Allergies</u>: Do not use food students are allergic to in the “lemon identification activity.” 
   
 
 ### Assessment
-
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
 
 
 **Formative Assessment** 
@@ -251,8 +235,6 @@ _Part two:_ On the day the summative assessment is due, students will spend most
 
 ### Ms. Stein's Example
 
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
-
 The teacher's example below is from pages 1–2 of the worksheet.
   
 #### Artwork Overview
@@ -285,8 +267,6 @@ The teacher's example below is from pages 1–2 of the worksheet.
 
 #### Description
 
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>  
-
 <!-- 📌📌 TODO add disclaimer -->  
 
 _My Mother Named Me Beloved_ by Kalila Ain (2021) is a three-foot wide, two-foot high painting. The painting's background is blue and white. There are a lot of different shades of blue. The brush strokes and even the brush hairs are visible in many places. Some strokes come together to form peaks, giving the background the appearance of water over about ⅜ of the canvas. A much darker blue item on top of the water appears to be a blanket or towel. Two figures, appearing like a woman and a girl, lie on the blanket with their eyes closed. The woman covers about ⅜ of the canvas, and the girl ⅛. The woman is visible from head to midthigh. The girl is visible from her head to part of her backside. They are lying close together, but it is unclear if they are touching. The woman is on her right side, and the girl is on her stomach. Their faces are towards the viewer.  
@@ -296,14 +276,10 @@ From the viewer's perspective, the woman's body is curved, with her left thigh i
   
 #### Personal Connection
 
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
-  
 Growing up, my father and I went to the public swimming pool most days after my summer camp and his work day. I loved it. Even though I was in the pool at camp, this was much more fun. In the evenings, I did not have swim lessons. When I was little, my father and I would play together in the pool. When I got older, I would play with other kids, and he would swim laps. Then we would relax by the pool. We often had a snack. Sometimes, we napped like Kalila Ain and her mother. Sometimes,  we read our books side-by-side. I love swimming. But, most of all, I loved spending that time with my dad. Those summer evenings are some of my favorite memories.  
 
 
 ### Students' Turn
-
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
 
 Students will complete pages 3–4 of the <a href="/assets/pdf/spced-2051/udl-rest-worksheet.pdf" target="blank"><i class="fas fa-file-pdf"></i> worksheet</a>. It follows the same format as the teacher's example, but provides a couple hints. 
 
@@ -332,8 +308,6 @@ Students will complete pages 3–4 of the <a href="/assets/pdf/spced-2051/udl-re
 
 
 ### Assignment Details
-
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
 
 Page 5 of the <a href="/assets/pdf/spced-2051/udl-rest-worksheet.pdf" target="blank"><i class="fas fa-file-pdf"></i> worksheet</a> outlines the post-visit assignment.
 
@@ -374,8 +348,6 @@ Page 5 of the <a href="/assets/pdf/spced-2051/udl-rest-worksheet.pdf" target="bl
 
 ## Acknowledgments
 
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
-
 - This project was initially created for NYU's graduate course [Foundations of Curriculum for Diverse Learners](https://steinhardt.nyu.edu/courses/foundations-curriculum-diverse-learners) taught by Professor [Newhouse](https://steinhardt.nyu.edu/people/katie-scott-newhouse). As a result, her course primarily shaped and informed this lesson plan–not least Professor Newhouse's lesson plan template. She providing detailed feedback, which I incorporate into my post-course revisions.
 
 - This lesson was also inspired and informed by Professor [Ko](https://as.nyu.edu/departments/museumstudies/people/adjunct-faculty.html)'s [Museum Education](https://as.nyu.edu/departments/museumstudies/courses/fall-2023-course-schedule-.html) course and Professor [Leou](https://steinhardt.nyu.edu/people/mary-leou)’s Using [Non-formal Resources to Teach Science and Sustainability](https://steinhardt.nyu.edu/courses/using-non-formal-resources-teach-science-and-sustainability) course.
@@ -389,8 +361,6 @@ Images:
 
 ## Additional Resources
 
-<div class="back-to-top"><a href="#" class="top">BACK TO TOP <i class="fas fa-angle-up"></i></a></div>
-  
 <!-- - 📌 [UDL How Do You Rest · gSlides](https://docs.google.com/presentation/d/1VopLgMBET4OqaG8ZNVtdBt6GhxGG_hK_haCN1Zmk5j8/edit?usp=sharing) also contains general additional advice for class field trips to locations like museums.   -->
   
 - [UDL Guidelines](https://udlguidelines.cast.org/)
