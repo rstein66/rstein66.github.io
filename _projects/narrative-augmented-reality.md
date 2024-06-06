@@ -4,24 +4,10 @@ title: Spectrum of Extinction
 description: Visualize and inspect human impact on Earth's biodiversity.
 img: assets/img/edct-2510/extinction-spectrum/spectrum-of-life-wall.jpg
 importance: 1
-category: [nyu, edct-2510]
+category: [nyu, edct-2510, msms]
+toc:
+  sidebar: left
 ---
-
-**Contents:**
-
-<!-- MarkdownTOC levels="2" -->
-
-- [Concept Overview](#concept-overview)
-- [Statement of Need](#statement-of-need)
-- [Target Audience](#target-audience)
-- [Learning Goals](#learning-goals)
-- [Prototype](#prototype)
-- [Concept Description](#concept-description)
-- [Acknowledgments](#acknowledgments)
-- [Additional Resources](#additional-resources)
-
-<!-- /MarkdownTOC -->
-
 
 **Abbreviations:**
 

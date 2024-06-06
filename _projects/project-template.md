@@ -5,24 +5,9 @@ description: Project TEMPLATE
 img: assets/img/1.jpg
 importance: 5
 category: [nyu-hide]
+toc:
+  sidebar: left
 ---
-
-**Contents:**
-
-<!-- MarkdownTOC levels="2,3" -->
-
-- [Concept Overview](#concept-overview)
-- [Statement of Need](#statement-of-need)
-- [Target Audience](#target-audience)
-- [Learning Goals](#learning-goals)
-- [Learning Theories](#learning-theories)
-- [Concept Description](#concept-description)
-- [Prototype](#prototype)
-- [Acknowledgments](#acknowledgments)
-- [Resources](#resources)
-
-<!-- /MarkdownTOC -->
-
 
 ## Concept Overview
 

@@ -5,31 +5,9 @@ description: Universal Design for Learning lesson plan.
 img: assets/img/spced-2051/udl-cover-photo.jpg
 importance: 2
 category: [nyu, spced-2051]
+toc:
+  sidebar: left
 ---
-
-**Contents:**
-
-<!-- MarkdownTOC levels="2,3" -->
-
-- [Overview](#overview)
-- [Lesson Plan](#lesson-plan)
-    - [Materials](#materials)
-    - [Technology](#technology)
-    - [Prior Learning Connections](#prior-learning-connections)
-    - [Differentiation](#differentiation)
-    - [Accommodations](#accommodations)
-    - [Special Concerns](#special-concerns)
-    - [Assessment](#assessment)
-    - [Procedure](#procedure)
-- [Worksheet](#worksheet)
-    - [Ms. Stein's Example](#ms-steins-example)
-    - [Students' Turn](#students-turn)
-    - [Assignment Details](#assignment-details)
-- [Acknowledgments](#acknowledgments)
-- [Additional Resources](#additional-resources)
-
-<!-- /MarkdownTOC -->
-
 
 ## Overview
 
@@ -41,6 +19,14 @@ My plan's primary outcomes/objectives are that students will:
 - Think about the importance of rest and identify at least one form in their lives.  
 - Recognize that rest is an act of resistance for Black people.  
 
+
+>Printable Versions
+>
+><a href="/assets/pdf/spced-2051/udl-rest-lesson-plan.pdf" target="blank"><i class="fas fa-file-pdf"></i> Lesson Plan</a>  
+><a href="/assets/pdf/spced-2051/udl-rest-huffpost-article.pdf" target="blank"><i class="fas fa-file-pdf"></i> "How Rest Is An Act Of Resistance For Black People" (Wilson, 2023)</a>  
+>
+><a href="/assets/pdf/spced-2051/udl-rest-worksheet.pdf" target="blank"><i class="fas fa-file-pdf"></i> Worksheet</a>  
+{: .block-tip }
 
 ## Lesson Plan
 
@@ -64,7 +50,7 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 - Recognize that rest is an act of resistance for Black people.
   
 
-<div class="footnote"><a name="exhibition-footnote"><sup>[1]</sup></a> The exhibition was curated by the Center for Black Visual Culture at New York University. It focused on how Black people’s “rest is resistance.” It ran from September to October 2023. In this imagined lesson plan, the exhibition is current.</div>
+<div class="footnote"><a name="exhibition-footnote"><sup>[1]</sup></a> The exhibition was curated by the Center for Black Visual Culture at New York University. It focused on how Black people's “rest is resistance.” It ran from September to October 2023. In this imagined lesson plan, the exhibition is current.</div>
 
 
 ### Materials
@@ -84,7 +70,7 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 **Visit Materials**
   
 - Printed Handouts  
-    +  [Worksheet](#worksheet)
+    +  [§ Worksheet](#worksheet)
     +  Site-specific sensory guide<sup> [\[2\]](#accessible-footnote)</sup>    
 - Clipboards  
 - Writing implements  
@@ -245,7 +231,9 @@ The teacher's example below is from pages 1–2 of the worksheet.
 | **Year**               | 2021                         |  
 | **Dimensions**         | 24 in x 36 in                |  
 | **Accompanying Text**  | “My mother named me Kalila, Ain (meaning: beloved, apple of my eye) because my birth brought her abundance and a new capacity for love that was so all encompassing, she had previously thought it inconceivable. Namesake of Toni Morrison's 1987 novel, _My Mother Named Me Beloved_ centers the deep, unwavering love between mother and daughter, water as a source of reconnection, and exhalation as a result of this union.” |  
- 
+
+ <br>
+
 **Images**  
 
 <div class="row">
@@ -283,67 +271,53 @@ Growing up, my father and I went to the public swimming pool most days after my 
 
 Students will complete pages 3–4 of the <a href="/assets/pdf/spced-2051/udl-rest-worksheet.pdf" target="blank"><i class="fas fa-file-pdf"></i> worksheet</a>. It follows the same format as the teacher's example, but provides a couple hints. 
 
-<details>
-
-<summary><b>Directions</b></summary>
-
-    <hr>
-    <ol>
-        <li><p> Spend a few minutes looking around for an artwork you feel strongly connected to.  </p></li>
-        <li><p> Fill out the &quot;Artwork Overview&quot; table. <em>(Note: The chart does not include &quot;Images&quot;.)</em></p></li>
-        <li><p>Write a &quot;description&quot; guided by the following:</p>
-        <ul>
-            <li><p> How would you describe it to someone over the phone (when you can&#39;t video call or send photos!)? </p></li>
-            <li><p> Try to be objective and descriptive. <em>For example,</em> instead of &quot;a beautiful day,&quot; say, &quot;the sun is in a light blue sky with no visible clouds.&quot;</p></li>
-            <li><p>Try to avoid making significant assumptions. <em>For example,</em> the teacher wrote that &quot;[b]ased on the painting&#39;s title and the accompanying text, the child and woman may be the artist, Kalila Ain, and her mother&quot; because it does not say that they are, but it seems like a reasonable guess.</p></li>
-        </ul></li>
-        <li><p>Write a &quot;personal connection&quot; guided by the following:  </p>
-        <ul> 
-            <li>Explain why you feel strongly connected to this artwork. Choose whatever format you prefer. <em>Examples:</em> a poem, a song, a drawing, one or more paragraphs.</li>
-        </ul></li>
-    </ol>
-    <hr>
-
-</details>
-
+<ol>
+    <li><p> Spend a few minutes looking around for an artwork you feel strongly connected to.  </p></li>
+    <li><p> Fill out the &quot;Artwork Overview&quot; table. <em>(Note: The chart does not include &quot;Images&quot;.)</em></p></li>
+    <li><p>Write a &quot;description&quot; guided by the following:</p>
+    <ul>
+        <li><p> How would you describe it to someone over the phone (when you can&#39;t video call or send photos!)? </p></li>
+        <li><p> Try to be objective and descriptive. <em>For example,</em> instead of &quot;a beautiful day,&quot; say, &quot;the sun is in a light blue sky with no visible clouds.&quot;</p></li>
+        <li><p>Try to avoid making significant assumptions. <em>For example,</em> the teacher wrote that &quot;[b]ased on the painting&#39;s title and the accompanying text, the child and woman may be the artist, Kalila Ain, and her mother&quot; because it does not say that they are, but it seems like a reasonable guess.</p></li>
+    </ul></li>
+    <li><p>Write a &quot;personal connection&quot; guided by the following:  </p>
+    <ul> 
+        <li>Explain why you feel strongly connected to this artwork. Choose whatever format you prefer. <em>Examples:</em> a poem, a song, a drawing, one or more paragraphs.</li>
+    </ul></li>
+</ol>
+<hr>
 
 ### Assignment Details
 
 Page 5 of the <a href="/assets/pdf/spced-2051/udl-rest-worksheet.pdf" target="blank"><i class="fas fa-file-pdf"></i> worksheet</a> outlines the post-visit assignment.
 
-<details>
-<summary><b>Details</b></summary>
-    
-    <hr>
-    <p>For the exhibition catalog, go to <a href="https://drive.google.com/file/d/1SahGCnY64xyX30AsJoZUO0h_HBDcTAh9/view" target="_blank">bit.ly/rest-exhibit-catalog</a>.</p>
-    
-    <p>Type up your work.</p>
-    <ul>
-        <li><p>Times New Roman 12pt font, double-spaced, 1-inch margins.</p></li>
-        <li><p>Remember to <em>italicize</em> the title of the work of art.</p></li>
-        <li><p>Include the work&#39;s photo from the exhibition catalog. You will probably need to take a screenshot of the image to include it.</p></li>
-        <li><p>If the work has an artist “statement” in the catalog, include that in quotes.  </p></li>
-        <li><p>Aim to make your <strong>description</strong> at most two pages long. There is no minimum length, but remember to be thorough. The work&#39;s photo and the artist&#39;s “statement” do <u>not</u> count. </p></li>
-        <li><p>Use correct [Standard American] English spelling and grammar.</p></li>
-        <li><p>Notes on the personal connection part:</p>
-            <ul>
-                <li><p>Standard spelling and grammar are not required in your song or poem.</p></li>
-                <li><p>If yours is visual, such as a drawing or collage, include it separately.  </p></li>
-            </ul></li>
-        </ul>
+<hr>
 
-    <br>
-    <p>Before turning in your work, you will <strong>share both</strong> parts in small groups in class on the due date.</p>
-    <ul>
-        <li><p>This informal presentation will not be graded. </p></li>
-        <li><p>At the start of group time, you should have the photo of the exhibition artwork you chose on your computer ready to be shown to your group as you share your description.</p></li>
-        <li><p>If your personal connection part is visual, you must have it ready to be shared.  </p></li>
-        <li><p>You can prerecord the reading and play it for your group instead of reading it out loud in real-time. Prerecording is optional. If you decide to, you must have it ready at the start of the group time. Remember to test it before class!</p></li>
-        <li><p>The teacher will select the groups. Each group will have around six people.</p></li>
+<p>For the exhibition catalog, go to <a href="https://drive.google.com/file/d/1SahGCnY64xyX30AsJoZUO0h_HBDcTAh9/view" target="_blank">bit.ly/rest-exhibit-catalog</a>.</p>
+
+<p>Type up your work.</p>
+<ul>
+    <li><p>Times New Roman 12pt font, double-spaced, 1-inch margins.</p></li>
+    <li><p>Remember to <em>italicize</em> the title of the work of art.</p></li>
+    <li><p>Include the work&#39;s photo from the exhibition catalog. You will probably need to take a screenshot of the image to include it.</p></li>
+    <li><p>If the work has an artist “statement” in the catalog, include that in quotes.  </p></li>
+    <li><p>Aim to make your <strong>description</strong> at most two pages long. There is no minimum length, but remember to be thorough. The work&#39;s photo and the artist&#39;s “statement” do <u>not</u> count. </p></li>
+    <li><p>Use correct [Standard American] English spelling and grammar.</p></li>
+    <li><p>Notes on the personal connection part:</p>
+        <ul>
+            <li><p>Standard spelling and grammar are not required in your song or poem.</p></li>
+            <li><p>If yours is visual, such as a drawing or collage, include it separately.  </p></li>
+        </ul></li>
     </ul>
 
-</details>
-
+<p>Before turning in your work, you will <strong>share both</strong> parts in small groups in class on the due date.</p>
+<ul>
+    <li><p>This informal presentation will not be graded. </p></li>
+    <li><p>At the start of group time, you should have the photo of the exhibition artwork you chose on your computer ready to be shown to your group as you share your description.</p></li>
+    <li><p>If your personal connection part is visual, you must have it ready to be shared.  </p></li>
+    <li><p>You can prerecord the reading and play it for your group instead of reading it out loud in real-time. Prerecording is optional. If you decide to, you must have it ready at the start of the group time. Remember to test it before class!</p></li>
+    <li><p>The teacher will select the groups. Each group will have around six people.</p></li>
+</ul>
 <hr>
 
 ## Acknowledgments

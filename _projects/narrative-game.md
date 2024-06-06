@@ -4,24 +4,10 @@ title: Brooklyn Kids
 description: Explore the Brooklyn Children's Museum by game.
 img: assets/img/edct-2510/brooklyn-kids/bk-tunnel-with-otter.jpg
 importance: 1
-category: [nyu, edct-2510]
+category: [nyu, edct-2510, msms]
+toc:
+  sidebar: left
 ---
-
-**Contents:**
-
-<!-- MarkdownTOC levels="2" -->
-
-- [Concept Overview](#concept-overview)
-- [Statement of Need](#statement-of-need)
-- [Target Audience](#target-audience)
-- [Learning Goals](#learning-goals)
-- [Learning Theories](#learning-theories)
-- [Concept Description](#concept-description)
-- [Prototype](#prototype)
-- [Acknowledgments](#acknowledgments)
-- [Additional Resources](#additional-resources)
-
-<!-- /MarkdownTOC -->
 
 > <i class="fab fa-github"></i> **Click [here](https://github.com/rstein66/brooklyn-kids) to see code.**
 
@@ -36,7 +22,7 @@ _Brooklyn Kids_ gives children the freedom to "choose their own adventure" when 
 ### Subject
 
 <p style="text-align: center; font-style: italic;"> 
-    "As the world’s first children’s museum, Brooklyn Children’s Museum has welcomed millions of children and families since 1899 to experience the love of learning" - <a href="https://www.brooklynkids.org/visit" target="_blank">BCM</a>
+    "As the world's first children's museum, Brooklyn Children's Museum has welcomed millions of children and families since 1899 to experience the love of learning" - <a href="https://www.brooklynkids.org/visit" target="_blank">BCM</a>
 </p>
   
 The game focuses on the BCM's ground floor, which houses its permanent exhibits.
