@@ -238,14 +238,10 @@ The teacher's example below is from pages 1–2 of the worksheet.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="/assets/img/spced-2051/mmnmb-catalog-image-1400.webp">
-            {% include figure.html path="assets/img/spced-2051/mmnmb-catalog-image.jpg" alt="Painting is described in the next section, called 'Description'." class="img-fluid rounded z-depth-1" %}
-        </a>
+        {% include figure.html path="assets/img/spced-2051/mmnmb-catalog-image.jpg" alt="Painting is described in the next section, called 'Description'." class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <a href="/assets/img/spced-2051/mmnmb-paint-texture-1400.webp">
-            {% include figure.html path="assets/img/spced-2051/mmnmb-paint-texture-cropped.jpg" alt="Uneven paint layer thickness creates the illusion of sparkles on the girl's bathing suit" class="img-fluid rounded z-depth-1" %}
-        </a>
+        {% include figure.html path="assets/img/spced-2051/mmnmb-paint-texture-cropped.jpg" alt="Uneven paint layer thickness creates the illusion of sparkles on the girl's bathing suit" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">

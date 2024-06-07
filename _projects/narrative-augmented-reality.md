@@ -33,14 +33,10 @@ Walking into the AMNH's [Hall of Biodiversity](https://www.amnh.org/exhibitions/
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <a href="/assets/img/edct-2510/extinction-spectrum/spectrum-of-life-wall-1400.webp">
-            {% include figure.html path="assets/img/edct-2510/extinction-spectrum/spectrum-of-life-wall.jpg"  class="img-fluid rounded z-depth-1" alt="1,500 specimens representing a wide range of bacteria, fungi, plants, and animals are displayed on a long wall in the Hall of Biodiversity." %}
-        </a>
+        {% include figure.html path="assets/img/edct-2510/extinction-spectrum/spectrum-of-life-wall.jpg"  class="img-fluid rounded z-depth-1" alt="1,500 specimens representing a wide range of bacteria, fungi, plants, and animals are displayed on a long wall in the Hall of Biodiversity." zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <a href="/assets/img/edct-2510/extinction-spectrum/biodiversity-hall-map-1400.webp">
-            {% include figure.html path="assets/img/edct-2510/extinction-spectrum/biodiversity-hall-map.png"  class="img-fluid rounded z-depth-1" alt="biodiversity hall map showing that it has seven parts, including: SoL, Solutions Wall, and Transformation of the Biosphere Wall" %}
-        </a>
+        {% include figure.html path="assets/img/edct-2510/extinction-spectrum/biodiversity-hall-map.png"  class="img-fluid rounded z-depth-1" alt="biodiversity hall map showing that it has seven parts, including: SoL, Solutions Wall, and Transformation of the Biosphere Wall" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -68,14 +64,10 @@ While celebrating the Earth's incredible biodiversity, increase awareness and un
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="/assets/img/edct-2510/extinction-spectrum/spectrum-ar-view-finder-mock-1400.webp">
-            {% include figure.html path="assets/img/edct-2510/extinction-spectrum/spectrum-ar-view-finder-mock.jpg" alt="Display case photo with several species highlighted in red" class="img-fluid rounded z-depth-1" %}
-        </a>
+        {% include figure.html path="assets/img/edct-2510/extinction-spectrum/spectrum-ar-view-finder-mock.jpg" alt="Display case photo with several species highlighted in red" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
      <div class="col-sm mt-3 mt-md-0">
-        <a href="/assets/img/edct-2510/extinction-spectrum/spectrum-ar-mock-details-1400.webp">
-            {% include figure.html path="assets/img/edct-2510/extinction-spectrum/spectrum-ar-mock-details.jpg" alt="Dodo bird information, including population and location" class="img-fluid rounded z-depth-1" %}
-        </a>
+        {% include figure.html path="assets/img/edct-2510/extinction-spectrum/spectrum-ar-mock-details.jpg" alt="Dodo bird information, including population and location" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
