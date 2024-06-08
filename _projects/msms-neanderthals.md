@@ -36,6 +36,15 @@ Our intervention aims to promote scientific literacy by helping visitors imagine
 
 A Hologauze screen will be placed directly behind the diorama's glass. Every five minutes, a video will project images onto the Hologauze, visually altering the Neanderthal mannequins and their environment. Visitors will scan a QR code, bringing them to a web page with two versions of the accompanying audio narration. One version will include an audio description (for blind and low-vision visitors), and the other will not. The site will also include a verbal description of the diorama for blind and low-vision visitors and a transcript for d/Deaf and hard-of-hearing visitors. Captions will appear at the top of the Hologauze screen. The audio narration will sync with the video, only starting when the video begins.
 
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ne-album/diorama-gmaps-modified.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<!-- <div class="caption">
+    ::ADD A CAPTION!::
+</div> -->
+
 
 ## Statement of Need
 
@@ -51,25 +60,82 @@ _What are you trying to solve?_ -->
 
 <!-- _What do you want your learners to know or be able to do after engaging with your project._ -->
 
--
+
+**Evidence-Backed? Artistic Influence? Ingrained Racism and Biases?**
 
 ## Concept Description
 
 <!-- _Tell me here about the overall project and why you chose the media for this project.
 Perhaps you tell a little about why you think this works for your audience._ -->
 
-## Logistics
+### Which Diorama?
 
+
+
+
+### Why Neanderthals?
+
+
+#### *Some* Unknowns About Neanderthals
+
+<div class="footnote">(as of Mar 2024)</div>
+
+- <u>Skin color</u>
+- Amount of <u>body hair</u>
+- <u>Eyelid</u> shape
+- <u>Nose</u> cartilage shape
+- <u>Clothing</u>: dependent on regional factors, such as weather + available resources
+- <u>Diet</u>: dependent on regional availability of flora and fauna
+- <u>Shelters</u>: (e.g., caves, rocky outcrops)
+- <u>Facial hair</u> grooming (e.g., may have used obsidian as razors)
+
+
+<!-- TODO word choice below -->
+
+**Note:** We tried to avoid changing racial features, not only because we want to keep it accurate in terms of the location of the site in France, but we do not want to unintentionally replicate something like blackface
+
+
+
+### Why Hologauze?
+
+- no budget
+
+### What is Hologauze?
+
+
+### Setup
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ne-album/diorama-gmaps-modified.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<br>
+
+<details>
+    <summary><b>Mobile Site Mockup</b></summary>
+
+    <div class="row">
+        <div class="col-sm-8 mt-3 mt-md-0">
+            <img src="/assets/img/ne-album/ne-mobile-webpage-mockup.jpg" class="img-fluid rounded z-depth-1 medium-zoom-image" width="auto" height="auto" alt="::ADD ALT TEXT!::" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+        </div>
+    </div>
+
+    <hr>
+</details>
+
+<br>
 
 ## Storyboard
 
-<p class="scene-direction">Scene direction</p>
+<p class="scene-direction">[scene direction]</p>
 
 ### Intro
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/ne-album/scene-00-original.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -84,26 +150,90 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 Let's start with their hair. Scientists can't know what color every Neanderthal's hair was or how they styled it. DNA gives us clues but not exact answers. Like us, some Neanderthals had brown hair that they braided. Some were bald with red beards. Others had graying short hair.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/ne-album/scene-01-hair.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
+<!-- <div class="caption">
+    ::ADD A CAPTION!::
+</div> -->
 
 ### Clothing scenes
 
+<p class="scene-direction">[Clothing appears when the narrator names the item.]</p>
+
+Did Neanderthals wear clothes? Probably. We know they sewed with needles made of animal bones. In this scene, the female in the middle is preparing an animal hide, probably to make clothes. During the hot French summer, a female might have worn a light dress or a straw hat to protect her from the sun. Neanderthals at least wore underwear. _\[Audio description: Boxers with pink hearts flash onto the male Neanderthal.]_ Oops! It's 50,000 years too early for those.
+
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ne-album/scene-02-clothing-boxers.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<!-- <div class="caption">
+     CAPTION
+</div> -->
+
+
+_\[Audio description: The boxers are replaced with a beige loin cloth.]_ Much better!
+
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ne-album/scene-03-clothing-loincloth.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<!-- <div class="caption">
+     CAPTION
+</div> -->
+
+<p class="scene-direction">[All clothing items disappear.]</p>
 
 ### Food scene
+
+<p class="scene-direction">[Items appear when narrator names them. All changes disappear at the end of the scene.]</p>
+
+During the summer in France, scientists think Neanderthals gathered fruits, nuts, and seeds. They knew how to use fire and maybe cooked up some fish for dinner.
+
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ne-album/scene-04-food.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<!-- <div class="caption">
+    ::ADD A CAPTION!::
+</div> -->
 
 
 ### Recreation scene
 
+There's evidence that Neanderthals had rituals. Maybe, they collected flowers or played music for a special ceremony. The first human-made instruments were flutes, so maybe Neanderthals played them too.
+
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ne-album/scene-05-rec.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<!-- <div class="caption">
+    ::ADD A CAPTION!::
+</div> -->
+
+
 ### Family scene
 
+Like us, Neanderthals had fun with their families and took care of each other. Can you imagine a mom watching her toddler play while grandma holds his baby sister and dad tells dad jokes?
 
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ne-album/scene-06-family.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<!-- <div class="caption">
+    ::ADD A CAPTION!::
+</div> -->
 
 ### Outro
 
+
+<hr>
 
 ## Next Steps
 
@@ -111,42 +241,53 @@ Let's start with their hair. Scientists can't know what color every Neanderthal'
 
 - **Check for accuracy** (e.g., types of flora and fauna)
 
-- Solicit feedback from blind, low-vision, d/Deaf, and hard of hearing visitors to improve the experience
+- Verbal description of diorama
+- Audio description
+
 - Edit and shorten the script
-- Professional image generation
+- Professional photo edits & webpage design 
+- Solicit feedback from blind, low-vision, d/Deaf, and hard of hearing visitors to improve the experience
+
 - Figure out a more seamless way to integrate the audio narration
 - A web page with educational content about Neanderthals, paleoanthropology and paleogenetics
+
+
 - Apply Hologauze to the other three dioramas in exhibit?
 
 
 ## Acknowledgments
 
 PEOPLE
+- Rosanna
+- Josh
+- Alice
+- Antro prof?
 
 <details>
     <summary><b>Image Sources</b></summary>
     <ul>
-        <li><a href="/assets/img/ne-album/scene-00-original-1400.webp" target="_blank">Diorama photo</a> - Alyssa Cohen (Aug 2021)</li>
-        <li>Clothing scene assets<ul>
-            <li>Boxers: <a href="https://www.istockphoto.com/photo/valentines-underwear-gm506800876-84385985">wabang70 on iStock</a></li>
-            <li>Hat: <a href="https://x.com/profdanhicks/status/1256150642193809408">@profdanhicks on Twitter</a></li>
-            <li>Loincloth: <a href="https://www.renderhub.com/artshock/brown-leather-loincloth/brown-leather-loincloth-01.jpg">artshock on RenderHub</a></li>
+        <li><a href="/assets/img/ne-album/scene-00-original-1400.webp" target="_blank">Diorama scene</a> - Alyssa Cohen (Aug 2021)</li>
+        <li><a href="/assets/img/ne-album/diorama-gmaps-modified-1400.webp" target="_blank">Diorama in situ</a> (in gallery) - modified <a href="https://www.google.com/maps/@40.7808345,-73.9750143,2a,75y,174.51h,88.24t/data=!3m6!1e1!3m4!1sgHiPAbLEp9XN9loUM6Kq7A!2e0!7i13312!8i6656?coh=205409&entry=ttu" target="_blank">Google Maps</a> (Mar 2016)</li>
+        <li>Clothing scene assets (modified)<ul>
+            <li>Boxers  - <a href="https://www.istockphoto.com/photo/valentines-underwear-gm506800876-84385985">wabang70 on iStock</a></li>
+            <li>Hat - <a href="https://x.com/profdanhicks/status/1256150642193809408">@profdanhicks on Twitter</a></li>
+            <li>Loincloth  - <a href="https://www.renderhub.com/artshock/brown-leather-loincloth/brown-leather-loincloth-01.jpg">artshock on RenderHub</a></li>
         </ul></li>
-        <li>Family scene assets<ul>
-            <li>Baby in sling: <a href="https://www.lillebaby.com/cdn/shop/products/sling_nimbuscloud_0328_720x_9d01cfee-9123-4e8a-940c-16b2423a445d_1800x1800.jpg?v=1663630432">LÍLLÉbaby</a></li>
-            <li>Child: <a href="https://www.haaretz.com/archaeology/2018-11-04/ty-article-magazine/neanderthal-children-got-badly-sick-in-winter-study-shows/0000017f-da73-d432-a77f-df7ba97b0000">Haaretz</a></li>
+        <li>Family scene assets (modified)<ul>
+            <li>Baby in sling - <a href="https://www.lillebaby.com/cdn/shop/products/sling_nimbuscloud_0328_720x_9d01cfee-9123-4e8a-940c-16b2423a445d_1800x1800.jpg?v=1663630432">LÍLLÉbaby</a></li>
+            <li>Child - <a href="https://www.haaretz.com/archaeology/2018-11-04/ty-article-magazine/neanderthal-children-got-badly-sick-in-winter-study-shows/0000017f-da73-d432-a77f-df7ba97b0000">Haaretz</a></li>
         </ul></li>
-        <li>Food scene assets<ul>
-            <li>Basket: <a href="https://www.istockphoto.com/photo/braiding-basket-gm166521429-23702373">VladyslavDanilin on iStock</a></li>
-            <li>Fire: <a href="https://www.istockphoto.com/photo/campfire-on-the-beach-gm1802190577-548575726">Dontstop on iStock</a></li>
-            <li>Fish: <a href="https://www.istockphoto.com/photo/european-bass-spigola-branzino-dicentrarchus-labrax-mediterranean-fish-gm1276836506-376225842">ItalianFoodProduction on iStock</a></li>
-            <li>Grapes: <a href="https://www.istockphoto.com/photo/bunch-of-grapes-and-raisins-gm119680411-14843196">popovaphoto on iStock</a></li>
-            <li>Nuts: <a href="https://www.istockphoto.com/photo/mix-nuts-with-wooden-bowl-gm617882672-107382411">Altayb on iStock</a></li>
-            <li>Tree stump: <a href="https://www.istockphoto.com/photo/beautiful-texture-of-old-tree-stump-table-top-on-white-background-gm1166542705-321380871">HAKINMHAN on iStock</a> </li>
+        <li>Food scene assets (modified)<ul>
+            <li>Basket - <a href="https://www.istockphoto.com/photo/braiding-basket-gm166521429-23702373">VladyslavDanilin on iStock</a></li>
+            <li>Fire - <a href="https://www.istockphoto.com/photo/campfire-on-the-beach-gm1802190577-548575726">Dontstop on iStock</a></li>
+            <li>Fish - <a href="https://www.istockphoto.com/photo/european-bass-spigola-branzino-dicentrarchus-labrax-mediterranean-fish-gm1276836506-376225842">ItalianFoodProduction on iStock</a></li>
+            <li>Grapes - <a href="https://www.istockphoto.com/photo/bunch-of-grapes-and-raisins-gm119680411-14843196">popovaphoto on iStock</a></li>
+            <li>Nuts - <a href="https://www.istockphoto.com/photo/mix-nuts-with-wooden-bowl-gm617882672-107382411">Altayb on iStock</a></li>
+            <li>Tree stump - <a href="https://www.istockphoto.com/photo/beautiful-texture-of-old-tree-stump-table-top-on-white-background-gm1166542705-321380871">HAKINMHAN on iStock</a> </li>
         </ul></li>
-        <li>Recreation scene assets<ul>
-            <li>Flute: <a href="https://www.britishmuseum.org/collection/object/Y_EA6385">British Museum</a></li>
-            <li>Flowers: <a href="https://www.istockphoto.com/photo/bunch-of-lavender-flowers-tied-with-a-rope-isolated-on-a-white-gm1332140077-415073233">igoriss on iStock</a> </li>
+        <li>Recreation scene assets (modified)<ul>
+            <li>Flute - <a href="https://www.britishmuseum.org/collection/object/Y_EA6385">British Museum</a></li>
+            <li>Flowers - <a href="https://www.istockphoto.com/photo/bunch-of-lavender-flowers-tied-with-a-rope-isolated-on-a-white-gm1332140077-415073233">igoriss on iStock</a> </li>
         </ul></li>
     </ul>
 
@@ -154,4 +295,4 @@ PEOPLE
 </details>
 <br>
 
-## Bibliography
+## Works Consulted
