@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Neanderthal's Photo Album
-description: ADD DESCRIPTION!!
+title: Neanderthal's Photo Album
+description: Build scientific literacy by projecting realistic alternatives.
 img: assets/img/ne-album/scene-02-clothing-boxers.jpg
 importance: 1
 category: [nyu-hide, msms, amnh]
@@ -42,15 +42,15 @@ A Hologauze screen will be placed directly behind the diorama's glass. Every fiv
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/scene-00-original.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/ne-album/diorama-photo-by-alyssa.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/hologauze-bluecadet.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/ne-album/hologauze-bluecadet.jpg" alt="BLUECADET in all caps displayed on a nearly invisible screen, which is hung on a step ladder's spreader bar" class="img-fluid rounded" zoomable=true %}
         {% include figure.html path="assets/img/ne-album/hologauze-like-screen.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    CAPTION TEXT!
+    Unaltered close up of the diorama from the visitor's perspective (left). The Bluecadet design company experimenting with Hologauze (upper right). A Hologauze-like screen advertised for purchase (lower right).
 </div>
 
 
@@ -118,7 +118,10 @@ Perhaps you tell a little about why you think this works for your audience._ -->
         {% include figure.html path="assets/img/ne-album/diorama-gmaps-modified.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
+<div class="caption">
+    This project further assumes there are small, additional updates to make the existing area more accessible. For example, the raised plaque on the floor (to the left of the freestanding informational panel) would be relocated.  
+</div>
+<!-- While it is not captured in the annotations above,  -->
 <br>
 
 <details>
@@ -194,6 +197,29 @@ Neanderthals lived in Europe, the Middle East, and parts of Asia. They appeared 
 
 Here, we have a 50,000-year-old Neanderthal campsite that archaeologists found in western France. But how do you know that what you're looking at is real? It might not be. Scientists used a lot of real evidence to create this scene, but the way they interpret that evidence might be wrong. Let's explore some other possibilities that are just as realistic as this scene... following scientific evidence of course!
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ne-album/scene-00-physical.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+    </div>
+</div>
+
+
+<!-- 
+    VERBAL DISCRIPTION – WIP!!
+    
+    The diorama window is approximately H x W X D
+    
+    male - left most mannequin, standing... Wearing... Holding a wooden? spear (of approximately his height) in his left hand. Staring in the direction of the other two mannequins.
+
+    younger female - middle mannequin, sitting with her back to the male... 
+
+    older female - right most mannequin, partially leaning against the large rock formation that covers more than half the displays length... She wears... Her hand is extended...
+
+    - describe ground
+    - describe scene background
+    ...
+
+-->
 
 
 ### Hair scene
@@ -312,7 +338,7 @@ PEOPLE
     <summary><b>Image Sources</b></summary>
     <ul>
         <li>
-            <a href="/assets/img/ne-album/scene-00-original-1400.webp" target="_blank">Diorama scene</a> - Alyssa Cohen (Aug 2021)
+            <a href="/assets/img/ne-album/diorama-photo-by-alyssa-1400.webp" target="_blank">Diorama</a> (the basis for all scenes) - Alyssa Cohen (Aug 2021)
         </li>
         <li>
             <a href="/assets/img/ne-album/diorama-gmaps-modified-1400.webp" target="_blank">Diorama in situ</a> 
