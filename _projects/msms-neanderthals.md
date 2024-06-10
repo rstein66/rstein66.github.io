@@ -4,20 +4,24 @@ title: Neanderthal's Photo Album
 description: Build scientific literacy by projecting realistic alternatives.
 img: assets/img/ne-album/scene-02-clothing-boxers.jpg
 importance: 1
-category: [nyu-hide, msms, amnh]
+category: [nyu, msms, amnh]
 toc:
   sidebar: left
 ---
 
 <style>
-    .scene-direction {
-        color: var(--global-text-color-light);
-        font-family: "Roboto Condensed", Helvetica, sans-serif;
-        font-style: italic;
-    }
     .audio-description {
         color: var(--global-text-color-light);
-        font-family: "Roboto Condensed", Helvetica, sans-serif;
+        font-family: "Roboto Condensed", Tahoma, sans-serif;
+    }
+    .scene-direction {
+        color: var(--global-text-color-light);
+        font-family: "Roboto Condensed", Tahoma, sans-serif;
+        font-style: italic;
+    }
+    .transcript {
+        font-family: "Roboto Serif", Georgia, serif;
+        font-size: 0.95rem;
     }
 </style>
 
@@ -50,7 +54,7 @@ A Hologauze screen will be placed directly behind the diorama's glass. Every fiv
     </div>
 </div>
 <div class="caption">
-    Unaltered close up of the diorama from the visitor's perspective (left). The Bluecadet design company experimenting with Hologauze (upper right). A Hologauze-like screen advertised for purchase (lower right).
+    Unaltered close up of the diorama from the visitor's perspective (left). The Bluecadet design company <a href="https://www.facebook.com/Bluecadet/videos/experimenting-with-holo-gauze-at-bluecadet/1676063799103729/?locale=en_US" target="_blank">experimenting with Hologauze</a> (upper right). A Hologauze-like screen <a href="https://windon1999.en.made-in-china.com/product/KSXmBhavMeco/China-Holographic-Transparent-Reflective-Stage-Foil-Large-Stage-Foil.html" target="_blank">advertised for purchase</a> (lower right).
 </div>
 
 
@@ -144,19 +148,24 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 
 <br>
 
-|                           Format                           |                   Notes                      |
-|------------------------------------------------------------|----------------------------------------------|
-| Normal text                                                | Always spoken and transcribed                | 
-| <span class="caption">Image caption</span>                 | Smaller font; adds context _not_ displayed   |
-| <span class="scene-direction">[scene direction]</span>     | Narrow font, gray, bracketed, italicized     |
-| <span class="audio-description">{audio description}</span> | Narrow font, gray, enclosed in curly braces  |
+|            Term           |                     Meaning                     |
+|---------------------------|-------------------------------------------------|
+| Default state&nbsp;&nbsp; | Unmodified diorama (see [Intro scene](#intro)\) |
+| Movie                     | All scenes                                      |
+|                           |                                                 |
+
+  
+
+|                              Format                              |                 Description                 |
+|------------------------------------------------------------------|---------------------------------------------|
+| Normal text                                                      | –                                           |
+| <span class="transcript">Script</span>                           | Always spoken and written               |
+| <span class="caption">Image caption</span>                       | Adds context, _not_ displayed; smaller font |
+| <span class="scene-direction">[scene direction]</span>           | Narrow font, gray, bracketed, italicized    |
+| <span class="audio-description">{audio description}</span>&nbsp; | Narrow font, gray, enclosed in curly braces |
 
 <br>
 
-
-### Default State
-
-<p class="scene-direction">[Before and after the "movie" runs, the diorama will be visible in its unmodified, physical form.]</p>
 
 ### Opening scene
 
@@ -167,7 +176,7 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 ]</p>
 
 
-Neanderthals lived in Europe, the Middle East, and parts of Asia. They appeared about 400,000 years ago and became extinct 40,000 years ago.
+<p class="transcript">Neanderthals lived in Europe, the Middle East, and parts of Asia. They appeared about 400,000 years ago and became extinct 40,000 years ago.</p>
 
 
 <div class="row justify-content-sm-center">
@@ -192,17 +201,18 @@ Neanderthals lived in Europe, the Middle East, and parts of Asia. They appeared 
 </div>
 
 
+### Intro scene
 
-### Intro
-
-Here, we have a 50,000-year-old Neanderthal campsite that archaeologists found in western France. But how do you know that what you're looking at is real? It might not be. Scientists used a lot of real evidence to create this scene, but the way they interpret that evidence might be wrong. Let's explore some other possibilities that are just as realistic as this scene... following scientific evidence of course!
+<p class="transcript">Here, we have a 50,000-year-old Neanderthal campsite that archaeologists found in western France. But how do you know that what you're looking at is real? It might not be. Scientists used a lot of real evidence to create this scene, but the way they interpret that evidence might be wrong. Let's explore some other possibilities that are just as realistic as this scene... following scientific evidence of course!</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/scene-00-physical.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/ne-album/scene-00-default.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
-
+<div class="caption">
+    Default state. 
+</div>
 
 <!-- 
     VERBAL DISCRIPTION – WIP!!
@@ -226,7 +236,7 @@ Here, we have a 50,000-year-old Neanderthal campsite that archaeologists found i
 
 <p class="scene-direction">[Hair changes appear on the mannequins one by one as the narrator mentions each. The changes disappear at the end of the scene.]</p>
 
-Let's start with their hair. Scientists can't know what color every Neanderthal's hair was or how they styled it. DNA gives us clues but not exact answers. Like us, some Neanderthals had brown hair that they braided. Some were bald with red beards. Others had graying short hair.
+<p class="transcript">Let's start with their hair. Scientists can't know what color every Neanderthal's hair was or how they styled it. DNA gives us clues but not exact answers. Like us, some Neanderthals had brown hair that they braided. Some were bald with red beards. Others had graying short hair.</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -234,12 +244,13 @@ Let's start with their hair. Scientists can't know what color every Neanderthal'
     </div>
 </div>
 
+<p class="scene-direction">[Display returns to default state.]</p>
 
 ### Clothing scenes
 
 <p class="scene-direction">[Clothing appears when the narrator names the item.]</p>
 
-Did Neanderthals wear clothes? Probably. We know they sewed with needles made of animal bones. In this scene, the female in the middle is preparing an animal hide, probably to make clothes. During the hot French summer, a female might have worn a light dress or a straw hat to protect her from the sun. Neanderthals at least wore underwear. <span class="audio-description">{Boxers with pink hearts flash onto the male Neanderthal.}</span> Oops! It's 50,000 years too early for those.
+<p class="transcript">Did Neanderthals wear clothes? Probably. We know they sewed with needles made of animal bones. In this scene, the female in the middle is preparing an animal hide, probably to make clothes. During the hot French summer, a female might have worn a light dress or a straw hat to protect her from the sun. Neanderthals at least wore underwear. <span class="audio-description">{Boxers with pink hearts appear on the male Neanderthal.}</span> Oops! It's 50,000 years too early for those.</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -247,7 +258,7 @@ Did Neanderthals wear clothes? Probably. We know they sewed with needles made of
     </div>
 </div>
 
-<span class="audio-description">{The boxers are replaced with a beige loin cloth.}</span> Much better!
+<span class="audio-description">{The boxers are replaced with a beige loin cloth.}</span> <span class="transcript">Much better!</span>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -255,19 +266,22 @@ Did Neanderthals wear clothes? Probably. We know they sewed with needles made of
     </div>
 </div>
 
-<p class="scene-direction">[All clothing items disappear.]</p>
+<p class="scene-direction">[Display returns to default state.]</p>
+
 
 ### Food scene
 
 <p class="scene-direction">[Items appear when narrator names them. All changes disappear at the end of the scene.]</p>
 
-During the summer in France, scientists think Neanderthals gathered fruits, nuts, and seeds. They knew how to use fire and maybe cooked up some fish for dinner.
+<p class="transcript">During the summer in France, scientists think Neanderthals gathered fruits, nuts, and seeds. They knew how to use fire and maybe cooked up some fish for dinner.</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/ne-album/scene-04-food.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
+
+<p class="scene-direction">[Display returns to default state.]</p>
 
 
 ### Recreation scene
@@ -280,6 +294,8 @@ There's evidence that Neanderthals had rituals. Maybe, they collected flowers or
     </div>
 </div>
 
+<p class="scene-direction">[Display returns to default state.]</p>
+
 
 ### Family scene
 
@@ -291,13 +307,16 @@ Like us, Neanderthals had fun with their families and took care of each other. C
     </div>
 </div>
 
+<p class="scene-direction">[Display returns to default state.]</p>
 
-### Outro
 
-<p class="scene-direction">[Images similar to those above flash on the screen against a black background as the narrator speaks. The whole screen fades to black and then becomes transparent to reveal the physical diorama.]</p>
+### Outro scene
 
-Just like humans, Neanderthals had different skin tones, diets, and cultures based on where they lived. With the archaeological and DNA evidence we have _today_, we don't know everything about our evolutionary cousins. Scientists use evidence to help us imagine realistic possibilities, but unless we have a time machine, we can't know for sure! Who knows, with new scientific technology and discoveries, maybe we'll get more answers soon!
+<p class="scene-direction">[Images similar to those above appear on the screen against a black background as the narrator speaks. The whole screen fades to black and then becomes transparent to reveal the physical diorama.]</p>
 
+<p class="transcript">Just like humans, Neanderthals had different skin tones, diets, and cultures based on where they lived. With the archaeological and DNA evidence we have <em>today</em>, we don't know everything about our evolutionary cousins. Scientists use evidence to help us imagine realistic possibilities, but unless we have a time machine, we can't know for sure! Who knows, with new scientific technology and discoveries, maybe we'll get more answers soon!</p>
+
+<p class="scene-direction">[Display returns to default state.]</p>
 
 <hr>
 
@@ -332,9 +351,9 @@ PEOPLE
 - Rosanna
 - Josh
 - Alice
-- Antro prof
+- Anthropology prof
 
-<details open>
+<details>
     <summary><b>Image Sources</b></summary>
     <ul>
         <li>
@@ -387,4 +406,4 @@ PEOPLE
 
 ## Works Consulted
 
-<a href="/assets/pdf/msms-neanderthal-bib.pdf" target="blank"><i class="fas fa-file-pdf"></i> The Neanderthal's Photo Album: <b>Works Consulted</b></a>
+<a href="/assets/pdf/msms-neanderthal-bib.pdf" target="blank"><i class="fas fa-file-pdf"></i>Neanderthal's Photo Album: <b>Works Consulted</b></a>
