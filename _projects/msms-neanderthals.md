@@ -4,7 +4,7 @@ title: Neanderthal's Photo Album
 description: Build scientific literacy by projecting realistic alternatives.
 img: assets/img/ne-album/scene-02-clothing-boxers.jpg
 importance: 1
-category: [nyu, msms, amnh]
+category: [nyu-hide, msms, amnh]
 toc:
   sidebar: left
 ---
