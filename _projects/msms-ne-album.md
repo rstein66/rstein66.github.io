@@ -2,7 +2,7 @@
 layout: page
 title: Neanderthal's Photo Album
 description: Build scientific literacy by projecting realistic alternatives.
-img: assets/img/ne-album/scene-02-clothing-boxers.jpg
+img: assets/img/msms-ne-album/scene-02-clothing-boxers.jpg
 importance: 1
 category: [nyu-hide, msms, amnh]
 toc:
@@ -46,11 +46,11 @@ A Hologauze screen will be placed directly behind the diorama's glass. Every fiv
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/diorama-photo-by-alyssa.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/diorama-photo-by-alyssa.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/hologauze-bluecadet.jpg" alt="BLUECADET in all caps displayed on a nearly invisible screen, which is hung on a step ladder's spreader bar" class="img-fluid rounded" zoomable=true %}
-        {% include figure.html path="assets/img/ne-album/hologauze-like-screen.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/hologauze-bluecadet.jpg" alt="BLUECADET in all caps displayed on a nearly invisible screen, which is hung on a step ladder's spreader bar" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/hologauze-like-screen.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -119,7 +119,7 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/diorama-gmaps-modified.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/diorama-gmaps-modified.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -133,7 +133,7 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 
     <div class="row">
         <div class="col-sm-8 mt-3 mt-md-0">
-            <img src="/assets/img/ne-album/ne-mobile-webpage-mockup.jpg" class="img-fluid rounded z-depth-1 medium-zoom-image" width="auto" height="auto" alt="::ADD ALT TEXT!::" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+            <img src="/assets/img/msms-ne-album/ne-mobile-webpage-mockup.jpg" class="img-fluid rounded z-depth-1 medium-zoom-image" width="auto" height="auto" alt="::ADD ALT TEXT!::" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
         </div>
     </div>
 
@@ -181,11 +181,11 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/ne-geo-map.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/ne-geo-map.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    “Map representing Neanderthal geographical distribution in groups.” – <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005151" target="_blank">Fabre, Condemi, & Degioanni (2009)</a>.   This map should be replaced by a simplified version aligned with more recent research.
+    “Map representing Neanderthal geographical distribution in groups.” – <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005151" target="_blank">Fabre, Condemi, & Degioanni (2009)</a>. This map should be replaced by a simplified version aligned with more recent research.
 </div>
 
 
@@ -193,7 +193,7 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/world-map-modern.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/world-map-modern.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -207,7 +207,7 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/scene-00-default.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/scene-00-default.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -240,7 +240,7 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/scene-01-hair.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/scene-01-hair.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 
@@ -254,7 +254,7 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/scene-02-clothing-boxers.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/scene-02-clothing-boxers.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 
@@ -262,7 +262,7 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/scene-03-clothing-loincloth.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/scene-03-clothing-loincloth.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 
@@ -277,7 +277,7 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/scene-04-food.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/scene-04-food.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 
@@ -290,7 +290,7 @@ There's evidence that Neanderthals had rituals. Maybe, they collected flowers or
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/scene-05-rec.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/scene-05-rec.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 
@@ -303,7 +303,7 @@ Like us, Neanderthals had fun with their families and took care of each other. C
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ne-album/scene-06-family.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/scene-06-family.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 
@@ -357,10 +357,10 @@ PEOPLE
     <summary><b>Image Sources</b></summary>
     <ul>
         <li>
-            <a href="/assets/img/ne-album/diorama-photo-by-alyssa-1400.webp" target="_blank">Diorama</a> (the basis for all scenes) - Alyssa Cohen (Aug 2021)
+            <a href="/assets/img/msms-ne-album/diorama-photo-by-alyssa-1400.webp" target="_blank">Diorama</a> (the basis for all scenes) - Alyssa Cohen (Aug 2021)
         </li>
         <li>
-            <a href="/assets/img/ne-album/diorama-gmaps-modified-1400.webp" target="_blank">Diorama in situ</a> 
+            <a href="/assets/img/msms-ne-album/diorama-gmaps-modified-1400.webp" target="_blank">Diorama in situ</a> 
             (in gallery) - modified 
             <a href="https://www.google.com/maps/@40.7808345,-73.9750143,2a,75y,174.51h,88.24t/data=!3m6!1e1!3m4!1sgHiPAbLEp9XN9loUM6Kq7A!2e0!7i13312!8i6656?coh=205409&entry=ttu" target="_blank">Google Maps</a> (Mar 2016)
         </li>
@@ -369,7 +369,7 @@ PEOPLE
             <a href="https://www.facebook.com/Bluecadet/videos/experimenting-with-holo-gauze-at-bluecadet/1676063799103729/?locale=en_US" target="_blank"> Bluecadet on Facebook</a>
         </li>
         <li>
-            <a href="/assets/img/ne-album/hologauze-like-screen-1400.webp" target="_blank">Hologauze-like screen</a> - 
+            <a href="/assets/img/msms-ne-album/hologauze-like-screen-1400.webp" target="_blank">Hologauze-like screen</a> - 
             <a href="https://windon1999.en.made-in-china.com/product/KSXmBhavMeco/China-Holographic-Transparent-Reflective-Stage-Foil-Large-Stage-Foil.html" target="_blank">Miss June Tang on Made-in-China</a>
         </li>
         <li>Opening scene assets <ul>
@@ -406,4 +406,4 @@ PEOPLE
 
 ## Works Consulted
 
-<a href="/assets/pdf/msms-neanderthal-bib.pdf" target="blank"><i class="fas fa-file-pdf"></i>Neanderthal's Photo Album: <b>Works Consulted</b></a>
+<a href="/assets/pdf/msms-ne-album/msms-neanderthal-bib.pdf" target="blank"><i class="fas fa-file-pdf"></i>Neanderthal's Photo Album: <b>Works Consulted</b></a>
