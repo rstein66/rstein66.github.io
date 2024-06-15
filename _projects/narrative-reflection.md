@@ -42,4 +42,4 @@ And now that I am back in school and taking this course? I am excited to learn a
 - Page images modified from work by [Lina Kivaka from Pexels](https://www.pexels.com/photo/person-reading-a-book-1741230/)
   
 <br>  
-<div class="footnote">Published: 2023 Nov. 12</div>
+<div class="subnote">Published: 2023 Nov. 12</div>

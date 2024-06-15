@@ -32,7 +32,7 @@ My plan's primary outcomes/objectives are that students will:
 
 <a href="/assets/pdf/spced-2051/udl-rest-lesson-plan.pdf" target="blank"><i class="fas fa-file-pdf"></i> Lesson Plan</a>  
   
-An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> [\[1\]](#exhibition-footnote)</sup>
+An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> [\[1\]](#exhibition-subnote)</sup>
 
 **Date:** December 2023  
 **Subject:** English Language Arts  
@@ -50,7 +50,7 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 - Recognize that rest is an act of resistance for Black people.
   
 
-<div class="footnote"><a name="exhibition-footnote"><sup>[1]</sup></a> The exhibition was curated by the Center for Black Visual Culture at New York University. It focused on how Black people's “rest is resistance.” It ran from September to October 2023. In this imagined lesson plan, the exhibition is current.</div>
+<div class="subnote"><a name="exhibition-subnote"><sup>[1]</sup></a> The exhibition was curated by the Center for Black Visual Culture at New York University. It focused on how Black people's “rest is resistance.” It ran from September to October 2023. In this imagined lesson plan, the exhibition is current.</div>
 
 
 ### Materials
@@ -64,14 +64,14 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 - Teacher laptop  
 - Fruit for the activity (lemons or similar)  
 - Printouts  
-    + Site-specific social narrative<sup> [\[2\]](#accessible-footnote)</sup>    
+    + Site-specific social narrative<sup> [\[2\]](#accessible-subnote)</sup>    
     + <a href="/assets/pdf/spced-2051/udl-rest-huffpost-article.pdf" target="blank"><i class="fas fa-file-pdf"></i> Huffpost: "How Rest Is An Act Of Resistance For Black People" (Wilson, 2023)</a>  
 
 **Visit Materials**
   
 - Printed Handouts  
     +  [§ Worksheet](#worksheet)
-    +  Site-specific sensory guide<sup> [\[2\]](#accessible-footnote)</sup>    
+    +  Site-specific sensory guide<sup> [\[2\]](#accessible-subnote)</sup>    
 - Clipboards  
 - Writing implements  
   
@@ -80,7 +80,7 @@ An accessible lesson about and visit to the “Rest Is Power” exhibition<sup> 
 - Student laptops  
 - Visual component of assessment, if applicable.
   
-<div class="footnote"><a name="accessible-footnote"><sup>[2]</sup></a>  A <a href="https://wp.nyu.edu/sensory_resources_guide_for_museums/social-narrative/#:~:text=Google%20Slides%20version" target="_blank">social narrative</a> and <a href="https://wp.nyu.edu/sensory_resources_guide_for_museums/sensory-guide/#:~:text=Sensory%20Guide%20Template%20(GoogleSlide)" target="_blank">sensory guide</a> for this one small room (especially one with little of sensory note), likely adds little value, but I want to introduce the concepts and so included templates from the “Sensory Resources Guide For Museum” by NYU’s Ability Project.</div>
+<div class="subnote"><a name="accessible-subnote"><sup>[2]</sup></a>  A <a href="https://wp.nyu.edu/sensory_resources_guide_for_museums/social-narrative/#:~:text=Google%20Slides%20version" target="_blank">social narrative</a> and <a href="https://wp.nyu.edu/sensory_resources_guide_for_museums/sensory-guide/#:~:text=Sensory%20Guide%20Template%20(GoogleSlide)" target="_blank">sensory guide</a> for this one small room (especially one with little of sensory note), likely adds little value, but I want to introduce the concepts and so included templates from the “Sensory Resources Guide For Museum” by NYU’s Ability Project.</div>
  
 
 ### Technology
@@ -127,7 +127,7 @@ teacher wearing a microphone -->
 - The site visit worksheet includes the teacher's example for students who want to refer back to it. While this helps anyone who wants it, it especially aids students with extra needs, such as those with limited hearing or shorter-term memory loss.    
   
 
-**Students With Blindness or Low Vision**<sup> [\[3\]](#limited-vision-footnote)</sup>
+**Students With Blindness or Low Vision**<sup> [\[3\]](#limited-vision-subnote)</sup>
 
 - Depending on the student's level of sight and comfort, it might make sense to go through the exhibition catalog beforehand with the student to select an artwork whose description resonates with them. During the gallery visit, that student and a sighted student could work together. If this occurs, and the two students are willing, they should share their descriptions and experiences crafting it with the class!  
 
@@ -146,7 +146,7 @@ teacher wearing a microphone -->
 - If applicable, request the gallery's permission beforehand to bringing Magic Model clay or similar fidget tools.
 
 
-<div class="footnote"><a name="limited-sight-footnote"><sup>[3]</sup></a>  While not applicable for this visit, <a href="https://bootcamp.uxdesign.cc/designing-for-touch-975e47065935" target="blank">swell printing</a> seems like an intriguing way to potentially interact with two-dimensional art, especially as three-dimensional printing continues to be more widely accessible. The <a href="https://www.guggenheim.org/event/event_series/minds-eye" target="blank">Guggenheim Museum's Mind's Eye Programs</a> have previously used it.</div> 
+<div class="subnote"><a name="limited-sight-subnote"><sup>[3]</sup></a>  While not applicable for this visit, <a href="https://bootcamp.uxdesign.cc/designing-for-touch-975e47065935" target="blank">swell printing</a> seems like an intriguing way to potentially interact with two-dimensional art, especially as three-dimensional printing continues to be more widely accessible. The <a href="https://www.guggenheim.org/event/event_series/minds-eye" target="blank">Guggenheim Museum's Mind's Eye Programs</a> have previously used it.</div> 
 
   
 
@@ -178,7 +178,7 @@ _This section is closely related to [§ Materials](#materials)._
   
 In-class (45 minutes)
 
-_Part one:_ Visit-specific social narrative<sup> [\[2\]](#accessible-footnote)</sup> and an introduction to tomorrow's plan. (5 minutes)
+_Part one:_ Visit-specific social narrative<sup> [\[2\]](#accessible-subnote)</sup> and an introduction to tomorrow's plan. (5 minutes)
 
 - The larger the site, the more critical we talk through the visit beforehand.
     

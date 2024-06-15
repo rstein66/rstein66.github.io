@@ -106,7 +106,7 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 
 **Note:** We tried to avoid changing racial features, not only because we want to keep it accurate in terms of the location of the site in France, but we do not want to unintentionally replicate something like blackface
 
-<div class="footnote"><a name="research-note"><sup>[1]</sup></a> Unknowns as of Apr 2024. See <a href="#works-consulted">§ Works Consulted</a> for background research.</div> 
+<div class="subnote"><a name="research-note"><sup>[1]</sup></a> Unknowns as of Apr 2024. See <a href="#works-consulted">§ Works Consulted</a> for background research.</div> 
 
 ### Why Hologauze?
 
