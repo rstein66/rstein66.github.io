@@ -28,6 +28,9 @@ toc:
 
 > By [Alyssa Cohen](https://www.linkedin.com/in/alyssa-cohen-9abb25230/) and Rachel Stein
 
+
+The division of labor broke down roughly as follows: Alyssa focused on the anthropology. I (Rachel) focused on design. We paired on implementation.  
+
 This project was initially created for NYU Museum Studies' graduate course [Digital Frictions - Museum Accessibility and Digital Design](https://as.nyu.edu/departments/museumstudies/courses/spring-2024-course-schedule.html) (Spring 2024).
 
 
@@ -72,6 +75,12 @@ _What are you trying to solve?_ -->
 <!-- _Describe a sentence or two about your audience - be specific._ -->
 
 
+This project is intended for visitors in person.
+
+<p style="text-align: center; font-style: italic;">
+    "The Museum welcomes roughly five million visitors annually from New York City and from around the globe, including hundreds of thousands of K–12 students and teachers" - <a href="https://www.amnh.org/about/diversity-equity-inclusion" target="_blank">AMNH</a> 
+</p>
+
 
 ## Learning Goals
 
@@ -79,18 +88,39 @@ _What are you trying to solve?_ -->
 
 **Evidence-Backed? Artistic Influence? Ingrained Racism and Biases?**
 
+
+
 ## Concept Description
 
 <!-- _Tell me here about the overall project and why you chose the media for this project.
 Perhaps you tell a little about why you think this works for your audience._ -->
 
-### Which Diorama?
-
 
 ### Why Neanderthals?
+  
+> ##### ⚠️ NOTE ON ACCURARCY
+>
+> The study of early modern humans is an extremely active and rapidly evolving 
+> field. Therefore:  
+> 
+> - Reputable resources may have conflicting information, 
+> depending on when they were last updated. 
+> - While this project makes a concerted effort to reflect the current 
+> state of research as of April 2024 (see [§ Works Consulted](#works-consulted)\),
+> its focus is on museum accessibility and digital design, _not_ anthropology.    
+> 
+{: .block-warning }
+  
+[Homo neanderthalensis · Smithsonian Natural History Museum](https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis)
 
 
-**_Some_ Unknowns<sup> [\[1\]](#research-note)</sup> About Neanderthals**
+
+[§ Storyboard](#storyboard) below focuses on
+
+This project focuses on the Neanderthals because...
+
+
+**_Some_ known unknowns about neanderthals:**
 
 - <u>Skin color</u>
 - Amount of <u>body hair</u>
@@ -106,16 +136,14 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 
 **Note:** We tried to avoid changing racial features, not only because we want to keep it accurate in terms of the location of the site in France, but we do not want to unintentionally replicate something like blackface
 
-<div class="subnote"><a name="research-note"><sup>[1]</sup></a> Unknowns as of Apr 2024. See <a href="#works-consulted">§ Works Consulted</a> for background research.</div> 
 
-### Why Hologauze?
+### Physical Setup
+
+**Why Hologauze?**
 
 - no budget
 
-### What is Hologauze?
-
-
-### Setup
+**What is Hologauze?**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -125,39 +153,28 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 <div class="caption">
     This project further assumes there are small, additional updates to make the existing area more accessible. For example, the raised plaque on the floor (to the left of the freestanding informational panel) would be relocated.  
 </div>
-<!-- While it is not captured in the annotations above,  -->
-<br>
 
-<details>
-    <summary><b>Mobile Site Mockup</b></summary>
 
-    <div class="row">
-        <div class="col-sm-8 mt-3 mt-md-0">
-            <img src="/assets/img/msms-ne-album/ne-mobile-webpage-mockup.jpg" class="img-fluid rounded z-depth-1 medium-zoom-image" width="auto" height="auto" alt="::ADD ALT TEXT!::" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-        </div>
-    </div>
+### Web Page
 
-    <hr>
-</details>
+<a href="/assets/pdf/msms-ne-album/ne-album-mobile-page-mockup.pdf" target="blank"><i class="fas fa-file-pdf"></i>Mobile mockup</a>
+
+
+### Proposed Visitor Flow
+
 
 <br>
-
-<hr>
 
 ## Storyboard
 
-<br>
-
+Storyboard-specific:
+  
 |            Term           |                     Meaning                     |
 |---------------------------|-------------------------------------------------|
 | Default state&nbsp;&nbsp; | Unmodified diorama (see [Intro scene](#intro)\) |
 | Movie                     | All scenes                                      |
 |                           |                                                 |
-
-  
-
-|                              Format                              |                 Description                 |
-|------------------------------------------------------------------|---------------------------------------------|
+|                            **Format**                            |         **Description**                     |
 | Normal text                                                      | –                                           |
 | <span class="transcript">Script</span>                           | Always spoken and written               |
 | <span class="caption">Image caption</span>                       | Adds context, _not_ displayed; smaller font |
@@ -170,9 +187,7 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 ### Opening scene
 
 <p class="scene-direction">[As the narration begins, inspirational/curiosity-provoking music starts to play softly in the background. 
-    <span style="font-style: normal;">
-        <u>Examples</u>: <a href="https://artlist.io/royalty-free-music/song/rising-star/130137" target="_blank">Rising Star by TURPAK · Artlist</a> or <a href="https://artlist.io/royalty-free-music/song/cat-walk/85915" target="_blank">Cat Walk by Roie Shpigler · Artlist</a>
-    </span>
+    <u>Examples</u>: <a href="https://artlist.io/royalty-free-music/song/rising-star/130137" target="_blank">"Rising Star" by TURPAK</a> or <a href="https://artlist.io/royalty-free-music/song/cat-walk/85915" target="_blank">"Cat Walk" by Roie Shpigler</a>
 ]</p>
 
 
@@ -197,7 +212,7 @@ Perhaps you tell a little about why you think this works for your audience._ -->
     </div>
 </div>
 <div class="caption">
-    Replace with map of the world 50,000 years ago. 
+    Replace with map of the world c. 50,000 years ago. 
 </div>
 
 
@@ -213,24 +228,6 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 <div class="caption">
     Default state. 
 </div>
-
-<!-- 
-    VERBAL DISCRIPTION – WIP!!
-    
-    The diorama window is approximately H x W X D
-    
-    male - left most mannequin, standing... Wearing... Holding a wooden? spear (of approximately his height) in his left hand. Staring in the direction of the other two mannequins.
-
-    younger female - middle mannequin, sitting with her back to the male... 
-
-    older female - right most mannequin, partially leaning against the large rock formation that covers more than half the displays length... She wears... Her hand is extended...
-
-    - describe ground
-    - describe scene background
-    ...
-
--->
-
 
 ### Hair scene
 
@@ -322,24 +319,36 @@ Like us, Neanderthals had fun with their families and took care of each other. C
 
 
 
-## Next Steps
+## Future Work
 
 <!-- 🚨 FIXME !!  -->
 
-- **Check for accuracy** (e.g., types of flora and fauna)
+If we were to continue this project, tasks that we would like to focus on are listed below.
 
-- Verbal description of diorama
-- Audio description
+**Content**  
 
-- Edit and shorten the script
-- Professional photo edits & webpage design 
-- Solicit feedback from blind, low-vision, d/Deaf, and hard of hearing visitors to improve the experience
+1. ⭐️ <u>Shorten script</u> - 
+2. Add additional <u>audio description</u> to the script
+3. Add verbal <u>description of diorama</u>
+4. Add an article with educational content about Neanderthals, paleoanthropology and paleogenetics
+
+**Work with**
+    
+- <u>Anthropologists</u> to verify accuracy - _For example, in the [Recreation scene](#recreation-scene), use flowers that likely grew in western France approximately 50,000 years ago._
+- <u>Designers</u> - I am not a designer. The [Storyboard](#storyboard) scenes and [web page](#web-page) designs would greatly benefit from professional expertises.  
+- Improve accessibility by soliciting feedback from \[paid] <u>disability consultants</u>, which needs to include people with blindness, low-vision, deafness, and so forth.
+
+
+
 
 - Figure out a more seamless way to integrate the audio narration
-- A web page with educational content about Neanderthals, paleoanthropology and paleogenetics
 
 
-- Apply Hologauze to the other three dioramas in exhibit?
+  
+**Physical layout**   
+- Can a <u>bench or stools</u> be added to allow people to sit while watching the video? – _This would improve accessibility, and likely visitor engagement, but the exhibition is very compact._
+- Can the panels on either side of the diorama be relocated to give viewers <u>more space</u>? (see [Physical Setup](#physical-setup))  
+- Consider <u>applying Hologauze</u> to the other dioramas in exhibition – _Will visitors expect and be disappointed that only one diorama is "animated"?_ 
 
 
 
@@ -351,7 +360,8 @@ PEOPLE
 - Rosanna
 - Josh
 - Alice
-- Anthropology prof
+
+<!-- - 📍 NYU Anthropology prof -->
 
 <details>
     <summary><b>Image Sources</b></summary>
@@ -406,4 +416,4 @@ PEOPLE
 
 ## Works Consulted
 
-<a href="/assets/pdf/msms-ne-album/msms-neanderthal-bib.pdf" target="blank"><i class="fas fa-file-pdf"></i>Neanderthal's Photo Album: <b>Works Consulted</b></a>
+<a href="/assets/pdf/msms-ne-album/msms-neanderthal-bib.pdf" target="blank"><i class="fas fa-file-pdf"></i> Works Consulted</a>
