@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Neanderthal's Photo Album
+title: Neanderthals' Photo Album
 description: Build scientific literacy by projecting realistic alternatives.
 img: assets/img/msms-ne-album/scene-02-clothing-boxers.jpg
 importance: 1
@@ -13,6 +13,15 @@ toc:
     .audio-description {
         color: var(--global-text-color-light);
         font-family: "Roboto Condensed", Tahoma, sans-serif;
+    }
+    .block-tip {
+        font-size: 1rem;
+    }
+    .block-warning {
+        font-size: 1rem;
+        li, em {
+            color: var(--global-warning-block-text);
+        }
     }
     .scene-direction {
         color: var(--global-text-color-light);
@@ -34,30 +43,26 @@ The division of labor broke down roughly as follows: Alyssa focused on the anthr
 This project was initially created for NYU Museum Studies' graduate course [Digital Frictions - Museum Accessibility and Digital Design](https://as.nyu.edu/departments/museumstudies/courses/spring-2024-course-schedule.html) (Spring 2024).
 
 
+**Shorthand:**
+
+- AMNH – _American Museum of Natural History_
+- Hall – _Hall of Human Origins_
+
+
+
 ## Concept Overview
 
-<!-- This is the big picture of what you are trying to achieve with the project. 
-(Ex: Young adults struggle with self-worth and mental health challenges. 
-This project uses a game where emotions like coping, optimism and asking for help are a part of the learning). -->
-
-
-This project complements the Neanderthal diorama in the [Hall of Human Origins](https://www.amnh.org/exhibitions/permanent/human-origins) at the [American Museum of Natural History](https://www.amnh.org/) (AMNH) in New York City. 
+This project complements the Neanderthal diorama in the [Hall of Human Origins](https://www.amnh.org/exhibitions/permanent/human-origins) (Hall) at the [American Museum of Natural History](https://www.amnh.org/) (AMNH) in New York City. 
 
 Our intervention aims to promote scientific literacy by helping visitors imagine scientifically realistic alternatives for what Neanderthals looked like and how they behaved. 
-
-A Hologauze screen will be placed directly behind the diorama's glass. Every five minutes, a video will project images onto the Hologauze, visually altering the Neanderthal mannequins and their environment. Visitors will scan a QR code, bringing them to a web page with two versions of the accompanying audio narration. One version will include an audio description (for blind and low-vision visitors), and the other will not. The site will also include a verbal description of the diorama for blind and low-vision visitors and a transcript for d/Deaf and hard-of-hearing visitors. Captions will appear at the top of the Hologauze screen. The audio narration will sync with the video, only starting when the video begins.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/msms-ne-album/diorama-photo-by-alyssa.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/hologauze-bluecadet.jpg" alt="BLUECADET in all caps displayed on a nearly invisible screen, which is hung on a step ladder's spreader bar" class="img-fluid rounded" zoomable=true %}
-        {% include figure.html path="assets/img/msms-ne-album/hologauze-like-screen.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
-    </div>
 </div>
 <div class="caption">
-    Unaltered close up of the diorama from the visitor's perspective (left). The Bluecadet design company <a href="https://www.facebook.com/Bluecadet/videos/experimenting-with-holo-gauze-at-bluecadet/1676063799103729/?locale=en_US" target="_blank">experimenting with Hologauze</a> (upper right). A Hologauze-like screen <a href="https://windon1999.en.made-in-china.com/product/KSXmBhavMeco/China-Holographic-Transparent-Reflective-Stage-Foil-Large-Stage-Foil.html" target="_blank">advertised for purchase</a> (lower right).
+    Unaltered close up of the diorama from the visitor's perspective.
 </div>
 
 
@@ -68,25 +73,38 @@ A Hologauze screen will be placed directly behind the diorama's glass. Every fiv
 
 _What are you trying to solve?_ -->
 
+1. Scientific literacy
+
+
+The human evolution dioramas in the Hall are meant to help visitors visualize what our hominid ancestors looked like and how they behaved in their respective environments; the goal is to bring [paleoanthropological](https://www.britannica.com/science/paleoanthropology#:~:text=Paleoanthropology%2C%20interdisciplinary%20branch%20of%20anthropology,and%20the%20theory%20of%20evolution.) evidence to life. However, visitors can easily misinterpret the dioramas' realism as objective truth. In reality, the dioramas are scientifically informed artistic tableaux resulting from the work of scientists and sculptors.
+
+Many museum visitors are not equipped with the scientific background to recognize that these dioramas are not fully accurate depictions of our human ancestors, and yet the AMNH does not currently do anything to help visitors understand this.
+
+
+
+2. Engagement
+
+- Education lab
+
 
 
 ## Target Audience
 
-<!-- _Describe a sentence or two about your audience - be specific._ -->
-
-
-This project is intended for visitors in person.
+This project is intended for the general public visiting the Hall in person.
 
 <p style="text-align: center; font-style: italic;">
     "The Museum welcomes roughly five million visitors annually from New York City and from around the globe, including hundreds of thousands of K–12 students and teachers" - <a href="https://www.amnh.org/about/diversity-equity-inclusion" target="_blank">AMNH</a> 
 </p>
 
 
+
 ## Learning Goals
 
 <!-- _What do you want your learners to know or be able to do after engaging with your project._ -->
 
-**Evidence-Backed? Artistic Influence? Ingrained Racism and Biases?**
+
+
+
 
 
 
@@ -95,12 +113,21 @@ This project is intended for visitors in person.
 <!-- _Tell me here about the overall project and why you chose the media for this project.
 Perhaps you tell a little about why you think this works for your audience._ -->
 
-
 ### Why Neanderthals?
-  
-> ##### ⚠️ NOTE ON ACCURARCY
+
+This project focuses on the Neanderthal (formally, Homo neanderthalensis) ...
+
+> ##### 🔍 WHO?
 >
-> The study of early modern humans is an extremely active and rapidly evolving 
+> [§ Storyboard](#storyboard) introduces Neanderthals. 
+> For a more in-depth introduction, see 
+> "[Who were the Neanderthals?](https://www.nhm.ac.uk/discover/who-were-the-neanderthals.html)" by the Natural History Museum \(in London\).    
+> 
+{: .block-tip }
+  
+> ##### ⚠️ ACCURARCY
+>
+> The study of early modern humans is a highly active and rapidly evolving 
 > field. Therefore:  
 > 
 > - Reputable resources may have conflicting information, 
@@ -110,14 +137,12 @@ Perhaps you tell a little about why you think this works for your audience._ -->
 > its focus is on museum accessibility and digital design, _not_ anthropology.    
 > 
 {: .block-warning }
-  
-[Homo neanderthalensis · Smithsonian Natural History Museum](https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis)
 
 
 
-[§ Storyboard](#storyboard) below focuses on
+<!-- ❓Night at the Museum? -->
 
-This project focuses on the Neanderthals because...
+
 
 
 **_Some_ known unknowns about neanderthals:**
@@ -136,8 +161,26 @@ This project focuses on the Neanderthals because...
 
 **Note:** We tried to avoid changing racial features, not only because we want to keep it accurate in terms of the location of the site in France, but we do not want to unintentionally replicate something like blackface
 
+**Evidence-Backed? Artistic Influence? Ingrained Racism and Biases?**
+
 
 ### Physical Setup
+
+A Hologauze screen will be placed directly behind the diorama's glass. Every five minutes, a video will project images onto the Hologauze, visually altering the Neanderthal mannequins and their environment. Visitors will scan a QR code, bringing them to a web page with two versions of the accompanying audio narration. One version will include an audio description (for blind and low-vision visitors), and the other will not. The page will also include a verbal description of the diorama for blind and low-vision visitors and a transcript for d/Deaf and hard-of-hearing visitors. Captions will appear at the top of the Hologauze screen (surtitles). The audio narration will sync with the video, only starting when the video begins.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/msms-ne-album/hologauze-bluecadet.jpg" alt="BLUECADET in all caps displayed on a nearly invisible screen, which is hung on a step ladder's spreader bar" class="img-fluid rounded" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/msms-ne-album/hologauze-like-screen.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    The Bluecadet design company <a href="https://www.facebook.com/Bluecadet/videos/experimenting-with-holo-gauze-at-bluecadet/1676063799103729/?locale=en_US" target="_blank">experimenting with Hologauze</a> (left). A Hologauze-like screen <a href="https://windon1999.en.made-in-china.com/product/KSXmBhavMeco/China-Holographic-Transparent-Reflective-Stage-Foil-Large-Stage-Foil.html" target="_blank">advertised for purchase</a> (right).
+</div>
+
+
 
 **Why Hologauze?**
 
@@ -160,8 +203,9 @@ This project focuses on the Neanderthals because...
 <a href="/assets/pdf/msms-ne-album/ne-album-mobile-page-mockup.pdf" target="blank"><i class="fas fa-file-pdf"></i>Mobile mockup</a>
 
 
-### Proposed Visitor Flow
+<!-- ### Proposed Visitor Flow -->
 
+<!-- ::TODO:: -->
 
 <br>
 
@@ -174,7 +218,7 @@ Storyboard-specific:
 | Default state&nbsp;&nbsp; | Unmodified diorama (see [Intro scene](#intro)\) |
 | Movie                     | All scenes                                      |
 |                           |                                                 |
-|                            **Format**                            |         **Description**                     |
+|                            **Style**                            |         **Description**                     |
 | Normal text                                                      | –                                           |
 | <span class="transcript">Script</span>                           | Always spoken and written               |
 | <span class="caption">Image caption</span>                       | Adds context, _not_ displayed; smaller font |
@@ -186,7 +230,7 @@ Storyboard-specific:
 
 ### Opening scene
 
-<p class="scene-direction">[As the narration begins, inspirational/curiosity-provoking music starts to play softly in the background. 
+<p class="scene-direction">[As the narration begins, inspirational/curiosity-provoking music plays softly in the background. 
     <u>Examples</u>: <a href="https://artlist.io/royalty-free-music/song/rising-star/130137" target="_blank">"Rising Star" by TURPAK</a> or <a href="https://artlist.io/royalty-free-music/song/cat-walk/85915" target="_blank">"Cat Walk" by Roie Shpigler</a>
 ]</p>
 
@@ -196,29 +240,34 @@ Storyboard-specific:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/ne-geo-map.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/range-of-Neanderthals.jpg" alt="Known Neanderthal range in Europe (blue), Southwest Asia (orange), Uzbekistan (green), and the Altai mountains (violet)" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    “Map representing Neanderthal geographical distribution in groups.” – <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005151" target="_blank">Fabre, Condemi, & Degioanni (2009)</a>. This map should be replaced by a simplified version aligned with more recent research.
+    Neanderthals' known range, inferred from skeletal remains 
+    <br>
+    (<a href="https://commons.wikimedia.org/wiki/File:Range_of_NeanderthalsAColoured.png" target="_blank">Nilenbert, Nicolas Perrault III, 2017</a>, 
+    <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> license).
+    <br><br>
+    An up-to-date and simplified map should replace this one.
 </div>
 
-
-<p class="scene-direction">[Display "50,000 years ago" caption.<br>Zoom in on western France. Display "Western France" caption at maximum zoom.]</p>
+<p class="scene-direction">[Display "50,000 years ago" caption.]<br>[Zoom in on western France. Display "Western France" caption at maximum zoom.]</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/world-map-modern.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/world-map-modern.jpg" alt="Physical map of the modern world without text or political boundaries" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Replace with map of the world c. 50,000 years ago. 
+    Replace with world map c. 50,000 years ago. 
 </div>
 
+<p class="scene-direction">[Display fades to black.]</p>
 
 ### Intro scene
 
-<p class="transcript">Here, we have a 50,000-year-old Neanderthal campsite that archaeologists found in western France. But how do you know that what you're looking at is real? It might not be. Scientists used a lot of real evidence to create this scene, but the way they interpret that evidence might be wrong. Let's explore some other possibilities that are just as realistic as this scene... following scientific evidence of course!</p>
+<p class="transcript">Here, we have a 50,000-year-old Neanderthal campsite that archaeologists found in western France. But how do you know that what you're looking at is real? It might not be. Scientists used a lot of real evidence to create this scene, but how they interpret it might be wrong. Let's explore some other realistic possibilities... following scientific evidence, of course!</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -229,9 +278,10 @@ Storyboard-specific:
     Default state. 
 </div>
 
+
 ### Hair scene
 
-<p class="scene-direction">[Hair changes appear on the mannequins one by one as the narrator mentions each. The changes disappear at the end of the scene.]</p>
+<p class="scene-direction">[Hair changes appear on the mannequins one by one when mentioned.]</p>
 
 <p class="transcript">Let's start with their hair. Scientists can't know what color every Neanderthal's hair was or how they styled it. DNA gives us clues but not exact answers. Like us, some Neanderthals had brown hair that they braided. Some were bald with red beards. Others had graying short hair.</p>
 
@@ -243,9 +293,10 @@ Storyboard-specific:
 
 <p class="scene-direction">[Display returns to default state.]</p>
 
+
 ### Clothing scenes
 
-<p class="scene-direction">[Clothing appears when the narrator names the item.]</p>
+<p class="scene-direction">[New items appear when named.]</p>
 
 <p class="transcript">Did Neanderthals wear clothes? Probably. We know they sewed with needles made of animal bones. In this scene, the female in the middle is preparing an animal hide, probably to make clothes. During the hot French summer, a female might have worn a light dress or a straw hat to protect her from the sun. Neanderthals at least wore underwear. <span class="audio-description">{Boxers with pink hearts appear on the male Neanderthal.}</span> Oops! It's 50,000 years too early for those.</p>
 
@@ -268,7 +319,7 @@ Storyboard-specific:
 
 ### Food scene
 
-<p class="scene-direction">[Items appear when narrator names them. All changes disappear at the end of the scene.]</p>
+<p class="scene-direction">[Mannequins repositioned. Animal hide disappears.]<br>[New items appear when named.]</p>
 
 <p class="transcript">During the summer in France, scientists think Neanderthals gathered fruits, nuts, and seeds. They knew how to use fire and maybe cooked up some fish for dinner.</p>
 
@@ -283,7 +334,9 @@ Storyboard-specific:
 
 ### Recreation scene
 
-There's evidence that Neanderthals had rituals. Maybe, they collected flowers or played music for a special ceremony. The first human-made instruments were flutes, so maybe Neanderthals played them too.
+<p class="scene-direction">[Animal hide and spear disappear.]<br>[New items appear when named.]</p>
+
+There's evidence that Neanderthals had rituals. Maybe they collected flowers or played music for a special ceremony. The first human-made instruments were flutes, so maybe Neanderthals played them too.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -295,6 +348,8 @@ There's evidence that Neanderthals had rituals. Maybe, they collected flowers or
 
 
 ### Family scene
+
+<p class="scene-direction">[Mannequins repositioned. Animal hide and spear disappear.]<br>[New items appear when named.]</p>
 
 Like us, Neanderthals had fun with their families and took care of each other. Can you imagine a mom watching her toddler play while grandma holds his baby sister and dad tells dad jokes?
 
@@ -309,14 +364,18 @@ Like us, Neanderthals had fun with their families and took care of each other. C
 
 ### Outro scene
 
-<p class="scene-direction">[Images similar to those above appear on the screen against a black background as the narrator speaks. The whole screen fades to black and then becomes transparent to reveal the physical diorama.]</p>
+<p class="scene-direction">[Display fades to black.]<br>[Images similar to those below appear as the narrator speaks.]</p>
 
 <p class="transcript">Just like humans, Neanderthals had different skin tones, diets, and cultures based on where they lived. With the archaeological and DNA evidence we have <em>today</em>, we don't know everything about our evolutionary cousins. Scientists use evidence to help us imagine realistic possibilities, but unless we have a time machine, we can't know for sure! Who knows, with new scientific technology and discoveries, maybe we'll get more answers soon!</p>
 
-<p class="scene-direction">[Display returns to default state.]</p>
+<p class="scene-direction">[The display fades to black and then returns to the default state (i.e., fully transparent).]</p>
 
 <hr>
 
+
+## Accessibility
+
+The new delivery method reduces but does not eliminate friction for all visitors by asking far less of them. For example, they will not need to click through menus. Our intervention aims to be self-explanatory to visually dependent visitors, but we hope they will listen to the audio or read the transcript to enhance their experience. Regrettably, visitors with low vision or blindness still need their smartphones. The exhibition is too compact and crowded to play the audio “out loud.” Doing so might also increase friction for some visitors with sonic frictions. Relatedly, we worry that adding captions for visitors with reduced hearing or deafness might make the display more overwhelming. Currently, our imperfect solution is to provide a transcript under the audio. Both are accessed through a large color-contrasting QR code with sonic and/or haptic cues.
 
 
 ## Future Work
@@ -351,15 +410,15 @@ If we were to continue this project, tasks that we would like to focus on are li
 - Consider <u>applying Hologauze</u> to the other dioramas in exhibition – _Will visitors expect and be disappointed that only one diorama is "animated"?_ 
 
 
-
-
 ## Acknowledgments
 
-PEOPLE
+**People**
 
-- Rosanna
-- Josh
-- Alice
+Thank you very much to following for their time and guidance: 
+
+- Course instructor [Rosanna N Flouty](https://as.nyu.edu/faculty/rosanna-n-flouty.html), NYU Clinical Associate Professor and Museum Studies Program Director
+- [Josh Goldblum](https://www.linkedin.com/in/joshgoldblum/), Founder and CEO of Bluecadet
+- [Alice Walker](https://www.linkedin.com/in/alicedowwalker/), New Business Strategist at Local Projects
 
 <!-- - 📍 NYU Anthropology prof -->
 
@@ -383,8 +442,8 @@ PEOPLE
             <a href="https://windon1999.en.made-in-china.com/product/KSXmBhavMeco/China-Holographic-Transparent-Reflective-Stage-Foil-Large-Stage-Foil.html" target="_blank">Miss June Tang on Made-in-China</a>
         </li>
         <li>Opening scene assets <ul>
-            <li>Neanderthal geographic range – modified 
-                <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005151" target="_blank">Fabre, Condemi, & Degioanni (2009)</a></li>
+            <li>Neanderthals' range – image & alt text: 
+                <a href="https://commons.wikimedia.org/wiki/File:Range_of_NeanderthalsAColoured.png" target="_blank">Nilenbert, Nicolas Perrault III</a> (Nov 2017)</li> 
             <li>Modern world map - <a href="https://www.surfertoday.com/environment/maps-of-the-world" target="_blank">SurferToday.com</a></li>
         </ul></li>
         <li>Clothing scene assets (modified)<ul>
@@ -413,6 +472,7 @@ PEOPLE
     <hr>
 </details>
 <br>
+
 
 ## Works Consulted
 
