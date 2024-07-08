@@ -23,6 +23,10 @@ toc:
             color: var(--global-warning-block-text);
         }
     }
+    .quote {
+        font-family: "Roboto Condensed", Tahoma, sans-serif;
+        text-align: center; 
+    }
     .scene-direction {
         color: var(--global-text-color-light);
         font-family: "Roboto Condensed", Tahoma, sans-serif;
@@ -56,9 +60,11 @@ This project complements the Neanderthal diorama in the [Hall of Human Origins](
 
 Our intervention aims to promote scientific literacy by helping visitors imagine scientifically realistic alternatives for what Neanderthals looked like and how they behaved. 
 
+<!-- TODO alt="::ADD ALT TEXT!::" -->
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/diorama-photo-by-alyssa.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/diorama-photo-by-alyssa.jpg" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -69,22 +75,9 @@ Our intervention aims to promote scientific literacy by helping visitors imagine
 
 ## Statement of Need
 
-<!-- Statement of Need/Problem or Design Challenge
+Why are we focusing on scientific literacy?
 
-_What are you trying to solve?_ -->
-
-1. Scientific literacy
-
-
-The human evolution dioramas in the Hall are meant to help visitors visualize what our hominid ancestors looked like and how they behaved in their respective environments; the goal is to bring [paleoanthropological](https://www.britannica.com/science/paleoanthropology#:~:text=Paleoanthropology%2C%20interdisciplinary%20branch%20of%20anthropology,and%20the%20theory%20of%20evolution.) evidence to life. However, visitors can easily misinterpret the dioramas' realism as objective truth. In reality, the dioramas are scientifically informed artistic tableaux resulting from the work of scientists and sculptors.
-
-Many museum visitors are not equipped with the scientific background to recognize that these dioramas are not fully accurate depictions of our human ancestors, and yet the AMNH does not currently do anything to help visitors understand this.
-
-
-
-2. Engagement
-
-- Education lab
+The human evolution dioramas in the Hall are meant to help visitors visualize what our hominid ancestors looked like and how they behaved in their respective environments. Their goal is to bring [paleoanthropological](https://www.britannica.com/science/paleoanthropology#:~:text=Paleoanthropology%2C%20interdisciplinary%20branch%20of%20anthropology,and%20the%20theory%20of%20evolution.) evidence to life. However, visitors can easily misinterpret the dioramas’ realism as objective truth. In reality, the dioramas are scientifically informed artistic tableaux resulting from the work of scientists and sculptors. Currently, the AMNH does not help visitors understand this–at least in this exhibition.
 
 
 
@@ -92,19 +85,15 @@ Many museum visitors are not equipped with the scientific background to recogniz
 
 This project is intended for the general public visiting the Hall in person.
 
-<p style="text-align: center; font-style: italic;">
+<p class="quote">
     "The Museum welcomes roughly five million visitors annually from New York City and from around the globe, including hundreds of thousands of K–12 students and teachers" - <a href="https://www.amnh.org/about/diversity-equity-inclusion" target="_blank">AMNH</a> 
 </p>
 
 
 
-## Learning Goals
+<!-- ## Learning Goals -->
 
 <!-- _What do you want your learners to know or be able to do after engaging with your project._ -->
-
-
-
-
 
 
 
@@ -113,9 +102,30 @@ This project is intended for the general public visiting the Hall in person.
 <!-- _Tell me here about the overall project and why you chose the media for this project.
 Perhaps you tell a little about why you think this works for your audience._ -->
 
+**Engagement**
+
+- Education lab
+The Hall is densely packed  
+
+A 2007 New York Times article about the Hall's opening describes an interactive educational lab:
+
+<!-- <details> -->
+<p class="quote">
+    "Off in a side room, the Spitzer Hall has an educational laboratory with microscopes and laptops ready for visitors, guided by instructors, to try their hands at examining fossils and learning how to decode DNA. The lab is designed with young people and student groups in mind, but anyone is free to experience something of what it is like to delve into the human past."<br>
+     - <a href="https://www.nytimes.com/2007/02/09/arts/design/09orig.html" target="_blank">NYTimes (Feb 2007)</a>
+</p>
+<!-- </details> -->
+
+However, when we visited in the spring of 2024, the physical lab appeared to be permanently closed (unconfirmed). On the AMNH's site, we found the [Virtual Human Origins Educational Lab](https://www.amnh.org/exhibitions/permanent/human-origins/educator-resources/human-origins-educational-lab), but no mention of an in-person space.
+
+
+
 ### Why Neanderthals?
 
-This project focuses on the Neanderthal (formally, Homo neanderthalensis) ...
+<!-- 📌 TODO finish -->
+This project focuses on the Neanderthal (formally, Homo neanderthalensis) ... 
+
+<!-- <i class="fa-solid fa-arrow-up-right-from-square"></i> -->
 
 > ##### 🔍 WHO?
 >
@@ -139,11 +149,7 @@ This project focuses on the Neanderthal (formally, Homo neanderthalensis) ...
 {: .block-warning }
 
 
-
-<!-- ❓Night at the Museum? -->
-
-
-
+<!-- mention Night at the Museum? -->
 
 **_Some_ known unknowns about neanderthals:**
 
@@ -161,36 +167,44 @@ This project focuses on the Neanderthal (formally, Homo neanderthalensis) ...
 
 **Note:** We tried to avoid changing racial features, not only because we want to keep it accurate in terms of the location of the site in France, but we do not want to unintentionally replicate something like blackface
 
-**Evidence-Backed? Artistic Influence? Ingrained Racism and Biases?**
+<!-- **Evidence-Backed? Artistic Influence? Ingrained Racism and Biases?** -->
 
 
 ### Physical Setup
 
-A Hologauze screen will be placed directly behind the diorama's glass. Every five minutes, a video will project images onto the Hologauze, visually altering the Neanderthal mannequins and their environment. Visitors will scan a QR code, bringing them to a web page with two versions of the accompanying audio narration. One version will include an audio description (for blind and low-vision visitors), and the other will not. The page will also include a verbal description of the diorama for blind and low-vision visitors and a transcript for d/Deaf and hard-of-hearing visitors. Captions will appear at the top of the Hologauze screen (surtitles). The audio narration will sync with the video, only starting when the video begins.
+**Why did we choose Hologauze?**
+
+According to Holotronica, the makers of Hologauze: 
+
+<p class="quote">
+    "Hologauze<sup>®</sup> is the original and best solution for creating large-scale holographic illusions with digital projection. Hologauze<sup>®</sup> is the only patented and fully silvered projection gauze available with unparalleled levels of transparency, brightness, contrast, and viewing angle range." 
+    – <a href="https://www.holotronica.com/hologauze/" target="_blank">Holotronica</a>
+</p>
+
+In practice, we use the branded product as a generic stand-in for holographic gauze that supports high-quality digital projections (think “Kleenex” for “facial tissues”). Because cost and similar factors were not part of our class project, we could choose a highly regarded product without in-depth product research or comparisons, including costs (e.g., material and setup costs, energy consumption). 
+
+<!-- TODO alt="::ADD ALT TEXT!::" to second image -->
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/msms-ne-album/hologauze-bluecadet.jpg" alt="BLUECADET in all caps displayed on a nearly invisible screen, which is hung on a step ladder's spreader bar" class="img-fluid rounded" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/hologauze-like-screen.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/hologauze-like-screen.jpg" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    The Bluecadet design company <a href="https://www.facebook.com/Bluecadet/videos/experimenting-with-holo-gauze-at-bluecadet/1676063799103729/?locale=en_US" target="_blank">experimenting with Hologauze</a> (left). A Hologauze-like screen <a href="https://windon1999.en.made-in-china.com/product/KSXmBhavMeco/China-Holographic-Transparent-Reflective-Stage-Foil-Large-Stage-Foil.html" target="_blank">advertised for purchase</a> (right).
+    The Bluecadet design company <a href="https://www.facebook.com/Bluecadet/videos/experimenting-with-holo-gauze-at-bluecadet/1676063799103729/?locale=en_US" target="_blank">experiments with Hologauze</a> (left). A Hologauze-like screen <a href="https://windon1999.en.made-in-china.com/product/KSXmBhavMeco/China-Holographic-Transparent-Reflective-Stage-Foil-Large-Stage-Foil.html" target="_blank">advertised for purchase</a> (right).
 </div>
 
+**How would we use Hologauze?**
 
+A Hologauze screen will be placed directly behind the diorama's glass. Every five minutes, a video will project images onto the Hologauze, visually altering the Neanderthal mannequins and their environment. Visitors will scan a QR code, bringing them to a web page with two versions of the accompanying audio narration. One version will include an audio description (for blind and low-vision visitors), and the other will not. The page will also include a verbal description of the diorama for blind and low-vision visitors and a transcript for d/Deaf and hard-of-hearing visitors. Captions will appear at the top of the Hologauze screen (surtitles). The audio narration will sync with the video, only starting when the video begins.
 
-**Why Hologauze?**
-
-- no budget
-
-**What is Hologauze?**
-
+<!-- TODO alt="::ADD ALT TEXT!::" to image -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/diorama-gmaps-modified.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/diorama-gmaps-modified.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -202,14 +216,19 @@ A Hologauze screen will be placed directly behind the diorama's glass. Every fiv
 
 <a href="/assets/pdf/msms-ne-album/ne-album-mobile-page-mockup.pdf" target="blank"><i class="fas fa-file-pdf"></i>Mobile mockup</a>
 
-
 <!-- ### Proposed Visitor Flow -->
 
-<!-- ::TODO:: -->
 
-<br>
+
+## Accessibility
+
+The new delivery method reduces but does not eliminate friction for all visitors by asking far less of them. For example, they will not need to click through menus. Our intervention aims to be self-explanatory to visually dependent visitors, but we hope they will listen to the audio or read the transcript to enhance their experience. Regrettably, visitors with low vision or blindness still need their smartphones. The exhibition is too compact and crowded to play the audio “out loud.” Doing so might also increase friction for some visitors with sonic frictions. Relatedly, we worry that adding captions for visitors with reduced hearing or deafness might make the display more overwhelming. Currently, our imperfect solution is to provide a transcript under the audio. Both are accessed through a large color-contrasting QR code with sonic and/or haptic cues.
+
+<hr>
 
 ## Storyboard
+
+<!--🚨 ::TODO:: alt="::ADD ALT TEXT to section images!::" -->
 
 Storyboard-specific:
   
@@ -265,13 +284,14 @@ Storyboard-specific:
 
 <p class="scene-direction">[Display fades to black.]</p>
 
+
 ### Intro scene
 
 <p class="transcript">Here, we have a 50,000-year-old Neanderthal campsite that archaeologists found in western France. But how do you know that what you're looking at is real? It might not be. Scientists used a lot of real evidence to create this scene, but how they interpret it might be wrong. Let's explore some other realistic possibilities... following scientific evidence, of course!</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/scene-00-default.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/scene-00-default.jpg" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -287,7 +307,7 @@ Storyboard-specific:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/scene-01-hair.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/scene-01-hair.jpg" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 
@@ -302,7 +322,7 @@ Storyboard-specific:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/scene-02-clothing-boxers.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/scene-02-clothing-boxers.jpg" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 
@@ -310,7 +330,7 @@ Storyboard-specific:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/scene-03-clothing-loincloth.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/scene-03-clothing-loincloth.jpg" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 
@@ -325,7 +345,7 @@ Storyboard-specific:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/scene-04-food.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/scene-04-food.jpg" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 
@@ -340,7 +360,7 @@ There's evidence that Neanderthals had rituals. Maybe they collected flowers or 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/scene-05-rec.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/scene-05-rec.jpg" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 
@@ -355,7 +375,7 @@ Like us, Neanderthals had fun with their families and took care of each other. C
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/scene-06-family.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/scene-06-family.jpg" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 
@@ -372,10 +392,6 @@ Like us, Neanderthals had fun with their families and took care of each other. C
 
 <hr>
 
-
-## Accessibility
-
-The new delivery method reduces but does not eliminate friction for all visitors by asking far less of them. For example, they will not need to click through menus. Our intervention aims to be self-explanatory to visually dependent visitors, but we hope they will listen to the audio or read the transcript to enhance their experience. Regrettably, visitors with low vision or blindness still need their smartphones. The exhibition is too compact and crowded to play the audio “out loud.” Doing so might also increase friction for some visitors with sonic frictions. Relatedly, we worry that adding captions for visitors with reduced hearing or deafness might make the display more overwhelming. Currently, our imperfect solution is to provide a transcript under the audio. Both are accessed through a large color-contrasting QR code with sonic and/or haptic cues.
 
 
 ## Future Work
@@ -397,13 +413,9 @@ If we were to continue this project, tasks that we would like to focus on are li
 - <u>Designers</u> - I am not a designer. The [Storyboard](#storyboard) scenes and [web page](#web-page) designs would greatly benefit from professional expertises.  
 - Improve accessibility by soliciting feedback from \[paid] <u>disability consultants</u>, which needs to include people with blindness, low-vision, deafness, and so forth.
 
-
-
-
 - Figure out a more seamless way to integrate the audio narration
 
 
-  
 **Physical layout**   
 - Can a <u>bench or stools</u> be added to allow people to sit while watching the video? – _This would improve accessibility, and likely visitor engagement, but the exhibition is very compact._
 - Can the panels on either side of the diorama be relocated to give viewers <u>more space</u>? (see [Physical Setup](#physical-setup))  
@@ -476,4 +488,6 @@ Thank you very much to following for their time and guidance:
 
 ## Works Consulted
 
-<a href="/assets/pdf/msms-ne-album/msms-neanderthal-bib.pdf" target="blank"><i class="fas fa-file-pdf"></i> Works Consulted</a>
+<a href="/assets/pdf/msms-ne-album/msms-neanderthal-bib.pdf" target="blank"><i class="fas fa-file-pdf"></i> 
+    Works that informed our background research
+</a>
