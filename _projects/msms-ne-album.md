@@ -75,8 +75,6 @@ Our intervention aims to promote scientific literacy by helping visitors imagine
 
 ## Statement of Need
 
-Why are we focusing on scientific literacy?
-
 The human evolution dioramas in the Hall are meant to help visitors visualize what our hominid ancestors looked like and how they behaved in their respective environments. Their goal is to bring [paleoanthropological](https://www.britannica.com/science/paleoanthropology#:~:text=Paleoanthropology%2C%20interdisciplinary%20branch%20of%20anthropology,and%20the%20theory%20of%20evolution.) evidence to life. However, visitors can easily misinterpret the dioramas’ realism as objective truth. In reality, the dioramas are scientifically informed artistic tableaux resulting from the work of scientists and sculptors. Currently, the AMNH does not help visitors understand this–at least in this exhibition.
 
 
@@ -91,23 +89,12 @@ This project is intended for the general public visiting the Hall in person.
 
 
 
-<!-- ## Learning Goals -->
-
-<!-- _What do you want your learners to know or be able to do after engaging with your project._ -->
-
-
-
 ## Concept Description
 
 <!-- _Tell me here about the overall project and why you chose the media for this project.
 Perhaps you tell a little about why you think this works for your audience._ -->
 
-**Engagement**
 
-- Education lab
-The Hall is densely packed  
-
-A 2007 New York Times article about the Hall's opening describes an interactive educational lab:
 
 <!-- <details> -->
 <p class="quote">
@@ -116,7 +103,7 @@ A 2007 New York Times article about the Hall's opening describes an interactive 
 </p>
 <!-- </details> -->
 
-However, when we visited in the spring of 2024, the physical lab appeared to be permanently closed (unconfirmed). On the AMNH's site, we found the [Virtual Human Origins Educational Lab](https://www.amnh.org/exhibitions/permanent/human-origins/educator-resources/human-origins-educational-lab), but no mention of an in-person space.
+
 
 
 
@@ -172,7 +159,7 @@ This project focuses on the Neanderthal (formally, Homo neanderthalensis) ...
 
 ### Physical Setup
 
-**Why did we choose Hologauze?**
+**What is Hologauze?**
 
 According to Holotronica, the makers of Hologauze: 
 
@@ -197,7 +184,11 @@ In practice, we use the branded product as a generic stand-in for holographic ga
     The Bluecadet design company <a href="https://www.facebook.com/Bluecadet/videos/experimenting-with-holo-gauze-at-bluecadet/1676063799103729/?locale=en_US" target="_blank">experiments with Hologauze</a> (left). A Hologauze-like screen <a href="https://windon1999.en.made-in-china.com/product/KSXmBhavMeco/China-Holographic-Transparent-Reflective-Stage-Foil-Large-Stage-Foil.html" target="_blank">advertised for purchase</a> (right).
 </div>
 
-**How would we use Hologauze?**
+**Why did we choose digital projection?**
+
+<!-- TODO!!!! -->
+
+**How will we use the projection?**
 
 A Hologauze screen will be placed directly behind the diorama's glass. Every five minutes, a video will project images onto the Hologauze, visually altering the Neanderthal mannequins and their environment. Visitors will scan a QR code, bringing them to a web page with two versions of the accompanying audio narration. One version will include an audio description (for blind and low-vision visitors), and the other will not. The page will also include a verbal description of the diorama for blind and low-vision visitors and a transcript for d/Deaf and hard-of-hearing visitors. Captions will appear at the top of the Hologauze screen (surtitles). The audio narration will sync with the video, only starting when the video begins.
 
@@ -214,7 +205,7 @@ A Hologauze screen will be placed directly behind the diorama's glass. Every fiv
 
 ### Web Page
 
-<a href="/assets/pdf/msms-ne-album/ne-album-mobile-page-mockup.pdf" target="blank"><i class="fas fa-file-pdf"></i>Mobile mockup</a>
+<a href="/assets/pdf/msms-ne-album/ne-album-mobile-page-mockup.pdf" target="blank"><i class="fas fa-file-pdf"></i> Mobile mockup</a>
 
 <!-- ### Proposed Visitor Flow -->
 
@@ -222,7 +213,7 @@ A Hologauze screen will be placed directly behind the diorama's glass. Every fiv
 
 ## Accessibility
 
-The new delivery method reduces but does not eliminate friction for all visitors by asking far less of them. For example, they will not need to click through menus. Our intervention aims to be self-explanatory to visually dependent visitors, but we hope they will listen to the audio or read the transcript to enhance their experience. Regrettably, visitors with low vision or blindness still need their smartphones. The exhibition is too compact and crowded to play the audio “out loud.” Doing so might also increase friction for some visitors with sonic frictions. Relatedly, we worry that adding captions for visitors with reduced hearing or deafness might make the display more overwhelming. Currently, our imperfect solution is to provide a transcript under the audio. Both are accessed through a large color-contrasting QR code with sonic and/or haptic cues.
+Our delivery method reduces but does not eliminate friction for all visitors by asking far less of them. For example, they will not need to click through menus. Our intervention aims to be self-explanatory to visually dependent visitors (i.e., sighted visitors). Still, we hope they will listen to the audio or read the transcript to enhance their experience. Regrettably, visitors with low vision or blindness still need their smartphones. The exhibition is too compact and crowded to play the audio “out loud.” Doing so might also increase friction for some visitors with sonic frictions. Relatedly, we worry that adding captions for visitors with reduced hearing or deafness might make the display more overwhelming. Currently, our imperfect solution is to provide a transcript under the audio. Both are accessed through a large color-contrasting QR code with sonic and haptic cues. 
 
 <hr>
 
@@ -234,7 +225,7 @@ Storyboard-specific:
   
 |            Term           |                     Meaning                     |
 |---------------------------|-------------------------------------------------|
-| Default state&nbsp;&nbsp; | Unmodified diorama (see [Intro scene](#intro)\) |
+| Default state&nbsp;&nbsp; | Unmodified diorama (see [Intro scene](#intro-scene)\) |
 | Movie                     | All scenes                                      |
 |                           |                                                 |
 |                            **Style**                            |         **Description**                     |
@@ -388,6 +379,32 @@ Like us, Neanderthals had fun with their families and took care of each other. C
 
 <p class="transcript">Just like humans, Neanderthals had different skin tones, diets, and cultures based on where they lived. With the archaeological and DNA evidence we have <em>today</em>, we don't know everything about our evolutionary cousins. Scientists use evidence to help us imagine realistic possibilities, but unless we have a time machine, we can't know for sure! Who knows, with new scientific technology and discoveries, maybe we'll get more answers soon!</p>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/msms-ne-album/outro-analyzing-skull.jpg" alt="Scientist in a lab taking samples from a human-like skull" class="img-fluid rounded z-depth-1" zoomable=false %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/msms-ne-album/outro-family-campfire.jpg" alt="Multiracial families roasting marshmallows while gathering around campfire in the woods" class="img-fluid rounded z-depth-1" zoomable=false %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/msms-ne-album/outro-kids-playing-at-home.jpg" alt="Two girls and one boy, all with traditional Muslim head coverings, playing a hand game at home in Lebanon" class="img-fluid rounded z-depth-1" zoomable=false %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/msms-ne-album/outro-eagle-with-hunter.jpg" alt="A gold eagle standing beside a traditionally dressed, sitting Kazakh Eagle Hunter in Mongolia" class="img-fluid rounded z-depth-1" zoomable=false %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/msms-ne-album/outro-hair-braiding.jpg" alt="Standing Black woman braiding the hair of a sitting biracial woman" class="img-fluid rounded z-depth-1" zoomable=false %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/msms-ne-album/outro-dna-sequencing.jpg" alt="Scientist in a lab pipetting sample into a vial for DNA testing" class="img-fluid rounded z-depth-1" zoomable=false %}
+    </div>
+</div>
+<div class="caption">
+    Sample images 
+</div>
+
 <p class="scene-direction">[The display fades to black and then returns to the default state (i.e., fully transparent).]</p>
 
 <hr>
@@ -410,7 +427,7 @@ If we were to continue this project, tasks that we would like to focus on are li
 **Work with**
     
 - <u>Anthropologists</u> to verify accuracy - _For example, in the [Recreation scene](#recreation-scene), use flowers that likely grew in western France approximately 50,000 years ago._
-- <u>Designers</u> - I am not a designer. The [Storyboard](#storyboard) scenes and [web page](#web-page) designs would greatly benefit from professional expertises.  
+- <u>Designers</u> - I am not a designer. The [§ Storyboard](#storyboard) scenes and [web page](#web-page) designs would greatly benefit from professional expertises.  
 - Improve accessibility by soliciting feedback from \[paid] <u>disability consultants</u>, which needs to include people with blindness, low-vision, deafness, and so forth.
 
 - Figure out a more seamless way to integrate the audio narration
@@ -428,7 +445,7 @@ If we were to continue this project, tasks that we would like to focus on are li
 
 Thank you very much to following for their time and guidance: 
 
-- Course instructor [Rosanna N Flouty](https://as.nyu.edu/faculty/rosanna-n-flouty.html), NYU Clinical Associate Professor and Museum Studies Program Director
+- Course instructor [Rosanna N. Flouty](https://as.nyu.edu/faculty/rosanna-n-flouty.html), NYU Clinical Associate Professor and Museum Studies Program Director
 - [Josh Goldblum](https://www.linkedin.com/in/joshgoldblum/), Founder and CEO of Bluecadet
 - [Alice Walker](https://www.linkedin.com/in/alicedowwalker/), New Business Strategist at Local Projects
 
@@ -453,6 +470,10 @@ Thank you very much to following for their time and guidance:
             <a href="/assets/img/msms-ne-album/hologauze-like-screen-1400.webp" target="_blank">Hologauze-like screen</a> - 
             <a href="https://windon1999.en.made-in-china.com/product/KSXmBhavMeco/China-Holographic-Transparent-Reflective-Stage-Foil-Large-Stage-Foil.html" target="_blank">Miss June Tang on Made-in-China</a>
         </li>
+        <li>Mobile mockup assets (modified)<ul>
+            <li>Screenshots from the mobile version of the <a href="https://www.amnh.org/exhibitions/permanent/human-origins">AMNH's "Anne and Bernard Spitzer Hall of Human Origins" page</a></li>
+            <li>Screenshots from the iOS 17 Voice Memo app</li>
+        </ul></li>
         <li>Opening scene assets <ul>
             <li>Neanderthals' range – image & alt text: 
                 <a href="https://commons.wikimedia.org/wiki/File:Range_of_NeanderthalsAColoured.png" target="_blank">Nilenbert, Nicolas Perrault III</a> (Nov 2017)</li> 
@@ -478,6 +499,14 @@ Thank you very much to following for their time and guidance:
         <li>Recreation scene assets (modified)<ul>
             <li>Flute - <a href="https://www.britishmuseum.org/collection/object/Y_EA6385">British Museum</a></li>
             <li>Flowers - <a href="https://www.istockphoto.com/photo/bunch-of-lavender-flowers-tied-with-a-rope-isolated-on-a-white-gm1332140077-415073233">igoriss on iStock</a> </li>
+        </ul></li>
+        <li>Outro scene assets<ul>
+            <li>Analyzing skull - <a href="https://www.istockphoto.com/photo/science-professional-and-person-with-skull-in-hand-for-analysis-or-research-for-gm1713042839-539924609">Jacob Wackerhausen on iStock</a> (image & modified alt text)</li>
+            <li>DNA sequencing - <a href="https://www.istockphoto.com/photo/scientist-pipetting-sample-into-a-vial-for-dna-testing-gm1334095553-416349684">Cavan Images on iStock</a> (image & modified alt text)</li>
+            <li>Eagle with its hunter - <a href="https://www.istockphoto.com/photo/gold-eagle-resting-with-eye-patch-covered-beside-kazakh-eagle-hunter-at-bayan-olgii-gm2154717627-575571523">Edwin Tan on iStock</a> (image & modified alt text)</li>
+            <li>Family campfire - <a href="https://www.istockphoto.com/photo/multiracial-families-roasting-marshmallows-while-gathering-around-campfire-in-the-gm1773349119-546062631">Drazen Zigic on iStock</a> (image & modified alt text)</li>
+            <li>Hair braiding - <a href="https://www.istockphoto.com/photo/black-female-hairstylist-working-on-mixed-race-female-client-at-home-gm1952511355-557281193">AzmanL on iStock</a> (image & modified alt text)</li>
+            <li>Kids playing at home - <a href="https://www.istockphoto.com/photo/kids-playing-at-home-gm1440494365-480461075">FG Trade on iStock</a> (image & modified alt text)</li>
         </ul></li>
     </ul>
 
