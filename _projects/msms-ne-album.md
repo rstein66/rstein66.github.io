@@ -14,7 +14,7 @@ toc:
         color: var(--global-text-color-light);
         font-family: "Roboto Condensed", Tahoma, sans-serif;
     }
-    .block-tip {
+    .block-danger, .block-tip {
         font-size: 1rem;
     }
     .block-warning {
@@ -81,7 +81,7 @@ The human evolution dioramas in the Hall are meant to help visitors visualize wh
 
 ## Target Audience
 
-This project is intended for the general public visiting the Hall in person.
+This project is intended for the general public visiting the Hall in-person.
 
 <p class="quote">
     "The Museum welcomes roughly five million visitors annually from New York City and from around the globe, including hundreds of thousands of K–12 students and teachers" - <a href="https://www.amnh.org/about/diversity-equity-inclusion" target="_blank">AMNH</a> 
@@ -91,70 +91,21 @@ This project is intended for the general public visiting the Hall in person.
 
 ## Concept Description
 
-<!-- _Tell me here about the overall project and why you chose the media for this project.
-Perhaps you tell a little about why you think this works for your audience._ -->
+To achieve our learning goal of helping visitors build scientific literacy, we must capture and engage their attention. This is particularly challenging because the Hall's displays are densely packed. Even a reasonably small number of visitors makes the space feel crowded.
 
+<!-- 🚨 ::TODO:: finish -->
 
+<!-- An engaging intervention is especially necessary since the in-person educational lab closed.
 
-<!-- <details> -->
+A 2007 New York Times article about the Hall's opening describes an interactive educational lab:
+
 <p class="quote">
     "Off in a side room, the Spitzer Hall has an educational laboratory with microscopes and laptops ready for visitors, guided by instructors, to try their hands at examining fossils and learning how to decode DNA. The lab is designed with young people and student groups in mind, but anyone is free to experience something of what it is like to delve into the human past."<br>
      - <a href="https://www.nytimes.com/2007/02/09/arts/design/09orig.html" target="_blank">NYTimes (Feb 2007)</a>
 </p>
-<!-- </details> -->
 
+However, when we visited in the spring of 2024, the physical lab appeared permanently closed (unconfirmed). On the AMNH’s site, we found the [Virtual Human Origins Educational Lab](https://www.amnh.org/exhibitions/permanent/human-origins/educator-resources/human-origins-educational-lab), but no mention of an in-museum lab. -->
 
-
-
-
-### Why Neanderthals?
-
-<!-- 📌 TODO finish -->
-This project focuses on the Neanderthal (formally, Homo neanderthalensis) ... 
-
-<!-- <i class="fa-solid fa-arrow-up-right-from-square"></i> -->
-
-> ##### 🔍 WHO?
->
-> [§ Storyboard](#storyboard) introduces Neanderthals. 
-> For a more in-depth introduction, see 
-> "[Who were the Neanderthals?](https://www.nhm.ac.uk/discover/who-were-the-neanderthals.html)" by the Natural History Museum \(in London\).    
-> 
-{: .block-tip }
-  
-> ##### ⚠️ ACCURARCY
->
-> The study of early modern humans is a highly active and rapidly evolving 
-> field. Therefore:  
-> 
-> - Reputable resources may have conflicting information, 
-> depending on when they were last updated. 
-> - While this project makes a concerted effort to reflect the current 
-> state of research as of April 2024 (see [§ Works Consulted](#works-consulted)\),
-> its focus is on museum accessibility and digital design, _not_ anthropology.    
-> 
-{: .block-warning }
-
-
-<!-- mention Night at the Museum? -->
-
-**_Some_ known unknowns about neanderthals:**
-
-- <u>Skin color</u>
-- Amount of <u>body hair</u>
-- <u>Eyelid</u> shape
-- <u>Nose</u> cartilage shape
-- <u>Clothing</u>: dependent on regional factors, such as weather + available resources
-- <u>Diet</u>: dependent on regional availability of flora and fauna
-- <u>Shelters</u>: (e.g., caves, rocky outcrops)
-- <u>Facial hair</u> grooming (e.g., may have used obsidian as razors)
-
-
-<!-- TODO word choice below -->
-
-**Note:** We tried to avoid changing racial features, not only because we want to keep it accurate in terms of the location of the site in France, but we do not want to unintentionally replicate something like blackface
-
-<!-- **Evidence-Backed? Artistic Influence? Ingrained Racism and Biases?** -->
 
 
 ### Physical Setup
@@ -170,14 +121,12 @@ According to Holotronica, the makers of Hologauze:
 
 In practice, we use the branded product as a generic stand-in for holographic gauze that supports high-quality digital projections (think “Kleenex” for “facial tissues”). Because cost and similar factors were not part of our class project, we could choose a highly regarded product without in-depth product research or comparisons, including costs (e.g., material and setup costs, energy consumption). 
 
-<!-- TODO alt="::ADD ALT TEXT!::" to second image -->
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/msms-ne-album/hologauze-bluecadet.jpg" alt="BLUECADET in all caps displayed on a nearly invisible screen, which is hung on a step ladder's spreader bar" class="img-fluid rounded" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/hologauze-like-screen.jpg" class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/hologauze-like-screen.jpg" alt="A semi-transparent floor-to-ceiling mesh screen hangs in the middle of a warehouse. The ladder behind the screen is clearly visible." class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -186,20 +135,23 @@ In practice, we use the branded product as a generic stand-in for holographic ga
 
 **Why did we choose digital projection?**
 
-<!-- TODO!!!! -->
+<!-- 🚨 TODO!!!! -->
 
 **How will we use the projection?**
 
-A Hologauze screen will be placed directly behind the diorama's glass. Every five minutes, a video will project images onto the Hologauze, visually altering the Neanderthal mannequins and their environment. Visitors will scan a QR code, bringing them to a web page with two versions of the accompanying audio narration. One version will include an audio description (for blind and low-vision visitors), and the other will not. The page will also include a verbal description of the diorama for blind and low-vision visitors and a transcript for d/Deaf and hard-of-hearing visitors. Captions will appear at the top of the Hologauze screen (surtitles). The audio narration will sync with the video, only starting when the video begins.
+- Hologauze will be placed directly behind the diorama's glass. Our video will be projected onto the Hologauze every five minutes, visually altering the Neanderthal mannequins and their environment. 
+- Visitors can scan a QR code, bringing them to a web page (see [§ Web Page](#web-page)\) with two versions of the accompanying audio narration. One version will include an audio description (primarily intended for blind and low-vision visitors), and the other will not. The page will also include a verbal description of the diorama for blind and low-vision visitors and a transcript for d/Deaf and hard-of-hearing visitors. 
+- Captions will appear at the top of the Hologauze screen (surtitles). The audio narration will sync with the video, starting when the video begins.
 
-<!-- TODO alt="::ADD ALT TEXT!::" to image -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/diorama-gmaps-modified.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/diorama-gmaps-modified.jpg" 
+        alt="The annotated image shows the diorama and the display windows (and their informational panels) on either side of the diorama. A large QR code is superimposed onto the information panel directly to the left of the Neanderthal diorama."
+        class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    This project further assumes there are small, additional updates to make the existing area more accessible. For example, the raised plaque on the floor (to the left of the freestanding informational panel) would be relocated.  
+    This project assumes that additional small-scale updates will make the existing area more physically accessible. For example, the raised plaque on the floor (to the left of the freestanding informational panel, which is directly in front of the diorama window) would be relocated. 
 </div>
 
 
@@ -207,11 +159,56 @@ A Hologauze screen will be placed directly behind the diorama's glass. Every fiv
 
 <a href="/assets/pdf/msms-ne-album/ne-album-mobile-page-mockup.pdf" target="blank"><i class="fas fa-file-pdf"></i> Mobile mockup</a>
 
-<!-- ### Proposed Visitor Flow -->
+
+### Why Neanderthals?
+
+This project focuses on the Neanderthal diorama (rather than another early human species) because they have long gripped popular imagination. Neanderthals (formally: Homo neanderthalensis) are modern humans (formally: Homo sapiens) closest human relatives. They are the closest species genetically as well as behaviorally. While they are extinct, this closeness makes them most easily relatable. 
+
+> ##### 🔍 WHO?
+>
+> [§ Storyboard](#storyboard) introduces Neanderthals. 
+> For an in-depth introduction, see 
+> "[Who were the Neanderthals?](https://www.nhm.ac.uk/discover/who-were-the-neanderthals.html)" by the Natural History Museum \(in London\).    
+{: .block-tip }
+  
+> ##### ⚠️ ACCURACY
+>
+> The study of early modern humans is a highly active and rapidly evolving 
+> field. Therefore:  
+> 
+> - Reputable resources may have conflicting information, 
+> depending on when they were last updated. 
+> - While this project makes a concerted effort to reflect the current 
+> state of research as of May 2024 (see [§ Works Consulted](#works-consulted)\),
+> its focus is on museum accessibility and digital design, _not_ anthropology.
+{: .block-warning }
+
+> ##### ♬ RACIAL FEATURES
+>
+> Our project does <u>not</u> change racial features.
+> However, we list them below to highlight that some conventions 
+> of depicting Neanderthals may be (unintentionally) heavily influenced 
+> by the racism & biases of their discoverers in the 19th century. 
+{: .block-danger }
+
+**_Some_ known unknowns about Neanderthals:**
+
+- Racial features:
+    + Amount of <u>body hair</u>
+    + <u>Eyelid</u> shape
+    + <u>Nose</u> cartilage shape
+    + <u>Skin color</u>
+- Lifestyle features:
+    + <u>Clothing</u> is dependent on regional factors, such as weather & available resources
+    + <u>Diet</u> is dependent on the regional availability of flora and fauna
+    + <u>Facial hair</u> grooming (e.g., may have used obsidian as razors)
+    + <u>Shelters</u> (e.g., caves, rocky outcrops)
 
 
 
 ## Accessibility
+
+<!-- ::FIXME:: -->
 
 Our delivery method reduces but does not eliminate friction for all visitors by asking far less of them. For example, they will not need to click through menus. Our intervention aims to be self-explanatory to visually dependent visitors (i.e., sighted visitors). Still, we hope they will listen to the audio or read the transcript to enhance their experience. Regrettably, visitors with low vision or blindness still need their smartphones. The exhibition is too compact and crowded to play the audio “out loud.” Doing so might also increase friction for some visitors with sonic frictions. Relatedly, we worry that adding captions for visitors with reduced hearing or deafness might make the display more overwhelming. Currently, our imperfect solution is to provide a transcript under the audio. Both are accessed through a large color-contrasting QR code with sonic and haptic cues. 
 
@@ -219,7 +216,7 @@ Our delivery method reduces but does not eliminate friction for all visitors by 
 
 ## Storyboard
 
-<!--🚨 ::TODO:: alt="::ADD ALT TEXT to section images!::" -->
+<!-- ::TODO:: alt="::ADD ALT TEXT to section images!::" -->
 
 Storyboard-specific:
   
@@ -375,35 +372,35 @@ Like us, Neanderthals had fun with their families and took care of each other. C
 
 ### Outro scene
 
-<p class="scene-direction">[Display fades to black.]<br>[Images similar to those below appear as the narrator speaks.]</p>
+<p class="scene-direction">[Display fades to black.]<br>[Images <u>similar</u>   to those below appear as the narrator speaks.]</p>
 
 <p class="transcript">Just like humans, Neanderthals had different skin tones, diets, and cultures based on where they lived. With the archaeological and DNA evidence we have <em>today</em>, we don't know everything about our evolutionary cousins. Scientists use evidence to help us imagine realistic possibilities, but unless we have a time machine, we can't know for sure! Who knows, with new scientific technology and discoveries, maybe we'll get more answers soon!</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/outro-analyzing-skull.jpg" alt="Scientist in a lab taking samples from a human-like skull" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.html path="assets/img/msms-ne-album/outro-analyzing-skull.jpg" alt="Scientist in a lab taking samples from a human-like skull" class="img-fluid rounded z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/outro-family-campfire.jpg" alt="Multiracial families roasting marshmallows while gathering around campfire in the woods" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.html path="assets/img/msms-ne-album/outro-family-campfire.jpg" alt="Multiracial families roasting marshmallows while gathering around campfire in the woods" class="img-fluid rounded z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/outro-kids-playing-at-home.jpg" alt="Two girls and one boy, all with traditional Muslim head coverings, playing a hand game at home in Lebanon" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.html path="assets/img/msms-ne-album/outro-kids-playing-at-home.jpg" alt="Two girls and one boy, all with traditional Muslim head coverings, playing a hand game at home in Lebanon" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/outro-eagle-with-hunter.jpg" alt="A gold eagle standing beside a traditionally dressed, sitting Kazakh Eagle Hunter in Mongolia" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.html path="assets/img/msms-ne-album/outro-eagle-with-hunter.jpg" alt="A gold eagle standing beside a traditionally dressed, sitting Kazakh Eagle Hunter in Mongolia" class="img-fluid rounded z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/outro-hair-braiding.jpg" alt="Standing Black woman braiding the hair of a sitting biracial woman" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.html path="assets/img/msms-ne-album/outro-hair-braiding.jpg" alt="Standing Black woman braiding the hair of a sitting biracial woman" class="img-fluid rounded z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/outro-dna-sequencing.jpg" alt="Scientist in a lab pipetting sample into a vial for DNA testing" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.html path="assets/img/msms-ne-album/outro-dna-sequencing.jpg" alt="Scientist in a lab pipetting sample into a vial for DNA testing" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
-<div class="caption">
+<!-- <div class="caption">
     Sample images 
-</div>
+</div> -->
 
 <p class="scene-direction">[The display fades to black and then returns to the default state (i.e., fully transparent).]</p>
 
@@ -435,7 +432,7 @@ If we were to continue this project, tasks that we would like to focus on are li
 
 **Physical layout**   
 - Can a <u>bench or stools</u> be added to allow people to sit while watching the video? – _This would improve accessibility, and likely visitor engagement, but the exhibition is very compact._
-- Can the panels on either side of the diorama be relocated to give viewers <u>more space</u>? (see [Physical Setup](#physical-setup))  
+- Can the panels on either side of the diorama be relocated to give viewers <u>more space</u>? (see [_Physical Setup_](#physical-setup))  
 - Consider <u>applying Hologauze</u> to the other dioramas in exhibition – _Will visitors expect and be disappointed that only one diorama is "animated"?_ 
 
 
@@ -443,7 +440,7 @@ If we were to continue this project, tasks that we would like to focus on are li
 
 **People**
 
-Thank you very much to following for their time and guidance: 
+Thank you _very_ much to following for their time and guidance: 
 
 - Course instructor [Rosanna N. Flouty](https://as.nyu.edu/faculty/rosanna-n-flouty.html), NYU Clinical Associate Professor and Museum Studies Program Director
 - [Josh Goldblum](https://www.linkedin.com/in/joshgoldblum/), Founder and CEO of Bluecadet

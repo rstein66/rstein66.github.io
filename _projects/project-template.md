@@ -9,6 +9,8 @@ toc:
   sidebar: left
 ---
 
+<!-- <i class="fa-solid fa-arrow-up-right-from-square"></i> -->
+
 ## Concept Overview
 
 <!-- This is the big picture of what you are trying to achieve with the project. 
