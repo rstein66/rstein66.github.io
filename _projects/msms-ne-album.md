@@ -4,7 +4,7 @@ title: Neanderthals' Photo Album
 description: Build scientific literacy by projecting realistic alternatives.
 img: assets/img/msms-ne-album/scene-02-clothing-boxers.jpg
 importance: 1
-category: [nyu-hide, msms, amnh]
+category: [nyu, msms, amnh]
 toc:
   sidebar: left
 ---
@@ -42,9 +42,9 @@ toc:
 > By [Alyssa Cohen](https://www.linkedin.com/in/alyssa-cohen-9abb25230/) and Rachel Stein
 
 
-The division of labor broke down roughly as follows: Alyssa focused on the anthropology. I (Rachel) focused on design. We paired on implementation.  
+<div class="subnote">The division of labor broke down roughly as follows: Alyssa focused on the anthropology. I (Rachel) focused on design. We paired on implementation.</div>  
 
-This project was initially created for NYU Museum Studies' graduate course [Digital Frictions - Museum Accessibility and Digital Design](https://as.nyu.edu/departments/museumstudies/courses/spring-2024-course-schedule.html) (Spring 2024).
+<div class="subnote">This project was initially created for NYU Museum Studies' graduate course <a href="https://as.nyu.edu/departments/museumstudies/courses/spring-2024-course-schedule.html" target="_blank">Digital Frictions - Museum Accessibility and Digital Design</a> (Spring 2024).</div>
 
 
 **Shorthand:**
@@ -59,8 +59,6 @@ This project was initially created for NYU Museum Studies' graduate course [Digi
 This project complements the Neanderthal diorama in the [Hall of Human Origins](https://www.amnh.org/exhibitions/permanent/human-origins) (Hall) at the [American Museum of Natural History](https://www.amnh.org/) (AMNH) in New York City. 
 
 Our intervention aims to promote scientific literacy by helping visitors imagine scientifically realistic alternatives for what Neanderthals looked like and how they behaved. 
-
-<!-- TODO alt="::ADD ALT TEXT!::" -->
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -77,6 +75,17 @@ Our intervention aims to promote scientific literacy by helping visitors imagine
 
 The human evolution dioramas in the Hall are meant to help visitors visualize what our hominid ancestors looked like and how they behaved in their respective environments. Their goal is to bring [paleoanthropological](https://www.britannica.com/science/paleoanthropology#:~:text=Paleoanthropology%2C%20interdisciplinary%20branch%20of%20anthropology,and%20the%20theory%20of%20evolution.) evidence to life. However, visitors can easily misinterpret the dioramas’ realism as objective truth. In reality, the dioramas are scientifically informed artistic tableaux resulting from the work of scientists and sculptors. Currently, the AMNH does not help visitors understand this–at least in this exhibition.
 
+<!-- An engaging intervention is especially necessary since the in-person educational lab closed.
+
+A 2007 New York Times article about the Hall's opening describes an interactive educational lab:
+
+<p class="quote">
+    "Off in a side room, the Spitzer Hall has an educational laboratory with microscopes and laptops ready for visitors, guided by instructors, to try their hands at examining fossils and learning how to decode DNA. The lab is designed with young people and student groups in mind, but anyone is free to experience something of what it is like to delve into the human past."<br>
+     - <a href="https://www.nytimes.com/2007/02/09/arts/design/09orig.html" target="_blank">NYTimes (Feb 2007)</a>
+</p>
+
+However, when we visited in the spring of 2024, the physical lab appeared permanently closed (unconfirmed). On the AMNH’s site, we found the [Virtual Human Origins Educational Lab](https://www.amnh.org/exhibitions/permanent/human-origins/educator-resources/human-origins-educational-lab), but no mention of an in-museum lab. -->
+
 
 
 ## Target Audience
@@ -91,26 +100,16 @@ This project is intended for the general public visiting the Hall in-person.
 
 ## Concept Description
 
-To achieve our learning goal of helping visitors build scientific literacy, we must capture and engage their attention. This is particularly challenging because the Hall's displays are densely packed. Even a reasonably small number of visitors makes the space feel crowded.
+To achieve our learning goal of helping visitors build scientific literacy, we must capture and engage their attention. This is particularly challenging because the Hall's displays are densely packed. Even a reasonably small number of visitors makes the space feel crowded.  
 
-<!-- 🚨 ::TODO:: finish -->
-
-<!-- An engaging intervention is especially necessary since the in-person educational lab closed.
-
-A 2007 New York Times article about the Hall's opening describes an interactive educational lab:
-
-<p class="quote">
-    "Off in a side room, the Spitzer Hall has an educational laboratory with microscopes and laptops ready for visitors, guided by instructors, to try their hands at examining fossils and learning how to decode DNA. The lab is designed with young people and student groups in mind, but anyone is free to experience something of what it is like to delve into the human past."<br>
-     - <a href="https://www.nytimes.com/2007/02/09/arts/design/09orig.html" target="_blank">NYTimes (Feb 2007)</a>
-</p>
-
-However, when we visited in the spring of 2024, the physical lab appeared permanently closed (unconfirmed). On the AMNH’s site, we found the [Virtual Human Origins Educational Lab](https://www.amnh.org/exhibitions/permanent/human-origins/educator-resources/human-origins-educational-lab), but no mention of an in-museum lab. -->
+Therefore, rather than adding additional displays, we will use high-quality digital projection to make the Neanderthal diorama appear to change. In addition to saving space, this approach has the advantage of encouraging visitors to engage with the project without requiring them to download a mobile app or click through a kiosk menu. The following section, § Physical Setup, explains this approach further.
 
 
 
-### Physical Setup
 
-**What is Hologauze?**
+## Setup
+
+### What is Hologauze?
 
 According to Holotronica, the makers of Hologauze: 
 
@@ -126,22 +125,26 @@ In practice, we use the branded product as a generic stand-in for holographic ga
         {% include figure.html path="assets/img/msms-ne-album/hologauze-bluecadet.jpg" alt="BLUECADET in all caps displayed on a nearly invisible screen, which is hung on a step ladder's spreader bar" class="img-fluid rounded" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/msms-ne-album/hologauze-like-screen.jpg" alt="A semi-transparent floor-to-ceiling mesh screen hangs in the middle of a warehouse. The ladder behind the screen is clearly visible." class="img-fluid rounded" zoomable=true %}
+        {% include figure.html path="assets/img/msms-ne-album/hologauze-like-screen.jpg" alt="A semi-transparent floor-to-ceiling mesh screen hangs in the middle of a warehouse. The ladder behind the screen is clearly visible." class="img-fluid rounded" zoomable=true width="69%" %}
     </div>
 </div>
 <div class="caption">
     The Bluecadet design company <a href="https://www.facebook.com/Bluecadet/videos/experimenting-with-holo-gauze-at-bluecadet/1676063799103729/?locale=en_US" target="_blank">experiments with Hologauze</a> (left). A Hologauze-like screen <a href="https://windon1999.en.made-in-china.com/product/KSXmBhavMeco/China-Holographic-Transparent-Reflective-Stage-Foil-Large-Stage-Foil.html" target="_blank">advertised for purchase</a> (right).
 </div>
 
-**Why did we choose digital projection?**
 
-<!-- 🚨 TODO!!!! -->
+### Why digital projection?
 
-**How will we use the projection?**
+- Our delivery method reduces but does not eliminate friction for all visitors by asking far less of them. For example, they will not need to download a mobile app or click through menus on a kiosk.  
+- Our intervention aims to be self-explanatory to sighted visitors. Still, we hope they will read the captions above (surtitles), listen to the audio (on the webpage), or read the transcript (on the webpage) to enhance their experience. 
+- Regrettably, visitors with low vision or blindness still need their smartphones. The exhibition is too compact and crowded to play the audio “out loud.” Doing so might also increase friction for some visitors with sonic frictions (e.g., some Autistic people). Relatedly, we worry that adding captions for visitors with reduced hearing or deafness might make the display more overwhelming. Both are accessed through a large color-contrasting QR code with sonic and haptic cues.
+
+
+### Physical Setup
 
 - Hologauze will be placed directly behind the diorama's glass. Our video will be projected onto the Hologauze every five minutes, visually altering the Neanderthal mannequins and their environment. 
-- Visitors can scan a QR code, bringing them to a web page (see [§ Web Page](#web-page)\) with two versions of the accompanying audio narration. One version will include an audio description (primarily intended for blind and low-vision visitors), and the other will not. The page will also include a verbal description of the diorama for blind and low-vision visitors and a transcript for d/Deaf and hard-of-hearing visitors. 
-- Captions will appear at the top of the Hologauze screen (surtitles). The audio narration will sync with the video, starting when the video begins.
+- Visitors can scan a QR code, bringing them to a web page (see § Web Page) with two versions of the accompanying audio narration. One version will include an audio description (primarily intended for blind and low-vision visitors), and the other will not. The page will also include a verbal description of the diorama for blind and low-vision visitors and a transcript of both narration versions. 
+- Captions will appear at the top of the Hologauze screen (surtitles). The audio narration (without verbal description) will sync with the projection, starting when the video begins. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -155,12 +158,14 @@ In practice, we use the branded product as a generic stand-in for holographic ga
 </div>
 
 
-### Web Page
+### Web page
 
 <a href="/assets/pdf/msms-ne-album/ne-album-mobile-page-mockup.pdf" target="blank"><i class="fas fa-file-pdf"></i> Mobile mockup</a>
 
 
-### Why Neanderthals?
+
+
+## Why Neanderthals?
 
 This project focuses on the Neanderthal diorama (rather than another early human species) because they have long gripped popular imagination. Neanderthals (formally: Homo neanderthalensis) are modern humans (formally: Homo sapiens) closest human relatives. They are the closest species genetically as well as behaviorally. While they are extinct, this closeness makes them most easily relatable. 
 
@@ -203,26 +208,17 @@ This project focuses on the Neanderthal diorama (rather than another early human
     + <u>Diet</u> is dependent on the regional availability of flora and fauna
     + <u>Facial hair</u> grooming (e.g., may have used obsidian as razors)
     + <u>Shelters</u> (e.g., caves, rocky outcrops)
-
-
-
-## Accessibility
-
-<!-- ::FIXME:: -->
-
-Our delivery method reduces but does not eliminate friction for all visitors by asking far less of them. For example, they will not need to click through menus. Our intervention aims to be self-explanatory to visually dependent visitors (i.e., sighted visitors). Still, we hope they will listen to the audio or read the transcript to enhance their experience. Regrettably, visitors with low vision or blindness still need their smartphones. The exhibition is too compact and crowded to play the audio “out loud.” Doing so might also increase friction for some visitors with sonic frictions. Relatedly, we worry that adding captions for visitors with reduced hearing or deafness might make the display more overwhelming. Currently, our imperfect solution is to provide a transcript under the audio. Both are accessed through a large color-contrasting QR code with sonic and haptic cues. 
-
 <hr>
 
-## Storyboard
 
-<!-- ::TODO:: alt="::ADD ALT TEXT to section images!::" -->
+
+## Storyboard
 
 Storyboard-specific:
   
 |            Term           |                     Meaning                     |
 |---------------------------|-------------------------------------------------|
-| Default state&nbsp;&nbsp; | Unmodified diorama (see [Intro scene](#intro-scene)\) |
+| Default state&nbsp;&nbsp; | Unmodified diorama (see [_Intro scene_](#intro-scene)\) |
 | Movie                     | All scenes                                      |
 |                           |                                                 |
 |                            **Style**                            |         **Description**                     |
@@ -241,9 +237,7 @@ Storyboard-specific:
     <u>Examples</u>: <a href="https://artlist.io/royalty-free-music/song/rising-star/130137" target="_blank">"Rising Star" by TURPAK</a> or <a href="https://artlist.io/royalty-free-music/song/cat-walk/85915" target="_blank">"Cat Walk" by Roie Shpigler</a>
 ]</p>
 
-
 <p class="transcript">Neanderthals lived in Europe, the Middle East, and parts of Asia. They appeared about 400,000 years ago and became extinct 40,000 years ago.</p>
-
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -327,7 +321,7 @@ Storyboard-specific:
 
 ### Food scene
 
-<p class="scene-direction">[Mannequins repositioned. Animal hide disappears.]<br>[New items appear when named.]</p>
+<p class="scene-direction">[Mannequins repositioned. The animal hide (that the younger woman is preparing) disappears.]<br>[New items appear when named.]</p>
 
 <p class="transcript">During the summer in France, scientists think Neanderthals gathered fruits, nuts, and seeds. They knew how to use fire and maybe cooked up some fish for dinner.</p>
 
@@ -412,35 +406,37 @@ Like us, Neanderthals had fun with their families and took care of each other. C
 
 <!-- 🚨 FIXME !!  -->
 
-If we were to continue this project, tasks that we would like to focus on are listed below.
+If we were to continue this project, the tasks we would like to focus on are listed below.
 
-**Content**  
+**Content**
+<div class="subnote">(In order of importance.)</div>
 
-1. ⭐️ <u>Shorten script</u> - 
-2. Add additional <u>audio description</u> to the script
-3. Add verbal <u>description of diorama</u>
-4. Add an article with educational content about Neanderthals, paleoanthropology and paleogenetics
+1.  <u>Shorten script</u>- the narration (without audio description) should be 1:30 minutes. at most to reduce the chances of losing the audience's attention. Visitor feedback would be especially important for this task – _e.g., Ask them what their least favorite scene was._
+2.  Add additional <u>audio description</u>.
+3.  Add a verbal <u>description of the diorama</u>.
+4.  Add an <u>article</u> with educational content about Neanderthals, paleoanthropology, and paleogenetics.
 
 **Work with**
     
-- <u>Anthropologists</u> to verify accuracy - _For example, in the [Recreation scene](#recreation-scene), use flowers that likely grew in western France approximately 50,000 years ago._
-- <u>Designers</u> - I am not a designer. The [§ Storyboard](#storyboard) scenes and [web page](#web-page) designs would greatly benefit from professional expertises.  
-- Improve accessibility by soliciting feedback from \[paid] <u>disability consultants</u>, which needs to include people with blindness, low-vision, deafness, and so forth.
+- <u>Anthropologists</u> to verify accuracy.
+    + _E.g., In the [Recreation scene](#recreation-scene), use flowers that likely grew in western France approximately 50,000 years ago._
+- <u>Designers</u> - I am not a designer. The [§ Storyboard](#storyboard) scenes and _[Web page](#web-page)_ designs would greatly benefit from professional expertises.  
+- Improve accessibility by soliciting feedback from \[paid\] <u>disability consultants</u>, who should include people with blindness, low vision, deafness, and other disabilities. 
+    + _E.g., Is important information missing from the verbal descriptions? Are the verbal descriptions too long? Is it important to include an American Sign Language translation?_
 
-- Figure out a more seamless way to integrate the audio narration
 
+**Physical layout**
 
-**Physical layout**   
-- Can a <u>bench or stools</u> be added to allow people to sit while watching the video? – _This would improve accessibility, and likely visitor engagement, but the exhibition is very compact._
-- Can the panels on either side of the diorama be relocated to give viewers <u>more space</u>? (see [_Physical Setup_](#physical-setup))  
-- Consider <u>applying Hologauze</u> to the other dioramas in exhibition – _Will visitors expect and be disappointed that only one diorama is "animated"?_ 
+- Can a <u>bench or stools</u> be added to allow people to sit while watching the video? This would improve accessibility, and likely visitor engagement, but the Hall is very compact.
+- Can the panels on either side of the diorama be relocated to give viewers <u>more space</u>? (see _[Physical setup](#physical-setup)_\).  
+- Consider <u>applying Hologauze</u> to the other dioramas in exhibition. Will visitors expect and be disappointed that only one diorama is "animated"?
 
 
 ## Acknowledgments
 
 **People**
 
-Thank you _very_ much to following for their time and guidance: 
+Thank you <u><em>very</em></u> much to following for their time and guidance: 
 
 - Course instructor [Rosanna N. Flouty](https://as.nyu.edu/faculty/rosanna-n-flouty.html), NYU Clinical Associate Professor and Museum Studies Program Director
 - [Josh Goldblum](https://www.linkedin.com/in/joshgoldblum/), Founder and CEO of Bluecadet
