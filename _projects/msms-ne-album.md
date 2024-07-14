@@ -214,6 +214,11 @@ This project focuses on the Neanderthal diorama (rather than another early human
 
 ## Storyboard
 
+> ##### 🎞️ RECORDING
+>
+> Click [here](https://youtu.be/iwFNIBSvdSk) for a recording of the storyboard scenes with voice-over.     
+{: .block-tip }
+
 Storyboard-specific:
   
 |            Term           |                     Meaning                     |
@@ -285,7 +290,7 @@ Storyboard-specific:
 
 <p class="scene-direction">[Hair changes appear on the mannequins one by one when mentioned.]</p>
 
-<p class="transcript">Let's start with their hair. Scientists can't know what color every Neanderthal's hair was or how they styled it. DNA gives us clues but not exact answers. Like us, some Neanderthals had brown hair that they braided. Some were bald with red beards. Others had graying short hair.</p>
+<p class="transcript">Let's start with their hair. Scientists can't know what color every Neanderthal's hair was or how they styled it. DNA gives us clues but not exact answers. Like us, some Neanderthals had brown hair that they braided. Some were bald with red beards. Others had short, gray hair.</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -323,7 +328,7 @@ Storyboard-specific:
 
 <p class="scene-direction">[Mannequins repositioned. The animal hide (that the younger woman is preparing) disappears.]<br>[New items appear when named.]</p>
 
-<p class="transcript">During the summer in France, scientists think Neanderthals gathered fruits, nuts, and seeds. They knew how to use fire and maybe cooked up some fish for dinner.</p>
+<p class="transcript">During the summer in France, scientists think Neanderthals gathered fruits, nuts, and seeds. They knew how to use fire and maybe cook some fish for dinner.</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -338,7 +343,7 @@ Storyboard-specific:
 
 <p class="scene-direction">[Animal hide and spear disappear.]<br>[New items appear when named.]</p>
 
-There's evidence that Neanderthals had rituals. Maybe they collected flowers or played music for a special ceremony. The first human-made instruments were flutes, so maybe Neanderthals played them too.
+<p class="transcript">There's evidence that Neanderthals had rituals. Maybe they collected flowers or played music for a special ceremony. The first modern human-made instruments were flutes, so maybe Neanderthals played them too.</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -353,7 +358,7 @@ There's evidence that Neanderthals had rituals. Maybe they collected flowers or 
 
 <p class="scene-direction">[Mannequins repositioned. Animal hide and spear disappear.]<br>[New items appear when named.]</p>
 
-Like us, Neanderthals had fun with their families and took care of each other. Can you imagine a mom watching her toddler play while grandma holds his baby sister and dad tells dad jokes?
+<p class="transcript">Like us, Neanderthals had fun with their families and took care of each other. Can you imagine a mom watching her toddler play while grandma holds his baby sister and dad tells dad jokes?</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -392,9 +397,7 @@ Like us, Neanderthals had fun with their families and took care of each other. C
         {% include figure.html path="assets/img/msms-ne-album/outro-dna-sequencing.jpg" alt="Scientist in a lab pipetting sample into a vial for DNA testing" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
-<!-- <div class="caption">
-    Sample images 
-</div> -->
+
 
 <p class="scene-direction">[The display fades to black and then returns to the default state (i.e., fully transparent).]</p>
 
@@ -403,8 +406,6 @@ Like us, Neanderthals had fun with their families and took care of each other. C
 
 
 ## Future Work
-
-<!-- 🚨 FIXME !!  -->
 
 If we were to continue this project, the tasks we would like to focus on are listed below.
 
@@ -420,7 +421,7 @@ If we were to continue this project, the tasks we would like to focus on are lis
     
 - <u>Anthropologists</u> to verify accuracy.
     + _E.g., In the [Recreation scene](#recreation-scene), use flowers that likely grew in western France approximately 50,000 years ago._
-- <u>Designers</u> - I am not a designer. The [§ Storyboard](#storyboard) scenes and _[Web page](#web-page)_ designs would greatly benefit from professional expertises.  
+- <u>Designers</u> - I am not a designer. Professional expertise would greatly benefit the [§ Storyboard](#storyboard) scenes and _[Web page](#web-page)_ designs.  
 - Improve accessibility by soliciting feedback from \[paid\] <u>disability consultants</u>, who should include people with blindness, low vision, deafness, and other disabilities. 
     + _E.g., Is important information missing from the verbal descriptions? Are the verbal descriptions too long? Is it important to include an American Sign Language translation?_
 
@@ -428,7 +429,7 @@ If we were to continue this project, the tasks we would like to focus on are lis
 **Physical layout**
 
 - Can a <u>bench or stools</u> be added to allow people to sit while watching the video? This would improve accessibility, and likely visitor engagement, but the Hall is very compact.
-- Can the panels on either side of the diorama be relocated to give viewers <u>more space</u>? (see _[Physical setup](#physical-setup)_\).  
+- Can the panels on either side of the diorama be relocated to give viewers <u>more space</u>? (see _[Physical setup](#physical-setup)_\). 
 - Consider <u>applying Hologauze</u> to the other dioramas in exhibition. Will visitors expect and be disappointed that only one diorama is "animated"?
 
 
@@ -443,6 +444,7 @@ Thank you <u><em>very</em></u> much to following for their time and guidance:
 - [Alice Walker](https://www.linkedin.com/in/alicedowwalker/), New Business Strategist at Local Projects
 
 <!-- - 📍 NYU Anthropology prof -->
+**Voice-over** (in the [recording](https://youtu.be/iwFNIBSvdSk)\) was generated by [Natural Readers](https://www.naturalreaders.com).
 
 <details>
     <summary><b>Image Sources</b></summary>
@@ -506,6 +508,7 @@ Thank you <u><em>very</em></u> much to following for their time and guidance:
     <hr>
 </details>
 <br>
+
 
 
 ## Works Consulted
