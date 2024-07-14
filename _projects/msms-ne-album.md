@@ -223,8 +223,7 @@ Storyboard-specific:
   
 |            Term           |                     Meaning                     |
 |---------------------------|-------------------------------------------------|
-| Default state&nbsp;&nbsp; | Unmodified diorama (see [_Intro scene_](#intro-scene)\) |
-| Movie                     | All scenes                                      |
+| Default state&nbsp;&nbsp; | Unmodified diorama (see _[Intro scene](#intro-scene)_\) |
 |                           |                                                 |
 |                            **Style**                            |         **Description**                     |
 | Normal text                                                      | –                                           |
