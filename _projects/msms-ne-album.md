@@ -46,6 +46,10 @@ toc:
 
 <div class="subnote">This project was initially created for NYU Museum Studies' graduate course <a href="https://as.nyu.edu/departments/museumstudies/courses/spring-2024-course-schedule.html" target="_blank">Digital Frictions - Museum Accessibility and Digital Design</a> (Spring 2024).</div>
 
+> ##### 🚀 TIP
+>
+> tl;dr? [Here](https://youtu.be/uq-tm0kCzRU) is a recording of the project's storyboard.     
+{: .block-tip }
 
 **Shorthand:**
 
@@ -216,7 +220,7 @@ This project focuses on the Neanderthal diorama (rather than another early human
 
 > ##### 🎞️ RECORDING
 >
-> Click [here](https://youtu.be/iwFNIBSvdSk) for a recording of the storyboard scenes with voice-over.     
+> Click [here](https://youtu.be/uq-tm0kCzRU) for a recording of the storyboard scenes with voice-over.     
 {: .block-tip }
 
 Storyboard-specific:
