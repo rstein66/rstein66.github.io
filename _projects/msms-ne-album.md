@@ -196,8 +196,8 @@ This project focuses on the Neanderthal diorama (rather than another early human
 >
 > Our project does <u>not</u> change racial features.
 > However, we list them below to highlight that some conventions 
-> of depicting Neanderthals may be (unintentionally) heavily influenced 
-> by the racism & biases of their discoverers in the 19th century. 
+> of depicting Neanderthals may still be (unintentionally) heavily influenced 
+> by the biases of their discoverers in the 19th century. 
 {: .block-danger }
 
 **_Some_ known unknowns about Neanderthals:**
