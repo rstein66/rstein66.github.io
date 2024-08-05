@@ -14,18 +14,6 @@ toc:
         color: var(--global-text-color-light);
         font-family: "Roboto Condensed", Tahoma, sans-serif;
     }
-    .block-danger, .block-tip {
-        font-size: 1rem;
-    }
-    .block-warning {
-        font-size: 1rem;
-        li, em {
-            color: var(--global-warning-block-text);
-        }
-    }
-    .quote {
-        font-family: "Roboto Condensed", Tahoma, sans-serif;
-        text-align: center; 
     }
     .scene-direction {
         color: var(--global-text-color-light);

@@ -71,8 +71,12 @@ blockquote {
   &.block-tip {
     border-color: var(--global-tip-block);
     background-color: var(--global-tip-block-bg);
+    font-size: 1rem;
 
-    p {
+    em,
+    li,
+    p,
+    strong {
       color: var(--global-tip-block-text);
     }
 
@@ -89,8 +93,12 @@ blockquote {
   &.block-warning {
     border-color: var(--global-warning-block);
     background-color: var(--global-warning-block-bg);
+    font-size: 1rem;
 
-    p {
+    em,
+    li,
+    p,
+    strong {
       color: var(--global-warning-block-text);
     }
 
@@ -107,8 +115,12 @@ blockquote {
   &.block-danger {
     border-color: var(--global-danger-block);
     background-color: var(--global-danger-block-bg);
+    font-size: 1rem;
 
-    p {
+    em,
+    li,
+    p,
+    strong {
       color: var(--global-danger-block-text);
     }
 
@@ -121,6 +133,11 @@ blockquote {
       color: var(--global-danger-block-title);
     }
   }
+}
+
+.quote {
+  font-family: "Roboto Condensed", Tahoma, sans-serif;
+  text-align: center;
 }
 
 // Checklist
