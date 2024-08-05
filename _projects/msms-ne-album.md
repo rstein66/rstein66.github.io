@@ -132,7 +132,7 @@ In practice, we use the branded product as a generic stand-in for holographic ga
 - Regrettably, visitors with low vision or blindness still need their smartphones. The exhibition is too compact and crowded to play the audio “out loud.” Doing so might also increase friction for some visitors with sonic frictions (e.g., some people with autism). Relatedly, we worry that adding captions for visitors with reduced hearing or deafness might make the display more overwhelming. Both are accessed through a large color-contrasting QR code with sonic and haptic cues.
 
 
-### Physical setup
+### Physical Setup
 
 - Hologauze will be placed directly behind the diorama's glass. Our video will be projected onto the Hologauze every five minutes, visually altering the Neanderthal mannequins and their environment. 
 - Visitors can scan a QR code, bringing them to a web page (see § Web Page) with two versions of the accompanying audio narration. One version will include an audio description (primarily intended for blind and low-vision visitors), and the other will not. The page will also include a verbal description of the diorama for blind and low-vision visitors and a transcript of both narration versions. 
@@ -150,7 +150,7 @@ In practice, we use the branded product as a generic stand-in for holographic ga
 </div>
 
 
-### Web page
+### Web Page
 
 <a href="/assets/pdf/msms-ne-album/ne-album-mobile-page-mockup.pdf" target="blank"><i class="fas fa-file-pdf"></i> Mobile mockup</a>
 
@@ -263,7 +263,7 @@ Storyboard-specific:
 <p class="scene-direction">[Display fades to black.]</p>
 
 
-### Intro scene
+### Intro Scene
 
 <p class="transcript">Here, we have a 50,000-year-old Neanderthal campsite that archaeologists found in western France. But how do you know that what you're looking at is real? It might not be. Scientists used a lot of real evidence to create this scene, but how they interpret it might be wrong. Let's explore some other realistic possibilities... following scientific evidence, of course!</p>
 
@@ -277,7 +277,7 @@ Storyboard-specific:
 </div>
 
 
-### Hair scene
+### Hair Scene
 
 <p class="scene-direction">[Hair changes appear on the mannequins one by one when mentioned.]</p>
 
@@ -292,7 +292,7 @@ Storyboard-specific:
 <p class="scene-direction">[Display returns to default state.]</p>
 
 
-### Clothing scenes
+### Clothing Scenes
 
 <p class="scene-direction">[New items appear when named.]</p>
 
@@ -315,7 +315,7 @@ Storyboard-specific:
 <p class="scene-direction">[Display returns to default state.]</p>
 
 
-### Food scene
+### Food Scene
 
 <p class="scene-direction">[Mannequins repositioned. The animal hide (that the younger woman is preparing) disappears.]<br>[New items appear when named.]</p>
 
@@ -330,7 +330,7 @@ Storyboard-specific:
 <p class="scene-direction">[Display returns to default state.]</p>
 
 
-### Recreation scene
+### Recreation Scene
 
 <p class="scene-direction">[Animal hide and spear disappear.]<br>[New items appear when named.]</p>
 
@@ -345,7 +345,7 @@ Storyboard-specific:
 <p class="scene-direction">[Display returns to default state.]</p>
 
 
-### Family scene
+### Family Scene
 
 <p class="scene-direction">[Mannequins repositioned. Animal hide and spear disappear.]<br>[New items appear when named.]</p>
 
@@ -360,7 +360,7 @@ Storyboard-specific:
 <p class="scene-direction">[Display returns to default state.]</p>
 
 
-### Outro scene
+### Outro Scene
 
 <p class="scene-direction">[Display fades to black.]<br>[Images <u>similar</u>   to those below appear as the narrator speaks.]</p>
 

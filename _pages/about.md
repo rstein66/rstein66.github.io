@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Software developer passionate about learning
+subtitle: Software enginer passionate about teaching & learning
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
     }
 </style>
 
-> I am passionate about how software development and education are well suited to work together to foster an open, collaborative, and dynamic culture focused on implementing creative and practical solutions to real-world challenges.    
+> I am passionate about teaching and learning. how software development and education are well suited to work together to foster an open, collaborative, and dynamic culture focused on implementing creative and practical solutions to real-world challenges.    
 
 ### Education
 
@@ -28,7 +28,7 @@ In 2024, I completed a master's degree in [Specialized Studies in Education](htt
 
 I graduated from Swarthmore College in 2015 with a bachelor's in computer science and minors in art history and education. Due to concerns about academic integrity, I cannot post my computer science projects. I worked as a software developer and consultant after thru-hiking the 2,200-mile Appalachian Trail from [Maine to Georgia](https://appalachiantrail.org/explore/hike-the-a-t/thru-hiking/southbound/). 
 
-### Professional background
+### Professional Background
  
 I have worked primarily as a full-stack developer on projects, including building an iOS app for a national food delivery company, rebuilding a U.S. DoD system tracking recruits, and modernizing a telemedicine communication tool. At my last company, I focused on backend development, which included Ruby on Rails development, database support, and site stability. Before that, I worked as a software consultant. I valued the opportunities to practice the craft of software development, project management, and client-facing communication skills in an array of tech stacks and company cultures. All of the professional projects that I worked on are closed source.
   
