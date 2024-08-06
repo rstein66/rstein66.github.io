@@ -14,7 +14,6 @@ toc:
         color: var(--global-text-color-light);
         font-family: "Roboto Condensed", Tahoma, sans-serif;
     }
-    }
     .scene-direction {
         color: var(--global-text-color-light);
         font-family: "Roboto Condensed", Tahoma, sans-serif;
@@ -85,7 +84,7 @@ However, when we visited in the spring of 2024, the physical lab appeared perman
 This project is intended for the general public visiting the Hall in-person.
 
 <p class="quote">
-    "The Museum welcomes roughly five million visitors annually from New York City and from around the globe, including hundreds of thousands of K–12 students and teachers" - <a href="https://www.amnh.org/about/diversity-equity-inclusion" target="_blank">AMNH</a> 
+    "The Museum welcomes roughly five million visitors annually from New York City and from around the globe, including hundreds of thousands of K–12 students and teachers" – <a href="https://www.amnh.org/about/diversity-equity-inclusion" target="_blank">AMNH</a> 
 </p>
 
 
@@ -215,7 +214,7 @@ Storyboard-specific:
   
 |            Term           |                     Meaning                     |
 |---------------------------|-------------------------------------------------|
-| Default state&nbsp;&nbsp; | Unmodified diorama (see _[Intro scene](#intro-scene)_\) |
+| Default state             | Unmodified diorama (see _[Intro scene](#intro-scene)_\)  |
 |                           |                                                 |
 |                            **Style**                            |         **Description**                     |
 | Normal text                                                      | –                                           |

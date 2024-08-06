@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
     }
 </style>
 
-> I am passionate about teaching and learning. how software development and education are well suited to work together to foster an open, collaborative, and dynamic culture focused on implementing creative and practical solutions to real-world challenges.    
+<!-- > My passionate for teaching and learning draws me to software engineering. how software development and education are well suited to work together to foster an open, collaborative, and dynamic culture focused on implementing creative and practical solutions to real-world challenges.  -->
 
 ### Education
 

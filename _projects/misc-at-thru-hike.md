@@ -15,7 +15,6 @@ toc:
         font-family: "Roboto Condensed", Tahoma, sans-serif;
         text-align: center; 
         font-size: 1rem;
-        /* background-color: #f7e6f6; */
     }
     table.table {
         td,
@@ -133,6 +132,4 @@ See the ATC's section called ["How is the A.T. marked?"](https://appalachiantrai
 
 - It was a privileged to be able to thru-hike the trail and an amazing experience that I will never forget. That said, practicalities aside, there is a lot to be said for doing the trail in sections. For example, people who visit [Shenandoah National Park](https://www.nps.gov/shen/index.htm) or the [Great Smoky Mountains National Park](https://www.nps.gov/grsm/index.htm) often talk about how stunning and memorable the park was–especially the sunsets. But, when you thru-hiking you have similar views for hundreds on miles. Sometimes it was difficult not to take them for granted.      
   
-- Post offices are the best! Public libraries are the pretty great to!  
-
-- Rural highway near Bear Mountain 
+- Post offices are the best! Public libraries are the pretty great too!  
