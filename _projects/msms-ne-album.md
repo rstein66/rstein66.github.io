@@ -93,7 +93,7 @@ This project is intended for the general public visiting the Hall in-person.
 
 To achieve our learning goal of helping visitors build scientific literacy, we must capture and engage their attention. This is particularly challenging because the Hall's displays are densely packed. Even a reasonably small number of visitors makes the space feel crowded.  
 
-Therefore, rather than adding additional displays, we will use high-quality digital projection to make the Neanderthal diorama appear to change. In addition to saving space, this approach has the advantage of encouraging visitors to engage with the project without requiring them to download a mobile app or click through a kiosk menu. The following section, § Physical Setup, explains this approach further.
+Therefore, rather than adding additional displays, we will use high-quality digital projection to make the Neanderthal diorama appear to change. In addition to saving space, this approach has the advantage of encouraging visitors to engage with the project without requiring them to download a mobile app or click through a kiosk menu. The following section, § Setup, explains this approach further.
 
 
 
