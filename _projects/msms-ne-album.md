@@ -127,15 +127,17 @@ In practice, we use the branded product as a generic stand-in for holographic ga
 ### Why digital projection?
 
 - Our delivery method reduces but does not eliminate friction for all visitors by asking far less of them. For example, they will not need to download a mobile app or click through menus on a kiosk.  
-- Our intervention aims to be self-explanatory to sighted visitors. Still, we hope they will read the captions above (surtitles), listen to the audio (on the webpage), or read the transcript (on the webpage) to enhance their experience. 
-- Regrettably, visitors with low vision or blindness still need their smartphones. The exhibition is too compact and crowded to play the audio “out loud.” Doing so might also increase friction for some visitors with sonic frictions (e.g., some people with autism). Relatedly, we worry that adding captions for visitors with reduced hearing or deafness might make the display more overwhelming. Both are accessed through a large color-contrasting QR code with sonic and haptic cues.
+- Our intervention aims to be self-explanatory to sighted visitors. Still, we hope they will read the captions above (surtitles), listen to the audio (on the web page), or read the transcript (on the web page) to enhance their experience. 
+- Regrettably, visitors with low vision or blindness will probably still require their smartphones. The exhibition is too compact and crowded to play the audio “out loud.” Doing so might also increase friction for some visitors with sonic frictions (e.g., some people with autism). Visitors can access the web page directly by scanning the QR code next to the diorama (see _Physical Setup_ below).
 
 
 ### Physical Setup
 
-- Hologauze will be placed directly behind the diorama's glass. Our video will be projected onto the Hologauze every five minutes, visually altering the Neanderthal mannequins and their environment. 
-- Visitors can scan a QR code, bringing them to a web page (see § Web Page) with two versions of the accompanying audio narration. One version will include an audio description (primarily intended for blind and low-vision visitors), and the other will not. The page will also include a verbal description of the diorama for blind and low-vision visitors and a transcript of both narration versions. 
-- Captions will appear at the top of the Hologauze screen (surtitles). The audio narration (without verbal description) will sync with the projection, starting when the video begins. 
+- Hologauze will be placed directly behind the diorama's glass. Our video will be projected onto the Hologauze every five minutes, visually altering the Neanderthal mannequins and their environment.
+- Visitors can scan a QR code, bringing them to a web page (see _Web Page_) with two versions of the accompanying audio narration. One version will include an audio description, and the other will not. The page will also include a transcript of both narration versions and a verbal description of the diorama.
+- The audio description and verbal description are primarily intended for visitors with low vision or blindness. Further, to best support visitors with low vision or blindness, the QR code display will follow best practices: it will be large, printed in contrasting colors, and with sonic and haptic cues.
+- The audio narration (without verbal description) will sync with the projection, starting when the video begins.
+- Captions will appear at the top of the Hologauze screen (surtitles). Putting them at the top rather than the bottom will make them visible to more people in the crowded space.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
