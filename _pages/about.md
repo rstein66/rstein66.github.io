@@ -20,7 +20,8 @@ social: true  # includes social icons at the bottom of the page
     }
 </style>
 
-<!-- > My passionate for teaching and learning draws me to software engineering. how software development and education are well suited to work together to foster an open, collaborative, and dynamic culture focused on implementing creative and practical solutions to real-world challenges.  -->
+>I am passionate about software engineering and education. My interest in the intersection has guided my academic and professional path. I love how software engineering's rapid evolution encourages team members to be career-long learners and teachers. More broadly, I am inspired to integrate software engineering and educational methodology into an open, collaborative, and dynamic approach to implementing creative and practical solutions to real-world challenges.
+
 
 ### Education
 
