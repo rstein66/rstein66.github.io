@@ -3,7 +3,7 @@ layout: page
 title: Narrative Reflection
 description: How do I see narrative?
 img: assets/img/edct-2510/pexels-fox-book.jpg
-importance: 1
+importance: 3
 category: [nyu, edct-2510]
 ---
 

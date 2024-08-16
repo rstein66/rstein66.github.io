@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Swamp Turtle's Hike
-description: Southbound on the 2,200 mi Appalachian Trail 2015-16
+description: Southbound on the 2,200 mile Appalachian Trail 2015-16.
 img: assets/img/misc-at-thru-hike/at-max-patch.jpg
 importance: 5
 category: [misc]
@@ -123,8 +123,15 @@ See the ATC's section called ["How is the A.T. marked?"](https://appalachiantrai
         {% include figure.html path="assets/img/misc-at-thru-hike/trail-road-wedding-sign.jpg" alt="A rural highway with a white blaze on the guard rail next to a with an arrow to a wedding" class="img-fluid rounded z-depth-1" zoomable=true width="90%"%}
     </div>
 </div>
-<div class="caption">
-    Clockwise from top left. TOP ROW: Somewhere in North Carolina · <a href="https://www.dcr.virginia.gov/state-parks/grayson-highlands" target="_blank">Grayson Highlands [Virginia] State Park</a>, where wild ponies roam free · The <a href="https://en.wikipedia.org/wiki/Presidential_Range" target="_blank">Presidential [Mountain] Range</a> in New Hampshire · BOTTOM ROW: <a href="https://maps.app.goo.gl/wW8udjL25fSQUMGn9" target="_blank">S. Main St</a> in Hanover, New Hampshire, the hometown of Dartmouth College. The image is from Google Street View. I added the star to draw attention to the white blaze. · A rural highway in the South.
+<div class="caption" style="text-align: left;">
+    Clockwise from top left.
+    <ul>
+        <li>TOP ROW: Somewhere in North Carolina.</li>
+        <li><a href="https://www.dcr.virginia.gov/state-parks/grayson-highlands" target="_blank">Grayson Highlands [Virginia] State Park</a>, where wild ponies roam free.</li>
+        <li>The <a href="https://en.wikipedia.org/wiki/Presidential_Range" target="_blank">Presidential [Mountain] Range</a> in New Hampshire.</li>
+        <li>BOTTOM ROW: <a href="https://maps.app.goo.gl/wW8udjL25fSQUMGn9" target="_blank">S. Main St</a> in Hanover, New Hampshire, the hometown of Dartmouth College. The image is from Google Street View. I added the star to draw attention to the white blaze.</li>
+        <li>A rural highway in the South.</li>
+    </ul>
 </div>
 
 

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Software enginer passionate about teaching & learning
+subtitle: Software enginer passionate about education
 
 profile:
   align: right
