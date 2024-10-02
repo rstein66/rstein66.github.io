@@ -6,6 +6,7 @@ img: assets/img/misc-at-thru-hike/at-max-patch.jpg
 importance: 5
 category: [misc]
 pretty_table: true
+tabs: true
 toc:
   sidebar: left
 ---
@@ -25,23 +26,13 @@ toc:
 </style>
 
 
-## Jargon
+> 🚧 **This page is under construction.** Thank you for your understanding.
 
-|    Term          |             Meaning             |                     Notes                     |
-|----------------:-|---------------------------------|-----------------------------------------------|
-| ⭐️ **A.T.**      | Appalachian Trail               | Formally: Appalachian National Scenic Trail. The trail is approx. 2,200 mi (3,540 km) and follows the [Appalachian Mountains](https://en.wikipedia.org/wiki/Appalachian_Mountains) through 14 U.S. states.  |
-| **ATC**          | Appalachian Trail Conservancy   | Protects, manages, and advocates for the A.T.     |
-| **Katahdin**     | Northern terminus               | The A.T. starts/ends at Mt. Katahdin's submit.                                        |
-| ⭐️ **SOBO**      | Southbound                      | In context: hiking from Maine to Georgia. NOBO is the opposite.      |
-| **Springer**     | Southern terminus   | The A.T. starts/ends at Springer Mtn's submit.                                             |
-| **Thru-hike**   | Hiking A.T. in 12 months | Definitions slightly vary. This is a popular one. | 
-| **Trail name**   | Long-distance hiker's nickname | Mine was Swamp Turtle. Yes, everyone truly did go by them! |                                       
-  
-<!-- | **MEGA**         | Maine to Georgia                |                                               | -->
-<p></p>  
-The Trek's ["Thru-Hiker / Appalachian Trail Glossary"](https://thetrek.co/thru-hiker-resources/appalachian-trail-glossary/) page is a great resource and links to articles like ["What Is a Trail Name and How Do I Get One?"](https://thetrek.co/what-is-a-trail-name-and-how-do-i-get-one/).
+Below, the "My Hike" (left) tab discusses my experience. The other tab on 
 
-<hr>
+{% tabs group-name %}
+
+{% tab group-name My Hike %}
 
 ## My Trip: What & Why
 
@@ -135,8 +126,39 @@ See the ATC's section called ["How is the A.T. marked?"](https://appalachiantrai
 </div>
 
 
-## A Couple Takeaways
+## Some Takeaways
 
 - It was a privileged to be able to thru-hike the trail and an amazing experience that I will never forget. That said, practicalities aside, there is a lot to be said for doing the trail in sections. For example, people who visit [Shenandoah National Park](https://www.nps.gov/shen/index.htm) or the [Great Smoky Mountains National Park](https://www.nps.gov/grsm/index.htm) often talk about how stunning and memorable the park was–especially the sunsets. But, when you thru-hiking you have similar views for hundreds on miles. Sometimes it was difficult not to take them for granted.      
   
 - Post offices are the best! Public libraries are the pretty great too!  
+
+{% endtab %}
+
+
+
+
+
+{% tab group-name Appendix: Jargon %}
+
+<h2 data-toc-skip> Jargon </h2>
+
+<!-- <details> -->
+
+|    Term          |             Meaning             |                     Notes                     |
+|----------------:-|---------------------------------|-----------------------------------------------|
+| ⭐️ **A.T.**      | Appalachian Trail               | Formally: Appalachian National Scenic Trail. The trail is approx. 2,200 mi (3,540 km) and follows the [Appalachian Mountains](https://en.wikipedia.org/wiki/Appalachian_Mountains) through 14 U.S. states.  |
+| **ATC**          | Appalachian Trail Conservancy   | Protects, manages, and advocates for the A.T.     |
+| **Katahdin**     | Northern terminus               | The A.T. starts/ends at Mt. Katahdin's submit.                                        |
+| ⭐️ **SOBO**      | Southbound                      | In context: hiking from Maine to Georgia. NOBO is the opposite.      |
+| **Springer**     | Southern terminus   | The A.T. starts/ends at Springer Mtn's submit.                                             |
+| **Thru-hike**   | Hiking A.T. in 12 months | Definitions slightly vary. This is a popular one. | 
+| **Trail name**   | Long-distance hiker's nickname | Mine was Swamp Turtle. Yes, everyone truly did go by them! |                                       
+  
+<!-- | **MEGA**         | Maine to Georgia                |                                               | -->
+<p></p> 
+ 
+The Trek's ["Thru-Hiker / Appalachian Trail Glossary"](https://thetrek.co/thru-hiker-resources/appalachian-trail-glossary/) page is a great resource and links to articles like ["What Is a Trail Name and How Do I Get One?"](https://thetrek.co/what-is-a-trail-name-and-how-do-i-get-one/).
+
+{% endtab %}
+
+{% endtabs %}

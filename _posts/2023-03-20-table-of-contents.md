@@ -36,6 +36,17 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 If you want to learn more about how to customize the table of contents, you can check the [jekyll-toc](https://github.com/toshimaru/jekyll-toc) repository.
 
+For example, you can choose not to include a heading in the table of contents using the following syntaxz: 
+
+```html  
+<h3 data-toc-skip> This Sub-Heading is Skipped</h3>
+``` 
+
+<h3 data-toc-skip>Skipped Sub-Heading Example</h3>
+
+This sub-heading appears on the page, but _not_ in the Table of Contents.
+
+
 ### Example of Sub-Heading 2
 
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
