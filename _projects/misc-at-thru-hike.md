@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Swamp Turtle's Hike
-description: Southbound on the 2,200 mile Appalachian Trail 2015-16.
+description: Southbound on the 2,200 mile Appalachian Trail (2015-16).
 img: assets/img/misc-at-thru-hike/at-max-patch.jpg
 importance: 5
-category: [misc]
+category: [miscellaneous]
 pretty_table: true
 tabs: true
 toc:
@@ -28,7 +28,7 @@ toc:
 
 > 🚧 **This page is under construction.** Thank you for your understanding.
 
-Below, the "My Hike" (left) tab discusses my experience. The other tab on 
+Below, the "My Hike" (left) tab discusses my experience. The other tab (on the right) briefly describes key A.T. jargon used on this page.
 
 {% tabs group-name %}
 
@@ -36,6 +36,7 @@ Below, the "My Hike" (left) tab discusses my experience. The other tab on
 
 ## My Trip: What & Why
 
+📌📌📌 TODO "Why"
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -79,15 +80,22 @@ Below, the "My Hike" (left) tab discusses my experience. The other tab on
     </div>
 </div>
 <div class="caption">
-    ::ADD A CAPTION!::
+    <div class="caption" style="text-align: left;">
+        Clockwise from top left:
+        <ul>
+            <li>TOP ROW: ::ADD A CAPTIONS!::</li>
+        </ul>
+    </div>
 </div>
+
+<hr>
 
 
 ## Physical Trail
 
 The A.T. covers about 2,200 mi. Before I hiked it, I did not appreciate how close you are to civilization. Even the famed [100-Mile Wilderness](https://thetrek.co/the-complete-hiker-trash-guide-to-the-100-mile-wilderness/) in Maine, the most remote section of the trail, wasn't all that remote. While there's little infrastructure, you pass by driveways to summer homes and lakes where families go for a day trip. Nor did I appreciate how different the trail itself could look. Some examples are shown below. 
 
-<!-- TODO 
+<!-- 📌 TODO 
     Transition
     also, more often blazed with NOBO's in mind 
 -->
@@ -115,7 +123,7 @@ See the ATC's section called ["How is the A.T. marked?"](https://appalachiantrai
     </div>
 </div>
 <div class="caption" style="text-align: left;">
-    Clockwise from top left.
+    Clockwise from top left:
     <ul>
         <li>TOP ROW: Somewhere in North Carolina.</li>
         <li><a href="https://www.dcr.virginia.gov/state-parks/grayson-highlands" target="_blank">Grayson Highlands [Virginia] State Park</a>, where wild ponies roam free.</li>
@@ -125,12 +133,14 @@ See the ATC's section called ["How is the A.T. marked?"](https://appalachiantrai
     </ul>
 </div>
 
+<hr>
+
 
 ## Some Takeaways
 
 - It was a privileged to be able to thru-hike the trail and an amazing experience that I will never forget. That said, practicalities aside, there is a lot to be said for doing the trail in sections. For example, people who visit [Shenandoah National Park](https://www.nps.gov/shen/index.htm) or the [Great Smoky Mountains National Park](https://www.nps.gov/grsm/index.htm) often talk about how stunning and memorable the park was–especially the sunsets. But, when you thru-hiking you have similar views for hundreds on miles. Sometimes it was difficult not to take them for granted.      
   
-- Post offices are the best! Public libraries are the pretty great too!  
+- Post offices are the best! Public libraries are the pretty great too!  ==📌 TODO finish!==
 
 {% endtab %}
 
@@ -146,13 +156,13 @@ See the ATC's section called ["How is the A.T. marked?"](https://appalachiantrai
 
 |    Term          |             Meaning             |                     Notes                     |
 |----------------:-|---------------------------------|-----------------------------------------------|
-| ⭐️ **A.T.**      | Appalachian Trail               | Formally: Appalachian National Scenic Trail. The trail is approx. 2,200 mi (3,540 km) and follows the [Appalachian Mountains](https://en.wikipedia.org/wiki/Appalachian_Mountains) through 14 U.S. states.  |
-| **ATC**          | Appalachian Trail Conservancy   | Protects, manages, and advocates for the A.T.     |
-| **Katahdin**     | Northern terminus               | The A.T. starts/ends at Mt. Katahdin's submit.                                        |
+| ⭐️ **A.T.**      | [Appalachian Trail](https://en.wikipedia.org/wiki/Appalachian_Trail)               | Formally: Appalachian National Scenic Trail. The trail is approx. 2,200 mi (3,540 km) and follows the [Appalachian Mountains](https://en.wikipedia.org/wiki/Appalachian_Mountains) through 14 U.S. states.  |
+| **ATC**          | [Appalachian Trail Conservancy](https://appalachiantrail.org/)   | Protects, manages, and advocates for the A.T.     |
+| **Katahdin**     | Northern terminus               | The A.T. starts/ends at [Mt. Katahdin](https://www.nps.gov/places/katahdin-baxter-state-park.htm)'s submit.                                        |
 | ⭐️ **SOBO**      | Southbound                      | In context: hiking from Maine to Georgia. NOBO is the opposite.      |
-| **Springer**     | Southern terminus   | The A.T. starts/ends at Springer Mtn's submit.                                             |
+| **Springer**     | Southern terminus   | The A.T. starts/ends at [Springer Mtn](https://www.fs.usda.gov/recarea/conf/recreation/hiking/recarea/?recid=10539&actid=51)'s submit.                                             |
 | **Thru-hike**   | Hiking A.T. in 12 months | Definitions slightly vary. This is a popular one. | 
-| **Trail name**   | Long-distance hiker's nickname | Mine was Swamp Turtle. Yes, everyone truly did go by them! |                                       
+| **Trail name**   | Long-distance hiker's nickname | Mine was Swamp Turtle. Yes, everyone actually went by them!                                        
   
 <!-- | **MEGA**         | Maine to Georgia                |                                               | -->
 <p></p> 
