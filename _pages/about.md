@@ -29,7 +29,9 @@ In 2024, I completed a master's degree in [Specialized Studies in Education](htt
 
 I graduated from Swarthmore College in 2015 with a bachelor's in computer science and minors in art history and education. Due to concerns about academic integrity, I cannot post my computer science projects. I worked as a software developer and consultant after thru-hiking the 2,200-mile Appalachian Trail from [Maine to Georgia](https://appalachiantrail.org/explore/hike-the-a-t/thru-hiking/southbound/). 
 
+<!-- 📌 TODO Update link above once AT project page is done. -->
+
 ### Professional Background
  
-I have worked primarily as a full-stack developer on projects, including building an iOS app for a national food delivery company, rebuilding a U.S. DoD system tracking recruits, and modernizing a telemedicine communication tool. At my last company, I focused on backend development, which included Ruby on Rails development, database support, and site stability. Before that, I worked as a software consultant. I valued the opportunities to practice the craft of software development, project management, and client-facing communication skills in an array of tech stacks and company cultures. All of the professional projects that I worked on are closed source.
+I have worked primarily as a full-stack developer on projects, including building an iOS app for a national food delivery company, rebuilding a U.S. DoD system tracking recruits, and modernizing a telemedicine communication tool. At my last company, The Mom Project, I focused on backend development, which included Ruby on Rails development, database support, and site stability. Before that, I worked as a software consultant. I valued the opportunities to practice the craft of software development, project management, and client-facing communication skills in an array of tech stacks and company cultures. Every industry project I worked on is closed source.
   

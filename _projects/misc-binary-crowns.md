@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Binary Crowns
-description: Women in Computer Science event (2013).
+description: Swarthmore Women in Computer Science event (2013).
 img: assets/img/misc-binary-crowns/my-bCrown.jpg
 importance: 5
 category: [miscellaneous]
@@ -9,54 +9,50 @@ toc:
   sidebar: left
 ---
 <style>
-    .followup {
-        color: var(--global-text-color-light);
-        font-style: italic;
-    }
+    .followup { color: var(--global-text-color-light); }
 </style>
-
-> 🚧 **This page is under construction.** Thank you for your understanding.
 
 **Abbreviations:**
 
-- CS – _Computer Science_
-- TriCo – _Tri-College Consortium (Swarthmore, Haverford, and Bryn Maw colleges)_
-- WiCS – _Women in Computer Science_
+- \[S\]WiCS – _\[Swarthmore\] Women in Computer Science_
 
-## Overview
 
-As part of Swarthmore College's 2013–14 and 2014-15 WiCS club leadership teams, I helped organize events including weekly lunches for female students and faculty, lightening talks, and workshops. As the first webmaster, I also created the club's website. In addition to club information, I complied resources and testimonials–including from former club members in industry and CS PhD programs.  
 
-The club was created in 2011 and chartered in 2013. Membership was open to all female TriCo students. Most events, including those described below, were open to all TriCo students (regardless of gender, academic major, or course enrollment).
+## SWiCS
+
+As part of Swarthmore College's 2013–14 and 2014–15 WiCS leadership, I helped organize events like weekly lunches for female students and faculty, lightning talks, and workshops. As the first webmaster, I created the club's website and compiled resources and testimonials from alumni in industry and academia.  
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        The club was founded in 2011 and chartered in 2013. Membership was open to all female TriCo<sup>* </sup> students. Most events, including those described below, were open to all TriCo students regardless of gender, academic major, or course enrollment.
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/misc-binary-crowns/wics-logo.jpg" alt="Lowercase wics  cursive letters. The s' elongated tail ends in a computer mouse." class="img-fluid rounded" %}
     </div>
 </div>
-<div class="caption">
-    The club's logo (at the time), designed by club member Samantha Goldstein. <span class="followup">Disclaimer: I "bolded" the logo for the club's website. The updated logo was more visible, but (regrettably) the design was altered.</span>
-</div>
 
+<div class="subnote">* The Tri-College Consortium consists of Bryn Mawr, Haverford, and Swarthmore colleges.</div>
 
-## Binary Crowns
+<!-- <br> -->
 
-One of my favorite events was "binary crown making."  
+## Binary Crown Making
 
-> For a brief introduction to what "binary" means in context, see ["Why is binary important?"](https://builtin.com/software-engineering-perspectives/binary#:~:text=Why%20Is%20Binary,or%20store%20information.) by Built In.    
+> ℹ️ For a very brief introduction to **binary**, see ["Why is binary important?"](https://builtin.com/software-engineering-perspectives/binary#:~:text=Why%20Is%20Binary,or%20store%20information.) by Built In.    
 {: .block-tip } 
+
+One of my favorite events was binary crown making.
 
 ### Inspiration
 
 
-VMWare "Code Princess" t-shirt that VMWare distributed at the [2013 Grace Hopper Celebration of Women in Computing Conference](https://ghc.anitab.org/ghc-2013-a-big-success/).<sup>\* </sup> (I was fortunately enough to be a Grace Hopper \[Student\] Scholar that year, and many other club members were awarded other scholarships to the conference.) The shirt's design is shown in the right-hand image below. 
+VMWare distributed "Code Princess" shirts at the [2013 Grace Hopper Celebration of Women in Computing Conference](https://ghc.anitab.org/ghc-2013-a-big-success/),<sup>\* </sup> which I attended as a Grace Hopper \[Student\] Scholar. The shirt's design is shown in the right-hand image below.
 
-<div class="subnote">* The conference has since expanded to focus on gathering, supporting, and empowering women <i>and</i> nonbinary workers in an <i>array</i> of tech roles. I included the conference's full name to explain why the shirt's theme was very likely a well intentioned (albeit problematic) choice.</div>  
+<div class="subnote">* The conference has since expanded to focus on gathering, supporting, and empowering women <i>and</i> nonbinary workers in an <i>array</i> of tech roles. I included the conference's full name to clarify why the shirt's theme was likely a well-intentioned (albeit problematic) choice.</div>  
 
 
 ### Event
 
-With the t-shirt's _crown_ as inspiration, the event was a social opportunity for students to socialize and eat provided food while creating their own crown formed from 1s and 0s using foam sheets, foam letters, gem stickers, glue, and such.  
+Inspired by the shirt's _crown_, the event provided a social opportunity for all students to socialize and enjoy food while creating crowns from 1s and 0s using foam sheets, foam letters, gem stickers, glue, and more.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -67,7 +63,7 @@ With the t-shirt's _crown_ as inspiration, the event was a social opportunity fo
     </div>
 </div>
 <div class="caption">
-    A participant beginning to assemble her crown (left). The VMVare "Code Princess" t-shirt design (right).
+    A participant begins to assemble her crown (left). The VMWare "Code Princess" shirt design (right).
 </div>
 
 <div class="row">
@@ -82,7 +78,7 @@ With the t-shirt's _crown_ as inspiration, the event was a social opportunity fo
 
 ## Open Source Workshop
 
-PS I wanted to briefly mention another of my favorite WiCS events: [OpenHatch](https://blog.openhatch.org/)'s "Open Source Comes to Campus" in 2014. 
+PS: I wanted to quickly mention another favorite event of mine—[OpenHatch](https://blog.openhatch.org/)'s Open Source Comes to Campus in 2014. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -93,10 +89,12 @@ PS I wanted to briefly mention another of my favorite WiCS events: [OpenHatch](h
     </div>
 </div>
 <div class="caption">
-    A participant speaking with a community mentor (left). Participants focused on the task (right).
+    A participant speaks with a community mentor (left). Participants focused on the task (right).
 </div>
 
 
 ## Acknowledgments
- 
+
+- The [SWiCS](#swics) section displays the club's contemporary logo, designed by member Samantha Goldstein. <span class="followup">Note: I "bolded" the logo for the club's website. While the updated logo was more visible, the design was regrettably altered.</span>   
+
 - The events' funding was primarily provided by the Swarthmore CS department.  
