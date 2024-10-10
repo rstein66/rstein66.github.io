@@ -4,7 +4,7 @@ title: Swamp Turtle's Hike
 description: Southbound on the 2,200 mile Appalachian Trail (2015-16).
 img: assets/img/misc-at-thru-hike/at-max-patch.jpg
 importance: 5
-category: [miscellaneous]
+category: [miscellaneous-hide]
 pretty_table: true
 tabs: true
 toc:
