@@ -33,7 +33,7 @@ toc:
 
 <div class="subnote">This project was initially created for NYU Museum Studies' graduate course <a href="https://as.nyu.edu/departments/museumstudies/courses/spring-2024-course-schedule.html" target="_blank">Digital Frictions - Museum Accessibility and Digital Design</a> (Spring 2024).</div>
 
-> ##### 🚀 TIP
+> ##### 🚀&nbsp; TIP
 >
 > tl;dr? [Here](https://youtu.be/uq-tm0kCzRU) is a recording of the project's storyboard.     
 {: .block-tip }
@@ -162,14 +162,14 @@ In practice, we use the branded product as a generic stand-in for holographic ga
 
 This project focuses on the Neanderthal diorama (rather than another early human species) because they have long gripped popular imagination. Neanderthals (formally: Homo neanderthalensis) are modern humans (formally: Homo sapiens) closest human relatives. They are the closest species genetically as well as behaviorally. While they are extinct, this closeness makes them most easily relatable. 
 
-> ##### 🔍 WHO?
+> ##### 🔍&nbsp; WHO?
 >
 > [§ Storyboard](#storyboard) introduces Neanderthals. 
 > For an in-depth introduction, see 
 > "[Who were the Neanderthals?](https://www.nhm.ac.uk/discover/who-were-the-neanderthals.html)" by the Natural History Museum \(in London\).    
 {: .block-tip }
   
-> ##### ⚠️ ACCURACY
+> ##### ⚠️&nbsp; ACCURACY
 >
 > The study of early modern humans is a highly active and rapidly evolving 
 > field. Therefore:  
@@ -181,7 +181,7 @@ This project focuses on the Neanderthal diorama (rather than another early human
 > its focus is on museum accessibility and digital design, _not_ anthropology.
 {: .block-warning }
 
-> ##### ♬ RACIAL FEATURES
+> ##### ♬&nbsp; RACIAL FEATURES
 >
 > Our project does <u>not</u> change racial features.
 > However, we list them below to highlight that some conventions 
@@ -207,7 +207,7 @@ This project focuses on the Neanderthal diorama (rather than another early human
 
 ## Storyboard
 
-> ##### 🎞️ RECORDING
+> ##### 🎞️&nbsp; RECORDING
 >
 > Click [here](https://youtu.be/uq-tm0kCzRU) for a recording of the storyboard scenes with voice-over.     
 {: .block-tip }
