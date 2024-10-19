@@ -175,10 +175,15 @@ ul.task-list input[type="checkbox"] {
 // "Subnote"
 
 .subnote {
-  color: var(--global-text-color-light);
-  font-size: 0.95rem;
-  margin-top: 0.75rem;
-  margin-bottom: 1rem;
+   p,
+   li,
+   b,
+   em {
+    color: var(--global-text-color-light);
+    font-size: 0.95rem;
+    margin-top: 0.75rem;
+    margin-bottom: 1rem;
+  }
 }
 
 // TEMPORARY "Back to top link"
