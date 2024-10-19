@@ -91,6 +91,6 @@ I used the free trial of [Articulate 360](https://www.articulate.com/360/)'s Ris
 
 ## Acknowledgments
 
-- This project was initially created for NYU's graduate course [Narrative, Digital Media and Learning](https://steinhardt.nyu.edu/courses/narrative-digital-media-and-learning). After the course, I remade the prototype, incorporating some material from my graduate course [Digital Frictions - Museum Accessibility and Digital Design](https://as.nyu.edu/departments/museumstudies/courses/spring-2024-course-schedule.html).
+- This project was initially created for NYU’s graduate course [Narrative, Digital Media, and Learning](https://steinhardt.nyu.edu/courses/narrative-digital-media-and-learning). During the course, it was submitted in a simpler format instead of as a portfolio project write-up. After the course, I remade the prototype, incorporating some material from my graduate course [Digital Frictions—Museum Accessibility and Digital Design](https://as.nyu.edu/departments/museumstudies/courses/spring-2024-course-schedule.html).
 - This project's cover image is from a Taylor & Francis [article](https://authorservices.taylorandfrancis.com/publishing-your-research/writing-your-paper/importance-of-accessibility/).
 - The microlearning includes content-specific source links.
