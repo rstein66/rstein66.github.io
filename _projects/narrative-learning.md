@@ -3,13 +3,21 @@ layout: page
 title: Bite-Sized Accessibility Lesson
 description: Pre-work for the "Narrative and Digital Accessibility" discussion.
 img: assets/img/edct-2510/microlearning/accessibility-icons.jpg
-importance: 3
-category: [nyu-hide, edct-2510]
+importance: 2
+category: [nyu, edct-2510]
 toc:
   sidebar: left
 ---
 
-> 🚧 **This page is under construction.** Thank you for your understanding.
+<style>
+    .block-warning {
+        padding-bottom: 2px;
+    }
+    ul li {
+        padding: 3px 0px;
+    }
+</style>
+
 
 ## Concept Overview
 
@@ -32,7 +40,7 @@ A brief, interactive online lesson will be assigned as homework before the Narra
 
 ## Target Audience
 
-The students in this master's level NYU class are primarily first-year graduate students enrolled in a variety of programs. Therefore, I do not want to assume that every student is already familiar with digital accessibility.
+The students in this master's level NYU class are primarily first-year graduate students enrolled in various programs. Therefore, I do not want to assume that every student is already familiar with digital accessibility.
 
 
 ## Learning Goals
@@ -48,35 +56,41 @@ The goal of this brief lesson is for students to gain (or review) a basic unders
 
 I used the free trial of [Articulate 360](https://www.articulate.com/360/)'s Rise 360 [microlearning](https://community.articulate.com/articles/rise-360-create-new-microlearning) tool because its web interface made it easy to create and customize a lesson with interactive components quickly. In addition to short blocks of text, the lesson includes four "flippable" flashcards, one multiple-choice question, and a clickable labeled image. I included these interactive components to encourage users to participate actively in the lesson.
 
-
-📌 Add CAVEATS!!!
-📌 add image redirect
-
 <div class="row justify-content-sm-center">
     <div class="col-sm">
-        {% include figure.html path="assets/img/edct-2510/microlearning/ml-cover.jpg" alt="::ADD ALT TEXT!::" width="100%" %}
+        {% include figure.html path="assets/img/edct-2510/microlearning/ml-cover.jpg" alt="The lesson's title screen, which says, 'Narrative & Digital Accessibility Intro [by] Rachel Stein'" width="100%" %}
     </div>
 </div>
 <div class="caption">
-    ::ADD A CAPTION!::
-    <a href="/assets/pdf/edct-2510/narrative-microlearning-prototype.pdf" target="blank"><i class="fas fa-file-pdf"></i> "Narrative & Digital Accessibility Intro"</a> microlesson
+    The microlesson's beginning as displayed by Articulate's mobile simulator (above). 
 </div>
 
 
+> ##### 🔍&nbsp; EXPLORE THE PROTOTYPE
+>
+> <a href="/assets/pdf/edct-2510/narrative-microlearning-prototype.pdf" target="blank"><i class="fas fa-file-pdf"></i> "Narrative & Digital Accessibility Intro"</a> microlesson.
+{: .block-tip}
+
+> ##### ⚠️&nbsp; ABOUT THE PROTOTYPE
+>
+> - It is a PDF rather than the live version to ensure continued access since I created the lesson using a free trial. _(Note: Since Articulate supports exporting the lesson as HTML, a production version could easily and should be self-hosted.)_
+>  
+> - It was created by exporting the course as a PDF using the built-in tool and then edited with Adobe Acrobat. While these steps resolved some formatting, readability, and other issues, the process likely introduced other cross-application and accessibility issues _(e.g., the heading hierarchy is somewhat unclear)_.
+>  
+> - Context that would not be on the live site is prefixed by "Note: " and is written in dark red Comic Sans.
+{: .block-warning }
 
 
 ## Next Steps
 
-- Simplify microlearning's language
-- Have an accessibility review the microlearning's material
-- - 📌 consistent formatting
-
-- 📌self-host (screen recording isn't ideal. not screen reader friendly)
+- Simplify the lesson's language.
+- Have an ~expert review the lesson material.
+- Improve lesson accessibility _(e.g., ensure consistent heading structure is clear visually and with a screen reader)_.
+- Incorporate participants' feedback: Parts of the lesson that seem clear and complete to me (as the lesson creator) may not be to others.
+  
 
 ## Acknowledgments
 
 - This project was initially created for NYU's graduate course [Narrative, Digital Media and Learning](https://steinhardt.nyu.edu/courses/narrative-digital-media-and-learning). After the course, I remade the prototype, incorporating some material from my graduate course [Digital Frictions - Museum Accessibility and Digital Design](https://as.nyu.edu/departments/museumstudies/courses/spring-2024-course-schedule.html).
-    
 - This project's cover image is from a Taylor & Francis [article](https://authorservices.taylorandfrancis.com/publishing-your-research/writing-your-paper/importance-of-accessibility/).
-
 - The microlearning includes content-specific source links.
