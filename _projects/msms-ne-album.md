@@ -23,6 +23,9 @@ toc:
         font-family: "Roboto Serif", Georgia, serif;
         font-size: 0.95rem;
     }
+    ol li, ul li {
+        padding: 2px 0px;
+    }
 </style>
 
 

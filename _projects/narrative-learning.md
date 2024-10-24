@@ -14,7 +14,7 @@ toc:
         padding-bottom: 2px;
     }
     ul li {
-        padding: 3px 0px;
+        padding: 2px 0px;
     }
 </style>
 
@@ -73,20 +73,25 @@ I used the free trial of [Articulate 360](https://www.articulate.com/360/)'s Ris
 
 > ##### ⚠️&nbsp; ABOUT THE PROTOTYPE
 >
-> - It is a PDF rather than the live version to ensure continued access since I created the lesson using a free trial. _(Note: Since Articulate supports exporting the lesson as HTML, a production version could easily and should be self-hosted.)_
+> - It is a PDF rather than the live version to ensure continued access since I created the lesson using a free trial.
 >  
-> - It was created by exporting the course as a PDF using the built-in tool and then edited with Adobe Acrobat. While these steps resolved some formatting, readability, and other issues, the process likely introduced other cross-application and accessibility issues _(e.g., the heading hierarchy is somewhat unclear)_.
+> - It was created by exporting the course as a PDF using the built-in tool and then edited with Adobe Acrobat. While these steps resolved some formatting, readability, and other issues, the process likely introduced typos and other cross-application and accessibility issues _(e.g., the heading hierarchy is somewhat unclear)_.
 >  
-> - Context that would not be on the live site is prefixed by "Note: " and is written in dark red Comic Sans.
 {: .block-warning }
 
 
 ## Next Steps
 
+**Content:**  
+
 - Simplify the lesson's language.
 - Have an ~expert review the lesson material.
-- Improve lesson accessibility _(e.g., ensure consistent heading structure is clear visually and with a screen reader)_.
 - Incorporate participants' feedback: Parts of the lesson that seem clear and complete to me (as the lesson creator) may not be to others.
+
+**Format:** 
+
+- Since Rise 360 supports exporting the lesson as HTML, a production version could easily and should be self-hosted.  
+- Improve lesson accessibility _(e.g., ensure consistent heading structure is clear visually and with a screen reader)_.
   
 
 ## Acknowledgments

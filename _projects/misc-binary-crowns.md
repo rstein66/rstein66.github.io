@@ -2,7 +2,7 @@
 layout: page
 title: Binary Crowns
 description: Swarthmore Women in Computer Science event (2013).
-img: assets/img/misc-binary-crowns/my-bCrown.jpg
+img: assets/img/misc-binary-crowns/my-bCrown-v2.jpg
 importance: 5
 category: [miscellaneous]
 toc:
