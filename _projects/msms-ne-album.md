@@ -33,7 +33,7 @@ toc:
 
 
 <div class="subnote">The division of labor broke down roughly as follows: Alyssa focused on the anthropology. I (Rachel) focused on design. We paired on implementation.</div>  
-
+  
 <div class="subnote">This project was initially created for NYU Museum Studies' graduate course <a href="https://as.nyu.edu/departments/museumstudies/courses/spring-2024-course-schedule.html" target="_blank">Digital Frictions - Museum Accessibility and Digital Design</a> (Spring 2024).</div>
 
 > ##### 🚀&nbsp; TIP

@@ -11,7 +11,7 @@ toc:
 
 ### Key Information
 
-> <a href="/assets/pdf/resume/rstein_resume.pdf" target="blank"><i class="fas fa-file-pdf"></i> one-page résumé (2024)</a>
+> <a href="/assets/pdf/resume/rstein_resume.pdf" target="blank"><i class="fas fa-file-pdf"></i> One-page résumé (2024)</a>
 
 
 
