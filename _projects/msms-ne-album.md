@@ -33,7 +33,7 @@ toc:
 
 
 <div class="subnote">The division of labor broke down roughly as follows: Alyssa focused on the anthropology. I (Rachel) focused on design. We paired on implementation.</div>   
-   
+<p></p>   
 <div class="subnote">This project was initially created for NYU Museum Studies' graduate course <a href="https://as.nyu.edu/departments/museumstudies/courses" target="_blank">Digital Frictions - Museum Accessibility and Digital Design</a> (Spring 2024).</div>
 
 > ##### 🚀&nbsp; TIP
@@ -94,11 +94,9 @@ This project is intended for the general public visiting the Hall in-person.
 
 ## Concept Description
 
-To achieve our learning goal of helping visitors build scientific literacy, we must capture and engage their attention. This is particularly challenging because the Hall's displays are densely packed. Even a reasonably small number of visitors makes the space feel crowded.  
+To achieve our learning goal of helping visitors build scientific literacy, we must capture and engage their attention. This is particularly challenging because the Hall's displays are densely packed. Even a reasonably small number of visitors makes the space feel crowded.
 
-Therefore, rather than adding additional displays, we will use high-quality digital projection to make the Neanderthal diorama appear to change. In addition to saving space, this approach has the advantage of encouraging visitors to engage with the project without requiring them to download a mobile app or click through a kiosk menu. The following section, § Setup, explains this approach further.
-
-
+Therefore, instead of adding additional displays, we will use high-quality digital projection to make the Neanderthal diorama appear to change. In addition to saving space, this approach encourages visitors to engage with the project without needing to download a mobile app or navigate a kiosk menu. The following section,The following section, § Setup, explains this approach further.
 
 
 ## Setup
@@ -443,6 +441,7 @@ Thank you <u><em>very</em></u> much to following for their time and guidance:
 
 <details>
     <summary><b>Image Sources</b></summary>
+    <p>The websites were accessed in April and May 2024.</p>
     <ul>
         <li>
             <a href="/assets/img/msms-ne-album/diorama-photo-by-alyssa-1400.webp" target="_blank">Diorama</a> (the basis for all scenes) - Alyssa Cohen (Aug 2021)
@@ -465,7 +464,7 @@ Thank you <u><em>very</em></u> much to following for their time and guidance:
             <li>Screenshots from the iOS 17 Voice Memo app</li>
         </ul></li>
         <li>Opening scene assets <ul>
-            <li>Neanderthals' range - image & alt text: 
+            <li>Neanderthals' range - image and alt text: 
                 <a href="https://commons.wikimedia.org/wiki/File:Range_of_NeanderthalsAColoured.png" target="_blank">Nilenbert, Nicolas Perrault III</a> (Nov 2017)</li> 
             <li>Modern world map - <a href="https://www.surfertoday.com/environment/maps-of-the-world" target="_blank">SurferToday.com</a></li>
         </ul></li>
@@ -476,7 +475,7 @@ Thank you <u><em>very</em></u> much to following for their time and guidance:
         </ul></li>
         <li>Family scene assets (modified)<ul>
             <li>Baby in sling - <a href="https://www.lillebaby.com/cdn/shop/products/sling_nimbuscloud_0328_720x_9d01cfee-9123-4e8a-940c-16b2423a445d_1800x1800.jpg?v=1663630432">LÍLLÉbaby</a></li>
-            <li>Child - <a href="https://www.haaretz.com/archaeology/2018-11-04/ty-article-magazine/neanderthal-children-got-badly-sick-in-winter-study-shows/0000017f-da73-d432-a77f-df7ba97b0000">Haaretz</a></li>
+            <li>Child - <a href="https://www.haaretz.com/archaeology/2018-11-04/ty-article-magazine/neanderthal-children-got-badly-sick-in-winter-study-shows/0000017f-da73-d432-a77f-df7ba97b0000">Haaretz</a> (Nov 2018)</li>
         </ul></li>
         <li>Food scene assets (modified)<ul>
             <li>Basket - <a href="https://www.istockphoto.com/photo/braiding-basket-gm166521429-23702373">VladyslavDanilin on iStock</a></li>
@@ -484,19 +483,19 @@ Thank you <u><em>very</em></u> much to following for their time and guidance:
             <li>Fish - <a href="https://www.istockphoto.com/photo/european-bass-spigola-branzino-dicentrarchus-labrax-mediterranean-fish-gm1276836506-376225842">ItalianFoodProduction on iStock</a></li>
             <li>Grapes - <a href="https://www.istockphoto.com/photo/bunch-of-grapes-and-raisins-gm119680411-14843196">popovaphoto on iStock</a></li>
             <li>Nuts - <a href="https://www.istockphoto.com/photo/mix-nuts-with-wooden-bowl-gm617882672-107382411">Altayb on iStock</a></li>
-            <li>Tree stump - <a href="https://www.istockphoto.com/photo/beautiful-texture-of-old-tree-stump-table-top-on-white-background-gm1166542705-321380871">HAKINMHAN on iStock</a> </li>
+            <li>Tree stump - <a href="https://www.istockphoto.com/photo/beautiful-texture-of-old-tree-stump-table-top-on-white-background-gm1166542705-321380871">HAKINMHAN on iStock</a></li>
         </ul></li>
         <li>Recreation scene assets (modified)<ul>
             <li>Flute - <a href="https://www.britishmuseum.org/collection/object/Y_EA6385">British Museum</a></li>
-            <li>Flowers - <a href="https://www.istockphoto.com/photo/bunch-of-lavender-flowers-tied-with-a-rope-isolated-on-a-white-gm1332140077-415073233">igoriss on iStock</a> </li>
+            <li>Flowers - <a href="https://www.istockphoto.com/photo/bunch-of-lavender-flowers-tied-with-a-rope-isolated-on-a-white-gm1332140077-415073233">igoriss on iStock</a></li>
         </ul></li>
-        <li>Outro scene assets<ul>
-            <li>Analyzing skull - <a href="https://www.istockphoto.com/photo/science-professional-and-person-with-skull-in-hand-for-analysis-or-research-for-gm1713042839-539924609">Jacob Wackerhausen on iStock</a> (image & modified alt text)</li>
-            <li>DNA sequencing - <a href="https://www.istockphoto.com/photo/scientist-pipetting-sample-into-a-vial-for-dna-testing-gm1334095553-416349684">Cavan Images on iStock</a> (image & modified alt text)</li>
-            <li>Eagle with its hunter - <a href="https://www.istockphoto.com/photo/gold-eagle-resting-with-eye-patch-covered-beside-kazakh-eagle-hunter-at-bayan-olgii-gm2154717627-575571523">Edwin Tan on iStock</a> (image & modified alt text)</li>
-            <li>Family campfire - <a href="https://www.istockphoto.com/photo/multiracial-families-roasting-marshmallows-while-gathering-around-campfire-in-the-gm1773349119-546062631">Drazen Zigic on iStock</a> (image & modified alt text)</li>
-            <li>Hair braiding - <a href="https://www.istockphoto.com/photo/black-female-hairstylist-working-on-mixed-race-female-client-at-home-gm1952511355-557281193">AzmanL on iStock</a> (image & modified alt text)</li>
-            <li>Kids playing at home - <a href="https://www.istockphoto.com/photo/kids-playing-at-home-gm1440494365-480461075">FG Trade on iStock</a> (image & modified alt text)</li>
+        <li>Outro scene assets<ul> (image and alt text modified)
+            <li>Analyzing skull - <a href="https://www.istockphoto.com/photo/science-professional-and-person-with-skull-in-hand-for-analysis-or-research-for-gm1713042839-539924609">Jacob Wackerhausen on iStock</a></li>
+            <li>DNA sequencing - <a href="https://www.istockphoto.com/photo/scientist-pipetting-sample-into-a-vial-for-dna-testing-gm1334095553-416349684">Cavan Images on iStock</a></li>
+            <li>Eagle with its hunter - <a href="https://www.istockphoto.com/photo/gold-eagle-resting-with-eye-patch-covered-beside-kazakh-eagle-hunter-at-bayan-olgii-gm2154717627-575571523">Edwin Tan on iStock</a></li>
+            <li>Family campfire - <a href="https://www.istockphoto.com/photo/multiracial-families-roasting-marshmallows-while-gathering-around-campfire-in-the-gm1773349119-546062631">Drazen Zigic on iStock</a></li>
+            <li>Hair braiding - <a href="https://www.istockphoto.com/photo/black-female-hairstylist-working-on-mixed-race-female-client-at-home-gm1952511355-557281193">AzmanL on iStock</a></li>
+            <li>Kids playing at home - <a href="https://www.istockphoto.com/photo/kids-playing-at-home-gm1440494365-480461075">FG Trade on iStock</a></li>
         </ul></li>
     </ul>
 
