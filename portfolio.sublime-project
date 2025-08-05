@@ -1,0 +1,28 @@
+{
+    "build_systems":
+    [
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"/Users/rachelstein/.asdf/shims/python\" -u \"$file\""
+		}
+	],
+    "folders":
+    [
+		{
+			"folder_exclude_patterns":
+			[
+				".jekyll-cache",
+				".tweet-cache",
+				"_news",
+				"_posts",
+                "assets/jupyter",
+                "lighthouse_results",
+                "node_modules",
+                "readme_preview"
+			],
+			"path": "."
+		}
+	],
+}
