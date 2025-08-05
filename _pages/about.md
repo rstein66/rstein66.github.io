@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior software enginer
+subtitle: Software Enginer
 
 profile:
   align: right

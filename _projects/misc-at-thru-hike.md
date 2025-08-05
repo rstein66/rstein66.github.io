@@ -12,6 +12,9 @@ toc:
 ---
 
 <style>
+    li {
+        padding-bottom: 5px;
+    }
     blockquote {
         font-family: "Roboto Condensed", Tahoma, sans-serif;
         text-align: center; 
@@ -28,32 +31,41 @@ toc:
 
 > 🚧 **This page is under construction.** Thank you for your understanding.
 
-Below, the "My Hike" (left) tab discusses my experience. The other tab (on the right) briefly describes key A.T. jargon used on this page.
+Below, the "My Hike" (left) tab discusses my experience. The other tab (on the right) briefly describes key Appalachian Trail (A.T.) jargon used on this page. If you are unfamiliar with A.T., I suggest you first look at the jargon.  
 
 {% tabs group-name %}
 
-{% tab group-name My Hike %}
+{% tab group-name <b>My Hike</b> %}
 
-## My Trip: What & Why
+## **Why** did I hike?
 
-📌📌📌 TODO "Why"
+📌 TODO "Motivation"
+
+
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/misc-at-thru-hike/jessie-uinta.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/misc-at-thru-hike/jessie-uinta.jpg" alt="Kid backpacking, holding her stuffed animal" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/misc-at-thru-hike/swamp-turtle-drawing.jpg" alt="::ADD ALT TEXT!::" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/misc-at-thru-hike/swamp-turtle-drawing.jpg" alt="Ink drawing of a turtle carrying a tree house" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    ::ADD A CAPTION!::
+    Rachel's (and Jessie's — the polar bear) first backpacking trip in August 2002 in the Uinta Mountains, Utah (left). Ink drawing inspired by Rachel's trail name,  created by another thru-hiker (right).
 </div>
+
+📌 Why was my name "Swamp Turtle" 
+
+## **What** did I hike?
 
 > #### "A word of caution
 >
 >**A southbound thru-hike is recommended only for experienced and fit backpackers who are looking for an extreme physical challenge right at the start.** A southbound thru-hike starts with the most difficult climb on the entire A.T. (Katahdin), the most remote section of trail (100-mile wilderness), and the two most challenging states of the Trail (Maine and New Hampshire). Through 2017, fewer than 2,000 people had reported completion of the A.T. southbound." 
 > – <a href="https://appalachiantrail.org/explore/hike-the-a-t/thru-hiking/southbound/" target="_blank">ATC</a>
+
+### 📌 Why Southbound (SOBO)?
 
 
 <div class="row">
@@ -70,7 +82,7 @@ Below, the "My Hike" (left) tab discusses my experience. The other tab (on the r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/misc-at-thru-hike/mt-washington-caution-sign.jpg" alt="Yellow sign warning that 'THE AREA AHEAD HAS THE WORST WEATHER iN AMERICA.'" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/misc-at-thru-hike/mt-washington-caution-sign.jpg" alt="Yellow sign warning that 'THE AREA AHEAD HAS THE WORST WEATHER IN AMERICA.'" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/misc-at-thru-hike/milestone-springer-selfie.jpg" alt="Selfie of me shrugging in front of the small metal plaque marking the southern terminus" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -81,24 +93,29 @@ Below, the "My Hike" (left) tab discusses my experience. The other tab (on the r
 </div>
 <div class="caption">
     <div class="caption" style="text-align: left;">
-        Clockwise from top left:
-        <ul>
-            <li>TOP ROW: ::ADD A CAPTIONS!::</li>
+        <b>TOP ROW</b> (left to right):<ul>
+            <li>This sign marks Mount Katahdin's summit, which is the Trail's norther terminus. For NOBOs, it marks the culmination of months of hiking. NOBOs celebrating next to the sign is one of the Trail's most iconic images. In contrast, as a SOBO, it marked the <em>start</em> of my journey.</li>
+            <li></li>
+            <li>The <a href="https://appalachiantrail.org/our-work/about-us/contact-us/harpers-ferry-visitor-center" target="_blank">Appalachian Trail Visitor Center in Harpers Ferry, WV</a> is the symbolic (but not literal) halfway point. Thru-hikers stop in to get their photos taken. I was the one hundred and eighty-second SOBO (and one of the last) SOBO's to check-in that year.</li>
+        </ul>
+        <b>BOTTOM ROW</b> (left to right):<ul>
+            <li>Because going north is significantly more common, it was often signed accordingly. Here, for example, SOBO's are not warned of the danger until <em>afterwards</em>.</li>
+            <li>Unlike the northern terminus, the southern lacks a stunning view.</li>
+            <li>My certificate of completion. Someone who completes it is called a "2000-Miler" because the A.T.'s length slightly changes each year.</li>
         </ul>
     </div>
 </div>
+
+### 📌 "Smiles Not Miles"
+
+
 
 <hr>
 
 
 ## Physical Trail
 
-The A.T. covers about 2,200 mi. Before I hiked it, I did not appreciate how close you are to civilization. Even the famed [100-Mile Wilderness](https://thetrek.co/the-complete-hiker-trash-guide-to-the-100-mile-wilderness/) in Maine, the most remote section of the trail, wasn't all that remote. While there's little infrastructure, you pass by driveways to summer homes and lakes where families go for a day trip. Nor did I appreciate how different the trail itself could look. Some examples are shown below. 
-
-<!-- 📌 TODO 
-    Transition
-    also, more often blazed with NOBO's in mind 
--->
+The A.T. covers around 2,200 mi. Before I hiked it, I did not appreciate how close you are to civilization. Even the famed [100-Mile Wilderness](https://thetrek.co/the-complete-hiker-trash-guide-to-the-100-mile-wilderness/) in Maine, the most remote section of the trail, wasn't all that remote. While there's little infrastructure, you pass by driveways to summer homes and lakes where families go for a day trip. Nor did I appreciate how different the trail itself could look. Some examples are shown below. 
 
 See the ATC's section called ["How is the A.T. marked?"](https://appalachiantrail.org/explore/plan-and-prepare/hiking-basics/).
 
@@ -125,10 +142,10 @@ See the ATC's section called ["How is the A.T. marked?"](https://appalachiantrai
 <div class="caption" style="text-align: left;">
     Clockwise from top left:
     <ul>
-        <li>TOP ROW: Somewhere in North Carolina.</li>
+        <li><b>TOP ROW:</b> Somewhere in North Carolina.</li>
         <li><a href="https://www.dcr.virginia.gov/state-parks/grayson-highlands" target="_blank">Grayson Highlands [Virginia] State Park</a>, where wild ponies roam free.</li>
         <li>The <a href="https://en.wikipedia.org/wiki/Presidential_Range" target="_blank">Presidential [Mountain] Range</a> in New Hampshire.</li>
-        <li>BOTTOM ROW: <a href="https://maps.app.goo.gl/wW8udjL25fSQUMGn9" target="_blank">S. Main St</a> in Hanover, New Hampshire, the hometown of Dartmouth College. The image is from Google Street View. I added the star to draw attention to the white blaze.</li>
+        <li><b>BOTTOM ROW:</b> <a href="https://maps.app.goo.gl/wW8udjL25fSQUMGn9" target="_blank">South Main St</a> in Hanover, New Hampshire, the hometown of Dartmouth College. The image is from Google Street View. I added the star to draw attention to the white blaze.</li>
         <li>A rural highway in the South.</li>
     </ul>
 </div>
@@ -148,7 +165,7 @@ See the ATC's section called ["How is the A.T. marked?"](https://appalachiantrai
 
 
 
-{% tab group-name Appendix: Jargon %}
+{% tab group-name <b>Appendix: Jargon</b> %}
 
 <h2 data-toc-skip> Jargon </h2>
 
